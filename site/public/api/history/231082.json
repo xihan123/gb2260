@@ -1,0 +1,27 @@
+{
+  "code": "231082",
+  "records": [
+    {
+      "code": "231082",
+      "file": "areacodes/data/1990.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "密山市",
+      "parent_code": "231000",
+      "path": "黑龙江省/牡丹江市/密山市",
+      "revision": "1990",
+      "source": "areacodes"
+    },
+    {
+      "code": "231082",
+      "file": "areacodes/data/1991.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "密山市",
+      "parent_code": "231000",
+      "path": "黑龙江省/牡丹江市/密山市",
+      "revision": "1991",
+      "source": "areacodes"
+    }
+  ]
+}

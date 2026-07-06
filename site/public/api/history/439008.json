@@ -1,0 +1,27 @@
+{
+  "code": "439008",
+  "records": [
+    {
+      "code": "439008",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "浏阳市",
+      "parent_code": "430000",
+      "path": "湖南省/浏阳市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "439008",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "浏阳市",
+      "parent_code": "430000",
+      "path": "湖南省/浏阳市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

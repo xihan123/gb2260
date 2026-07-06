@@ -1,0 +1,16 @@
+{
+  "code": "321271",
+  "records": [
+    {
+      "code": "321271",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "泰州医药高新技术产业开发区",
+      "parent_code": "321200",
+      "path": "江苏省/泰州市/泰州医药高新技术产业开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

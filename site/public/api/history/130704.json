@@ -1,0 +1,137 @@
+{
+  "code": "130704",
+  "records": [
+    {
+      "code": "130704",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "茶坊区",
+      "parent_code": "130700",
+      "path": "河北省/张家口市/茶坊区",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "130704",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "茶坊区",
+      "parent_code": "130700",
+      "path": "河北省/张家口市/茶坊区",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "130704",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "茶坊区",
+      "parent_code": "130700",
+      "path": "河北省/张家口市/茶坊区",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "130704",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "茶坊区",
+      "parent_code": "130700",
+      "path": "河北省/张家口市/茶坊区",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "130704",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "茶坊区",
+      "parent_code": "130700",
+      "path": "河北省/张家口市/茶坊区",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "130704",
+      "file": "areacodes/data/1988.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "茶坊区",
+      "parent_code": "130700",
+      "path": "河北省/张家口市/茶坊区",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "code": "130704",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "茶坊区",
+      "parent_code": "130700",
+      "path": "河北省/张家口市/茶坊区",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "code": "130704",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "茶坊区",
+      "parent_code": "130700",
+      "path": "河北省/张家口市/茶坊区",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "code": "130704",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "茶坊区",
+      "parent_code": "130700",
+      "path": "河北省/张家口市/茶坊区",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "130704",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "茶坊区",
+      "parent_code": "130700",
+      "path": "河北省/张家口市/茶坊区",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "130704",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "茶坊区",
+      "parent_code": "130700",
+      "path": "河北省/张家口市/茶坊区",
+      "revision": "198712",
+      "source": "mca"
+    },
+    {
+      "code": "130704",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "茶坊区",
+      "parent_code": "130700",
+      "path": "河北省/张家口市/茶坊区",
+      "revision": "198812",
+      "source": "mca"
+    }
+  ]
+}

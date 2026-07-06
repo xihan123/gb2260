@@ -1,0 +1,60 @@
+{
+  "code": "432125",
+  "records": [
+    {
+      "code": "432125",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "攸县",
+      "parent_code": "432100",
+      "path": "湖南省/湘潭地区/攸县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "432125",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "攸县",
+      "parent_code": "432100",
+      "path": "湖南省/湘潭地区/攸县",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "432125",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "醴陵县",
+      "parent_code": "432100",
+      "path": "湖南省/湘潭地区/醴陵县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "432125",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "醴陵县",
+      "parent_code": "432100",
+      "path": "湖南省/湘潭地区/醴陵县",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "432125",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "醴陵县",
+      "parent_code": "432100",
+      "path": "湖南省/湘潭地区/醴陵县",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

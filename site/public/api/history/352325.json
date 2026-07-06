@@ -1,0 +1,60 @@
+{
+  "code": "352325",
+  "records": [
+    {
+      "code": "352325",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平潭县",
+      "parent_code": "352300",
+      "path": "福建省/莆田地区/平潭县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "352325",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平潭县",
+      "parent_code": "352300",
+      "path": "福建省/莆田地区/平潭县",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "352325",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "福清县",
+      "parent_code": "352300",
+      "path": "福建省/莆田地区/福清县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "352325",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "福清县",
+      "parent_code": "352300",
+      "path": "福建省/莆田地区/福清县",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "352325",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "福清县",
+      "parent_code": "352300",
+      "path": "福建省/莆田地区/福清县",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

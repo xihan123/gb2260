@@ -1,0 +1,16 @@
+{
+  "code": "150271",
+  "records": [
+    {
+      "code": "150271",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "包头稀土高新技术产业开发区",
+      "parent_code": "150200",
+      "path": "内蒙古自治区/包头市/包头稀土高新技术产业开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

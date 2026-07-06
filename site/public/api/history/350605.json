@@ -1,0 +1,60 @@
+{
+  "code": "350605",
+  "records": [
+    {
+      "code": "350605",
+      "file": "areacodes/data/2021.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "长泰区",
+      "parent_code": "350600",
+      "path": "福建省/漳州市/长泰区",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "code": "350605",
+      "file": "areacodes/data/2022.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "长泰区",
+      "parent_code": "350600",
+      "path": "福建省/漳州市/长泰区",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "code": "350605",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "长泰区",
+      "parent_code": "350600",
+      "path": "福建省/漳州市/长泰区",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "350605",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "长泰区",
+      "parent_code": "350600",
+      "path": "福建省/漳州市/长泰区",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "350605",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "长泰区",
+      "parent_code": "350600",
+      "path": "福建省/漳州市/长泰区",
+      "revision": "2025",
+      "source": "areacodes"
+    }
+  ]
+}

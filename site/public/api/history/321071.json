@@ -1,0 +1,16 @@
+{
+  "code": "321071",
+  "records": [
+    {
+      "code": "321071",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "扬州经济技术开发区",
+      "parent_code": "321000",
+      "path": "江苏省/扬州市/扬州经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

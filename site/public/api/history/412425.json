@@ -1,0 +1,60 @@
+{
+  "code": "412425",
+  "records": [
+    {
+      "code": "412425",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "中牟县",
+      "parent_code": "412400",
+      "path": "河南省/开封地区/中牟县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "412425",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "中牟县",
+      "parent_code": "412400",
+      "path": "河南省/开封地区/中牟县",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "412425",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "浚县",
+      "parent_code": "412400",
+      "path": "河南省/安阳地区/浚县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "412425",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "浚县",
+      "parent_code": "412400",
+      "path": "河南省/安阳地区/浚县",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "412425",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "浚县",
+      "parent_code": "412400",
+      "path": "河南省/安阳地区/浚县",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

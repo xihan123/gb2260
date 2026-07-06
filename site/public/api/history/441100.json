@@ -1,0 +1,27 @@
+{
+  "code": "441100",
+  "records": [
+    {
+      "code": "441100",
+      "file": "areacodes/data/1987.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "三亚市",
+      "parent_code": "440000",
+      "path": "广东省/三亚市",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "441100",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "三亚市",
+      "parent_code": "440000",
+      "path": "广东省/三亚市",
+      "revision": "198712",
+      "source": "mca"
+    }
+  ]
+}

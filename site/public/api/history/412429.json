@@ -1,0 +1,27 @@
+{
+  "code": "412429",
+  "records": [
+    {
+      "code": "412429",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "密县",
+      "parent_code": "412400",
+      "path": "河南省/开封地区/密县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "412429",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "密县",
+      "parent_code": "412400",
+      "path": "河南省/开封地区/密县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

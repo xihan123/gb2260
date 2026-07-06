@@ -1,0 +1,16 @@
+{
+  "code": "130172",
+  "records": [
+    {
+      "code": "130172",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "石家庄循环化工园区",
+      "parent_code": "130100",
+      "path": "河北省/石家庄市/石家庄循环化工园区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "442732",
+  "records": [
+    {
+      "code": "442732",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "高明县",
+      "parent_code": "442700",
+      "path": "广东省/佛山地区/高明县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "442732",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "高明县",
+      "parent_code": "442700",
+      "path": "广东省/佛山地区/高明县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

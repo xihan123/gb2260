@@ -1,0 +1,126 @@
+{
+  "code": "340704",
+  "records": [
+    {
+      "code": "340704",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "铜山区",
+      "parent_code": "340700",
+      "path": "安徽省/铜陵市/铜山区",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "340704",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "铜山区",
+      "parent_code": "340700",
+      "path": "安徽省/铜陵市/铜山区",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "340704",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "铜山区",
+      "parent_code": "340700",
+      "path": "安徽省/铜陵市/铜山区",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "340704",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "铜山区",
+      "parent_code": "340700",
+      "path": "安徽省/铜陵市/铜山区",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "340704",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "铜山区",
+      "parent_code": "340700",
+      "path": "安徽省/铜陵市/铜山区",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "340704",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "铜山区",
+      "parent_code": "340700",
+      "path": "安徽省/铜陵市/铜山区",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "340704",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "铜山区",
+      "parent_code": "340700",
+      "path": "安徽省/铜陵市/铜山区",
+      "revision": "198212",
+      "source": "mca"
+    },
+    {
+      "code": "340704",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "铜山区",
+      "parent_code": "340700",
+      "path": "安徽省/铜陵市/铜山区",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "code": "340704",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "铜山区",
+      "parent_code": "340700",
+      "path": "安徽省/铜陵市/铜山区",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "code": "340704",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "铜山区",
+      "parent_code": "340700",
+      "path": "安徽省/铜陵市/铜山区",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "340704",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "铜山区",
+      "parent_code": "340700",
+      "path": "安徽省/铜陵市/铜山区",
+      "revision": "198612",
+      "source": "mca"
+    }
+  ]
+}

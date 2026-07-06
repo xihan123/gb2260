@@ -1,0 +1,16 @@
+{
+  "code": "441282",
+  "records": [
+    {
+      "code": "441282",
+      "file": "areacodes/data/1993.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "罗定市",
+      "parent_code": "441200",
+      "path": "广东省/肇庆市/罗定市",
+      "revision": "1993",
+      "source": "areacodes"
+    }
+  ]
+}

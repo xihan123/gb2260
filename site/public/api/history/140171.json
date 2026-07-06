@@ -1,0 +1,16 @@
+{
+  "code": "140171",
+  "records": [
+    {
+      "code": "140171",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "山西转型综合改革示范区",
+      "parent_code": "140100",
+      "path": "山西省/太原市/山西转型综合改革示范区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "410173",
+  "records": [
+    {
+      "code": "410173",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郑州航空港经济综合实验区",
+      "parent_code": "410100",
+      "path": "河南省/郑州市/郑州航空港经济综合实验区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

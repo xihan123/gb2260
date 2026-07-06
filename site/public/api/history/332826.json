@@ -1,0 +1,16 @@
+{
+  "code": "332826",
+  "records": [
+    {
+      "code": "332826",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平阳县",
+      "parent_code": "332800",
+      "path": "浙江省/温州地区/平阳县",
+      "revision": "198012",
+      "source": "mca"
+    }
+  ]
+}

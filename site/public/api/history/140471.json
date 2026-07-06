@@ -1,0 +1,16 @@
+{
+  "code": "140471",
+  "records": [
+    {
+      "code": "140471",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "山西长治高新技术产业园区",
+      "parent_code": "140400",
+      "path": "山西省/长治市/山西长治高新技术产业园区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

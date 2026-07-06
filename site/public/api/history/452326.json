@@ -1,0 +1,16 @@
+{
+  "code": "452326",
+  "records": [
+    {
+      "code": "452326",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "阳朔县",
+      "parent_code": "452300",
+      "path": "广西壮族自治区/桂林地区/阳朔县",
+      "revision": "198012",
+      "source": "mca"
+    }
+  ]
+}

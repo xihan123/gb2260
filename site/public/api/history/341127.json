@@ -1,0 +1,49 @@
+{
+  "code": "341127",
+  "records": [
+    {
+      "code": "341127",
+      "file": "areacodes/data/1992.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "嘉山县",
+      "parent_code": "341100",
+      "path": "安徽省/滁州市/嘉山县",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "code": "341127",
+      "file": "areacodes/data/1993.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "嘉山县",
+      "parent_code": "341100",
+      "path": "安徽省/滁州市/嘉山县",
+      "revision": "1993",
+      "source": "areacodes"
+    },
+    {
+      "code": "341127",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "嘉山县",
+      "parent_code": "341100",
+      "path": "安徽省/滁州市/嘉山县",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "341127",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "嘉山县",
+      "parent_code": "341100",
+      "path": "安徽省/滁州市/嘉山县",
+      "revision": "199312",
+      "source": "mca"
+    }
+  ]
+}

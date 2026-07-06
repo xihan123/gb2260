@@ -1,0 +1,16 @@
+{
+  "code": "140671",
+  "records": [
+    {
+      "code": "140671",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "山西朔州经济开发区",
+      "parent_code": "140600",
+      "path": "山西省/朔州市/山西朔州经济开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

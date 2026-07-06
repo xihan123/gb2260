@@ -1,0 +1,71 @@
+{
+  "code": "219003",
+  "records": [
+    {
+      "code": "219003",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "锦西市",
+      "parent_code": "210000",
+      "path": "辽宁省/锦西市",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "219003",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "锦西市",
+      "parent_code": "210000",
+      "path": "辽宁省/锦西市",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "219003",
+      "file": "areacodes/data/1988.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "锦西市",
+      "parent_code": "210000",
+      "path": "辽宁省/锦西市",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "code": "219003",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "锦西市",
+      "parent_code": "210000",
+      "path": "辽宁省/锦西市",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "219003",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "锦西市",
+      "parent_code": "210000",
+      "path": "辽宁省/锦西市",
+      "revision": "198712",
+      "source": "mca"
+    },
+    {
+      "code": "219003",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "锦西市",
+      "parent_code": "210000",
+      "path": "辽宁省/锦西市",
+      "revision": "198812",
+      "source": "mca"
+    }
+  ]
+}

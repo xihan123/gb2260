@@ -1,0 +1,38 @@
+{
+  "code": "369002",
+  "records": [
+    {
+      "code": "369002",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "乐平市",
+      "parent_code": "360000",
+      "path": "江西省/乐平市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "369002",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "乐平市",
+      "parent_code": "360000",
+      "path": "江西省/乐平市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "369002",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "乐平市",
+      "parent_code": "360000",
+      "path": "江西省/乐平市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

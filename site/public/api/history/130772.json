@@ -1,0 +1,16 @@
+{
+  "code": "130772",
+  "records": [
+    {
+      "code": "130772",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "张家口市察北管理区",
+      "parent_code": "130700",
+      "path": "河北省/张家口市/张家口市察北管理区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

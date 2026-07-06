@@ -1,0 +1,16 @@
+{
+  "code": "130273",
+  "records": [
+    {
+      "code": "130273",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "唐山高新技术产业开发区",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/唐山高新技术产业开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

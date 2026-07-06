@@ -1,0 +1,16 @@
+{
+  "code": "411371",
+  "records": [
+    {
+      "code": "411371",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南阳高新技术产业开发区",
+      "parent_code": "411300",
+      "path": "河南省/南阳市/南阳高新技术产业开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

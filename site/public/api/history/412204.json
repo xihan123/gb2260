@@ -1,0 +1,16 @@
+{
+  "code": "412204",
+  "records": [
+    {
+      "code": "412204",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "北站区",
+      "parent_code": "412200",
+      "path": "河南省/新乡地区/北站区",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

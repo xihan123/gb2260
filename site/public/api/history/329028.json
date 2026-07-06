@@ -1,0 +1,16 @@
+{
+  "code": "329028",
+  "records": [
+    {
+      "code": "329028",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "姜堰市",
+      "parent_code": "320000",
+      "path": "江苏省/姜堰市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

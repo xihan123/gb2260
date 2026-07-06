@@ -1,0 +1,16 @@
+{
+  "code": "411372",
+  "records": [
+    {
+      "code": "411372",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南阳市城乡一体化示范区",
+      "parent_code": "411300",
+      "path": "河南省/南阳市/南阳市城乡一体化示范区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

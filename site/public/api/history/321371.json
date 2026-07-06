@@ -1,0 +1,16 @@
+{
+  "code": "321371",
+  "records": [
+    {
+      "code": "321371",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宿迁经济技术开发区",
+      "parent_code": "321300",
+      "path": "江苏省/宿迁市/宿迁经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

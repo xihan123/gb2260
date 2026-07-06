@@ -1,0 +1,16 @@
+{
+  "code": "442132",
+  "records": [
+    {
+      "code": "442132",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "琼中黎族苗族自治县",
+      "parent_code": "442100",
+      "path": "广东省/海南行政区/琼中黎族苗族自治县",
+      "revision": "1987",
+      "source": "areacodes"
+    }
+  ]
+}

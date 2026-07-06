@@ -1,0 +1,16 @@
+{
+  "code": "419017",
+  "records": [
+    {
+      "code": "419017",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新郑市",
+      "parent_code": "410000",
+      "path": "河南省/新郑市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

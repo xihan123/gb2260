@@ -1,0 +1,60 @@
+{
+  "code": "532302",
+  "records": [
+    {
+      "code": "532302",
+      "file": "areacodes/data/2021.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "禄丰市",
+      "parent_code": "532300",
+      "path": "云南省/楚雄彝族自治州/禄丰市",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "code": "532302",
+      "file": "areacodes/data/2022.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "禄丰市",
+      "parent_code": "532300",
+      "path": "云南省/楚雄彝族自治州/禄丰市",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "code": "532302",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "禄丰市",
+      "parent_code": "532300",
+      "path": "云南省/楚雄彝族自治州/禄丰市",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "532302",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "禄丰市",
+      "parent_code": "532300",
+      "path": "云南省/楚雄彝族自治州/禄丰市",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "532302",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "禄丰市",
+      "parent_code": "532300",
+      "path": "云南省/楚雄彝族自治州/禄丰市",
+      "revision": "2025",
+      "source": "areacodes"
+    }
+  ]
+}

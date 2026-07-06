@@ -1,0 +1,27 @@
+{
+  "code": "222102",
+  "records": [
+    {
+      "code": "222102",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "辽源市",
+      "parent_code": "222100",
+      "path": "吉林省/四平地区/辽源市",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "222102",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "辽源市",
+      "parent_code": "222100",
+      "path": "吉林省/四平地区/辽源市",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

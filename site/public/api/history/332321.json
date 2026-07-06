@@ -1,0 +1,38 @@
+{
+  "code": "332321",
+  "records": [
+    {
+      "code": "332321",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "上虞县",
+      "parent_code": "332300",
+      "path": "浙江省/绍兴地区/上虞县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "332321",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "上虞县",
+      "parent_code": "332300",
+      "path": "浙江省/绍兴地区/上虞县",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "332321",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "绍兴县",
+      "parent_code": "332300",
+      "path": "浙江省/绍兴地区/绍兴县",
+      "revision": "198012",
+      "source": "mca"
+    }
+  ]
+}

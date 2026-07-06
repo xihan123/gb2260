@@ -1,0 +1,82 @@
+{
+  "code": "510282",
+  "records": [
+    {
+      "code": "510282",
+      "file": "areacodes/data/1992.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "江津市",
+      "parent_code": "510200",
+      "path": "四川省/重庆市/江津市",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "code": "510282",
+      "file": "areacodes/data/1993.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "江津市",
+      "parent_code": "510200",
+      "path": "四川省/重庆市/江津市",
+      "revision": "1993",
+      "source": "areacodes"
+    },
+    {
+      "code": "510282",
+      "file": "areacodes/data/1994.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "江津市",
+      "parent_code": "510200",
+      "path": "四川省/重庆市/江津市",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "510282",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "江津市",
+      "parent_code": "510200",
+      "path": "四川省/重庆市/江津市",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "510282",
+      "file": "areacodes/data/1996.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "江津市",
+      "parent_code": "510200",
+      "path": "四川省/重庆市/江津市",
+      "revision": "1996",
+      "source": "areacodes"
+    },
+    {
+      "code": "510282",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "合川市",
+      "parent_code": "510200",
+      "path": "四川省/重庆市/合川市",
+      "revision": "199512",
+      "source": "mca"
+    },
+    {
+      "code": "510282",
+      "file": "gb2260/mca/199612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "合川市",
+      "parent_code": "510200",
+      "path": "四川省/重庆市/合川市",
+      "revision": "199612",
+      "source": "mca"
+    }
+  ]
+}

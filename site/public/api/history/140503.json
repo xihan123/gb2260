@@ -1,0 +1,126 @@
+{
+  "code": "140503",
+  "records": [
+    {
+      "code": "140503",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郊区",
+      "parent_code": "140500",
+      "path": "山西省/晋城市/郊区",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "140503",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郊区",
+      "parent_code": "140500",
+      "path": "山西省/晋城市/郊区",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "140503",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郊区",
+      "parent_code": "140500",
+      "path": "山西省/晋城市/郊区",
+      "revision": "198712",
+      "source": "mca"
+    },
+    {
+      "code": "140503",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郊区",
+      "parent_code": "140500",
+      "path": "山西省/晋城市/郊区",
+      "revision": "198812",
+      "source": "mca"
+    },
+    {
+      "code": "140503",
+      "file": "gb2260/mca/198912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郊区",
+      "parent_code": "140500",
+      "path": "山西省/晋城市/郊区",
+      "revision": "198912",
+      "source": "mca"
+    },
+    {
+      "code": "140503",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郊区",
+      "parent_code": "140500",
+      "path": "山西省/晋城市/郊区",
+      "revision": "199012",
+      "source": "mca"
+    },
+    {
+      "code": "140503",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郊区",
+      "parent_code": "140500",
+      "path": "山西省/晋城市/郊区",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "code": "140503",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郊区",
+      "parent_code": "140500",
+      "path": "山西省/晋城市/郊区",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "140503",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郊区",
+      "parent_code": "140500",
+      "path": "山西省/晋城市/郊区",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "140503",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郊区",
+      "parent_code": "140500",
+      "path": "山西省/晋城市/郊区",
+      "revision": "199412",
+      "source": "mca"
+    },
+    {
+      "code": "140503",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郊区",
+      "parent_code": "140500",
+      "path": "山西省/晋城市/郊区",
+      "revision": "199512",
+      "source": "mca"
+    }
+  ]
+}

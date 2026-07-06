@@ -1,0 +1,16 @@
+{
+  "code": "139015",
+  "records": [
+    {
+      "code": "139015",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "定州市",
+      "parent_code": "130000",
+      "path": "河北省/定州市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

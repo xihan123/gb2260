@@ -1,0 +1,1508 @@
+{
+  "plates": [
+    {
+      "plate_code": "京[A-Z]",
+      "region": "北京市"
+    },
+    {
+      "plate_code": "津[A-Z]",
+      "region": "天津市"
+    },
+    {
+      "plate_code": "冀A",
+      "region": "河北省石家庄市"
+    },
+    {
+      "plate_code": "冀B",
+      "region": "河北省唐山市"
+    },
+    {
+      "plate_code": "冀C",
+      "region": "河北省秦皇岛市"
+    },
+    {
+      "plate_code": "冀D",
+      "region": "河北省邯郸市"
+    },
+    {
+      "plate_code": "冀E",
+      "region": "河北省邢台市"
+    },
+    {
+      "plate_code": "冀F",
+      "region": "河北省保定市"
+    },
+    {
+      "plate_code": "冀G",
+      "region": "河北省张家口市"
+    },
+    {
+      "plate_code": "冀H",
+      "region": "河北省承德市"
+    },
+    {
+      "plate_code": "冀J",
+      "region": "河北省沧州市"
+    },
+    {
+      "plate_code": "冀O",
+      "region": "河北省公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "冀R",
+      "region": "河北省廊坊市"
+    },
+    {
+      "plate_code": "冀T",
+      "region": "河北省衡水市"
+    },
+    {
+      "plate_code": "晋A",
+      "region": "山西省太原市"
+    },
+    {
+      "plate_code": "晋B",
+      "region": "山西省大同市"
+    },
+    {
+      "plate_code": "晋C",
+      "region": "山西省阳泉市"
+    },
+    {
+      "plate_code": "晋D",
+      "region": "山西省长治市"
+    },
+    {
+      "plate_code": "晋E",
+      "region": "山西省晋城市"
+    },
+    {
+      "plate_code": "晋F",
+      "region": "山西省朔州市"
+    },
+    {
+      "plate_code": "晋H",
+      "region": "山西省忻州市"
+    },
+    {
+      "plate_code": "晋J",
+      "region": "山西省吕梁市"
+    },
+    {
+      "plate_code": "晋K",
+      "region": "山西省晋中市"
+    },
+    {
+      "plate_code": "晋L",
+      "region": "山西省临汾市"
+    },
+    {
+      "plate_code": "晋M",
+      "region": "山西省运城市"
+    },
+    {
+      "plate_code": "晋O",
+      "region": "山西省公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "蒙A",
+      "region": "内蒙古自治区呼和浩特市"
+    },
+    {
+      "plate_code": "蒙B",
+      "region": "内蒙古自治区包头市"
+    },
+    {
+      "plate_code": "蒙C",
+      "region": "内蒙古自治区乌海市"
+    },
+    {
+      "plate_code": "蒙D",
+      "region": "内蒙古自治区赤峰市"
+    },
+    {
+      "plate_code": "蒙E",
+      "region": "内蒙古自治区呼伦贝尔市"
+    },
+    {
+      "plate_code": "蒙F",
+      "region": "内蒙古自治区兴安盟"
+    },
+    {
+      "plate_code": "蒙G",
+      "region": "内蒙古自治区通辽市"
+    },
+    {
+      "plate_code": "蒙H",
+      "region": "内蒙古自治区锡林郭勒盟"
+    },
+    {
+      "plate_code": "蒙J",
+      "region": "内蒙古自治区乌兰察布市"
+    },
+    {
+      "plate_code": "蒙K",
+      "region": "内蒙古自治区鄂尔多斯市"
+    },
+    {
+      "plate_code": "蒙L",
+      "region": "内蒙古自治区巴彦淖尔市"
+    },
+    {
+      "plate_code": "蒙M",
+      "region": "内蒙古自治区阿拉善盟"
+    },
+    {
+      "plate_code": "蒙O",
+      "region": "内蒙古自治区公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "辽A",
+      "region": "辽宁省沈阳市"
+    },
+    {
+      "plate_code": "辽B",
+      "region": "辽宁省大连市"
+    },
+    {
+      "plate_code": "辽C",
+      "region": "辽宁省鞍山市"
+    },
+    {
+      "plate_code": "辽D",
+      "region": "辽宁省抚顺市"
+    },
+    {
+      "plate_code": "辽E",
+      "region": "辽宁省本溪市"
+    },
+    {
+      "plate_code": "辽F",
+      "region": "辽宁省丹东市"
+    },
+    {
+      "plate_code": "辽G",
+      "region": "辽宁省锦州市"
+    },
+    {
+      "plate_code": "辽H",
+      "region": "辽宁省营口市"
+    },
+    {
+      "plate_code": "辽J",
+      "region": "辽宁省阜新市"
+    },
+    {
+      "plate_code": "辽K",
+      "region": "辽宁省辽阳市"
+    },
+    {
+      "plate_code": "辽L",
+      "region": "辽宁省盘锦市"
+    },
+    {
+      "plate_code": "辽M",
+      "region": "辽宁省铁岭市"
+    },
+    {
+      "plate_code": "辽N",
+      "region": "辽宁省朝阳市"
+    },
+    {
+      "plate_code": "辽O",
+      "region": "辽宁省公安厅交通安全管理局车辆管理所"
+    },
+    {
+      "plate_code": "辽P",
+      "region": "辽宁省葫芦岛市"
+    },
+    {
+      "plate_code": "吉A",
+      "region": "吉林省长春市"
+    },
+    {
+      "plate_code": "吉B",
+      "region": "吉林省吉林市"
+    },
+    {
+      "plate_code": "吉C",
+      "region": "吉林省四平市"
+    },
+    {
+      "plate_code": "吉D",
+      "region": "吉林省辽源市"
+    },
+    {
+      "plate_code": "吉E",
+      "region": "吉林省通化市"
+    },
+    {
+      "plate_code": "吉F",
+      "region": "吉林省白山市"
+    },
+    {
+      "plate_code": "吉G",
+      "region": "吉林省白城市"
+    },
+    {
+      "plate_code": "吉H",
+      "region": "吉林省延边朝鲜族自治州"
+    },
+    {
+      "plate_code": "吉J",
+      "region": "吉林省松原市"
+    },
+    {
+      "plate_code": "吉K",
+      "region": "吉林省公安厅交通警察总队长白山保护开发区车辆管理所"
+    },
+    {
+      "plate_code": "吉O",
+      "region": "吉林省公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "黑[AL]",
+      "region": "黑龙江省哈尔滨市"
+    },
+    {
+      "plate_code": "黑B",
+      "region": "黑龙江省齐齐哈尔市"
+    },
+    {
+      "plate_code": "黑C",
+      "region": "黑龙江省牡丹江市"
+    },
+    {
+      "plate_code": "黑D",
+      "region": "黑龙江省佳木斯市"
+    },
+    {
+      "plate_code": "黑E",
+      "region": "黑龙江省大庆市"
+    },
+    {
+      "plate_code": "黑F",
+      "region": "黑龙江省伊春市"
+    },
+    {
+      "plate_code": "黑G",
+      "region": "黑龙江省鸡西市"
+    },
+    {
+      "plate_code": "黑H",
+      "region": "黑龙江省鹤岗市"
+    },
+    {
+      "plate_code": "黑J",
+      "region": "黑龙江省双鸭山市"
+    },
+    {
+      "plate_code": "黑K",
+      "region": "黑龙江省七台河市"
+    },
+    {
+      "plate_code": "黑M",
+      "region": "黑龙江省绥化市"
+    },
+    {
+      "plate_code": "黑N",
+      "region": "黑龙江省黑河市"
+    },
+    {
+      "plate_code": "黑O",
+      "region": "黑龙江省公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "黑P",
+      "region": "黑龙江省大兴安岭地区"
+    },
+    {
+      "plate_code": "黑R",
+      "region": "黑龙江省垦区公安局交通警察支队车辆管理所"
+    },
+    {
+      "plate_code": "沪[A-Z]",
+      "region": "上海市"
+    },
+    {
+      "plate_code": "苏A",
+      "region": "江苏省南京市"
+    },
+    {
+      "plate_code": "苏B",
+      "region": "江苏省无锡市"
+    },
+    {
+      "plate_code": "苏C",
+      "region": "江苏省徐州市"
+    },
+    {
+      "plate_code": "苏D",
+      "region": "江苏省常州市"
+    },
+    {
+      "plate_code": "苏E",
+      "region": "江苏省苏州市"
+    },
+    {
+      "plate_code": "苏F",
+      "region": "江苏省南通市"
+    },
+    {
+      "plate_code": "苏G",
+      "region": "江苏省连云港市"
+    },
+    {
+      "plate_code": "苏H",
+      "region": "江苏省淮安市"
+    },
+    {
+      "plate_code": "苏J",
+      "region": "江苏省盐城市"
+    },
+    {
+      "plate_code": "苏K",
+      "region": "江苏省扬州市"
+    },
+    {
+      "plate_code": "苏L",
+      "region": "江苏省镇江市"
+    },
+    {
+      "plate_code": "苏M",
+      "region": "江苏省泰州市"
+    },
+    {
+      "plate_code": "苏N",
+      "region": "江苏省宿迁市"
+    },
+    {
+      "plate_code": "苏O",
+      "region": "江苏省公安厅交通警察总队车辆管理所"
+    },
+    {
+      "plate_code": "浙A",
+      "region": "浙江省杭州市"
+    },
+    {
+      "plate_code": "浙B",
+      "region": "浙江省宁波市"
+    },
+    {
+      "plate_code": "浙C",
+      "region": "浙江省温州市"
+    },
+    {
+      "plate_code": "浙D",
+      "region": "浙江省绍兴市"
+    },
+    {
+      "plate_code": "浙E",
+      "region": "浙江省湖州市"
+    },
+    {
+      "plate_code": "浙F",
+      "region": "浙江省嘉兴市"
+    },
+    {
+      "plate_code": "浙G",
+      "region": "浙江省金华市"
+    },
+    {
+      "plate_code": "浙H",
+      "region": "浙江省衢州市"
+    },
+    {
+      "plate_code": "浙J",
+      "region": "浙江省台州市"
+    },
+    {
+      "plate_code": "浙K",
+      "region": "浙江省丽水市"
+    },
+    {
+      "plate_code": "浙L",
+      "region": "浙江省舟山市"
+    },
+    {
+      "plate_code": "浙O",
+      "region": "浙江省公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "皖A",
+      "region": "安徽省合肥市"
+    },
+    {
+      "plate_code": "皖B",
+      "region": "安徽省芜湖市"
+    },
+    {
+      "plate_code": "皖C",
+      "region": "安徽省蚌埠市"
+    },
+    {
+      "plate_code": "皖D",
+      "region": "安徽省淮南市"
+    },
+    {
+      "plate_code": "皖E",
+      "region": "安徽省马鞍山市"
+    },
+    {
+      "plate_code": "皖F",
+      "region": "安徽省淮北市"
+    },
+    {
+      "plate_code": "皖G",
+      "region": "安徽省铜陵市"
+    },
+    {
+      "plate_code": "皖H",
+      "region": "安徽省安庆市"
+    },
+    {
+      "plate_code": "皖J",
+      "region": "安徽省黄山市"
+    },
+    {
+      "plate_code": "皖K",
+      "region": "安徽省阜阳市"
+    },
+    {
+      "plate_code": "皖L",
+      "region": "安徽省宿州市"
+    },
+    {
+      "plate_code": "皖M",
+      "region": "安徽省滁州市"
+    },
+    {
+      "plate_code": "皖N",
+      "region": "安徽省六安市"
+    },
+    {
+      "plate_code": "皖O",
+      "region": "安徽省公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "皖P",
+      "region": "安徽省宣城市"
+    },
+    {
+      "plate_code": "皖R",
+      "region": "安徽省池州市"
+    },
+    {
+      "plate_code": "皖S",
+      "region": "安徽省亳州市"
+    },
+    {
+      "plate_code": "闽[AK]",
+      "region": "福建省福州市"
+    },
+    {
+      "plate_code": "闽B",
+      "region": "福建省莆田市"
+    },
+    {
+      "plate_code": "闽C",
+      "region": "福建省泉州市"
+    },
+    {
+      "plate_code": "闽D",
+      "region": "福建省厦门市"
+    },
+    {
+      "plate_code": "闽E",
+      "region": "福建省漳州市"
+    },
+    {
+      "plate_code": "闽F",
+      "region": "福建省龙岩市"
+    },
+    {
+      "plate_code": "闽G",
+      "region": "福建省三明市"
+    },
+    {
+      "plate_code": "闽H",
+      "region": "福建省南平市"
+    },
+    {
+      "plate_code": "闽J",
+      "region": "福建省宁德市"
+    },
+    {
+      "plate_code": "闽O",
+      "region": "福建省公安厅交通警察总队车辆管理所"
+    },
+    {
+      "plate_code": "赣[AM]",
+      "region": "江西省南昌市"
+    },
+    {
+      "plate_code": "赣B",
+      "region": "江西省赣州市"
+    },
+    {
+      "plate_code": "赣C",
+      "region": "江西省宜春市"
+    },
+    {
+      "plate_code": "赣D",
+      "region": "江西省吉安市"
+    },
+    {
+      "plate_code": "赣E",
+      "region": "江西省上饶市"
+    },
+    {
+      "plate_code": "赣F",
+      "region": "江西省抚州市"
+    },
+    {
+      "plate_code": "赣G",
+      "region": "江西省九江市"
+    },
+    {
+      "plate_code": "赣H",
+      "region": "江西省景德镇市"
+    },
+    {
+      "plate_code": "赣J",
+      "region": "江西省萍乡市"
+    },
+    {
+      "plate_code": "赣K",
+      "region": "江西省新余市"
+    },
+    {
+      "plate_code": "赣L",
+      "region": "江西省鹰潭市"
+    },
+    {
+      "plate_code": "赣O",
+      "region": "江西省公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "鲁[AS]",
+      "region": "山东省济南市"
+    },
+    {
+      "plate_code": "鲁[BU]",
+      "region": "山东省青岛市"
+    },
+    {
+      "plate_code": "鲁C",
+      "region": "山东省淄博市"
+    },
+    {
+      "plate_code": "鲁D",
+      "region": "山东省枣庄市"
+    },
+    {
+      "plate_code": "鲁E",
+      "region": "山东省东营市"
+    },
+    {
+      "plate_code": "鲁[FY]",
+      "region": "山东省烟台市"
+    },
+    {
+      "plate_code": "鲁[GV]",
+      "region": "山东省潍坊市"
+    },
+    {
+      "plate_code": "鲁H",
+      "region": "山东省济宁市"
+    },
+    {
+      "plate_code": "鲁J",
+      "region": "山东省泰安市"
+    },
+    {
+      "plate_code": "鲁K",
+      "region": "山东省威海市"
+    },
+    {
+      "plate_code": "鲁L",
+      "region": "山东省日照市"
+    },
+    {
+      "plate_code": "鲁M",
+      "region": "山东省滨州市"
+    },
+    {
+      "plate_code": "鲁N",
+      "region": "山东省德州市"
+    },
+    {
+      "plate_code": "鲁[OW]",
+      "region": "山东省公安厅交通警察总队车辆管理所"
+    },
+    {
+      "plate_code": "鲁P",
+      "region": "山东省聊城市"
+    },
+    {
+      "plate_code": "鲁Q",
+      "region": "山东省临沂市"
+    },
+    {
+      "plate_code": "鲁R",
+      "region": "山东省菏泽市"
+    },
+    {
+      "plate_code": "豫A",
+      "region": "河南省郑州市"
+    },
+    {
+      "plate_code": "豫B",
+      "region": "河南省开封市"
+    },
+    {
+      "plate_code": "豫C",
+      "region": "河南省洛阳市"
+    },
+    {
+      "plate_code": "豫D",
+      "region": "河南省平顶山市"
+    },
+    {
+      "plate_code": "豫E",
+      "region": "河南省安阳市"
+    },
+    {
+      "plate_code": "豫F",
+      "region": "河南省鹤壁市"
+    },
+    {
+      "plate_code": "豫G",
+      "region": "河南省新乡市"
+    },
+    {
+      "plate_code": "豫H",
+      "region": "河南省焦作市"
+    },
+    {
+      "plate_code": "豫J",
+      "region": "河南省濮阳市"
+    },
+    {
+      "plate_code": "豫K",
+      "region": "河南省许昌市"
+    },
+    {
+      "plate_code": "豫L",
+      "region": "河南省漯河市"
+    },
+    {
+      "plate_code": "豫M",
+      "region": "河南省三门峡市"
+    },
+    {
+      "plate_code": "豫N",
+      "region": "河南省商丘市"
+    },
+    {
+      "plate_code": "豫O",
+      "region": "河南省公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "豫P",
+      "region": "河南省周口市"
+    },
+    {
+      "plate_code": "豫Q",
+      "region": "河南省驻马店市"
+    },
+    {
+      "plate_code": "豫R",
+      "region": "河南省南阳市"
+    },
+    {
+      "plate_code": "豫S",
+      "region": "河南省信阳市"
+    },
+    {
+      "plate_code": "豫U",
+      "region": "河南省济源市"
+    },
+    {
+      "plate_code": "鄂A",
+      "region": "湖北省武汉市"
+    },
+    {
+      "plate_code": "鄂B",
+      "region": "湖北省黄石市"
+    },
+    {
+      "plate_code": "鄂C",
+      "region": "湖北省十堰市"
+    },
+    {
+      "plate_code": "鄂D",
+      "region": "湖北省荆州市"
+    },
+    {
+      "plate_code": "鄂E",
+      "region": "湖北省宜昌市"
+    },
+    {
+      "plate_code": "鄂F",
+      "region": "湖北省襄阳市"
+    },
+    {
+      "plate_code": "鄂G",
+      "region": "湖北省鄂州市"
+    },
+    {
+      "plate_code": "鄂H",
+      "region": "湖北省荆门市"
+    },
+    {
+      "plate_code": "鄂J",
+      "region": "湖北省黄冈市"
+    },
+    {
+      "plate_code": "鄂K",
+      "region": "湖北省孝感市"
+    },
+    {
+      "plate_code": "鄂L",
+      "region": "湖北省咸宁市"
+    },
+    {
+      "plate_code": "鄂M",
+      "region": "湖北省仙桃市"
+    },
+    {
+      "plate_code": "鄂N",
+      "region": "湖北省潜江市"
+    },
+    {
+      "plate_code": "鄂O",
+      "region": "湖北省公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "鄂P",
+      "region": "湖北省神农架林区"
+    },
+    {
+      "plate_code": "鄂Q",
+      "region": "湖北省恩施土家族苗族自治州"
+    },
+    {
+      "plate_code": "鄂R",
+      "region": "湖北省天门市"
+    },
+    {
+      "plate_code": "鄂S",
+      "region": "湖北省随州市"
+    },
+    {
+      "plate_code": "湘[AS]",
+      "region": "湖南省长沙市"
+    },
+    {
+      "plate_code": "湘B",
+      "region": "湖南省株洲市"
+    },
+    {
+      "plate_code": "湘C",
+      "region": "湖南省湘潭市"
+    },
+    {
+      "plate_code": "湘D",
+      "region": "湖南省衡阳市"
+    },
+    {
+      "plate_code": "湘E",
+      "region": "湖南省邵阳市"
+    },
+    {
+      "plate_code": "湘F",
+      "region": "湖南省岳阳市"
+    },
+    {
+      "plate_code": "湘G",
+      "region": "湖南省张家界市"
+    },
+    {
+      "plate_code": "湘H",
+      "region": "湖南省益阳市"
+    },
+    {
+      "plate_code": "湘J",
+      "region": "湖南省常德市"
+    },
+    {
+      "plate_code": "湘K",
+      "region": "湖南省娄底市"
+    },
+    {
+      "plate_code": "湘L",
+      "region": "湖南省郴州市"
+    },
+    {
+      "plate_code": "湘M",
+      "region": "湖南省永州市"
+    },
+    {
+      "plate_code": "湘N",
+      "region": "湖南省怀化市"
+    },
+    {
+      "plate_code": "湘O",
+      "region": "湖南省公安厅交通警察总队车辆管理所"
+    },
+    {
+      "plate_code": "湘U",
+      "region": "湖南省湘西土家族苗族自治州"
+    },
+    {
+      "plate_code": "粤A",
+      "region": "广东省广州市"
+    },
+    {
+      "plate_code": "粤B",
+      "region": "广东省深圳市"
+    },
+    {
+      "plate_code": "粤C",
+      "region": "广东省珠海市"
+    },
+    {
+      "plate_code": "粤D",
+      "region": "广东省汕头市"
+    },
+    {
+      "plate_code": "粤[EXY]",
+      "region": "广东省佛山市"
+    },
+    {
+      "plate_code": "粤F",
+      "region": "广东省韶关市"
+    },
+    {
+      "plate_code": "粤G",
+      "region": "广东省湛江市"
+    },
+    {
+      "plate_code": "粤H",
+      "region": "广东省肇庆市"
+    },
+    {
+      "plate_code": "粤J",
+      "region": "广东省江门市"
+    },
+    {
+      "plate_code": "粤K",
+      "region": "广东省茂名市"
+    },
+    {
+      "plate_code": "粤L",
+      "region": "广东省惠州市"
+    },
+    {
+      "plate_code": "粤M",
+      "region": "广东省梅州市"
+    },
+    {
+      "plate_code": "粤N",
+      "region": "广东省汕尾市"
+    },
+    {
+      "plate_code": "粤O",
+      "region": "广东省公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "粤P",
+      "region": "广东省河源市"
+    },
+    {
+      "plate_code": "粤Q",
+      "region": "广东省阳江市"
+    },
+    {
+      "plate_code": "粤R",
+      "region": "广东省清远市"
+    },
+    {
+      "plate_code": "粤S",
+      "region": "广东省东莞市"
+    },
+    {
+      "plate_code": "粤T",
+      "region": "广东省中山市"
+    },
+    {
+      "plate_code": "粤U",
+      "region": "广东省潮州市"
+    },
+    {
+      "plate_code": "粤V",
+      "region": "广东省揭阳市"
+    },
+    {
+      "plate_code": "粤W",
+      "region": "广东省云浮市"
+    },
+    {
+      "plate_code": "粤Z",
+      "region": "广东省公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "桂A",
+      "region": "广西壮族自治区南宁市"
+    },
+    {
+      "plate_code": "桂B",
+      "region": "广西壮族自治区柳州市"
+    },
+    {
+      "plate_code": "桂[CH]",
+      "region": "广西壮族自治区桂林市"
+    },
+    {
+      "plate_code": "桂D",
+      "region": "广西壮族自治区梧州市"
+    },
+    {
+      "plate_code": "桂E",
+      "region": "广西壮族自治区北海市"
+    },
+    {
+      "plate_code": "桂F",
+      "region": "广西壮族自治区崇左市"
+    },
+    {
+      "plate_code": "桂G",
+      "region": "广西壮族自治区来宾市"
+    },
+    {
+      "plate_code": "桂J",
+      "region": "广西壮族自治区贺州市"
+    },
+    {
+      "plate_code": "桂K",
+      "region": "广西壮族自治区玉林市"
+    },
+    {
+      "plate_code": "桂L",
+      "region": "广西壮族自治区百色市"
+    },
+    {
+      "plate_code": "桂M",
+      "region": "广西壮族自治区河池市"
+    },
+    {
+      "plate_code": "桂N",
+      "region": "广西壮族自治区钦州市"
+    },
+    {
+      "plate_code": "桂O",
+      "region": "广西壮族自治区公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "桂P",
+      "region": "广西壮族自治区防城港市"
+    },
+    {
+      "plate_code": "桂R",
+      "region": "广西壮族自治区贵港市"
+    },
+    {
+      "plate_code": "琼A",
+      "region": "海南省海口市"
+    },
+    {
+      "plate_code": "琼B",
+      "region": "海南省三亚市"
+    },
+    {
+      "plate_code": "琼C",
+      "region": "海南省公安厅交通警察总队琼北车辆管理所"
+    },
+    {
+      "plate_code": "琼D",
+      "region": "海南省公安厅交通警察总队琼南车辆管理所"
+    },
+    {
+      "plate_code": "琼E",
+      "region": "海南省洋浦经济开发区公安局交通警察支队车辆管理所"
+    },
+    {
+      "plate_code": "琼F",
+      "region": "海南省儋州市"
+    },
+    {
+      "plate_code": "琼O",
+      "region": "海南省公安厅交通警察总队车辆管理所"
+    },
+    {
+      "plate_code": "渝[A-Z]",
+      "region": "重庆市"
+    },
+    {
+      "plate_code": "川[AG]",
+      "region": "四川省成都市"
+    },
+    {
+      "plate_code": "川B",
+      "region": "四川省绵阳市"
+    },
+    {
+      "plate_code": "川C",
+      "region": "四川省自贡市"
+    },
+    {
+      "plate_code": "川D",
+      "region": "四川省攀枝花市"
+    },
+    {
+      "plate_code": "川E",
+      "region": "四川省泸州市"
+    },
+    {
+      "plate_code": "川F",
+      "region": "四川省德阳市"
+    },
+    {
+      "plate_code": "川H",
+      "region": "四川省广元市"
+    },
+    {
+      "plate_code": "川J",
+      "region": "四川省遂宁市"
+    },
+    {
+      "plate_code": "川K",
+      "region": "四川省内江市"
+    },
+    {
+      "plate_code": "川L",
+      "region": "四川省乐山市"
+    },
+    {
+      "plate_code": "川M",
+      "region": "四川省资阳市"
+    },
+    {
+      "plate_code": "川O",
+      "region": "四川省公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "川Q",
+      "region": "四川省宜宾市"
+    },
+    {
+      "plate_code": "川R",
+      "region": "四川省南充市"
+    },
+    {
+      "plate_code": "川S",
+      "region": "四川省达州市"
+    },
+    {
+      "plate_code": "川T",
+      "region": "四川省雅安市"
+    },
+    {
+      "plate_code": "川U",
+      "region": "四川省阿坝藏族羌族自治州"
+    },
+    {
+      "plate_code": "川V",
+      "region": "四川省甘孜藏族自治州"
+    },
+    {
+      "plate_code": "川W",
+      "region": "四川省凉山彝族自治州"
+    },
+    {
+      "plate_code": "川X",
+      "region": "四川省广安市"
+    },
+    {
+      "plate_code": "川Y",
+      "region": "四川省巴中市"
+    },
+    {
+      "plate_code": "川Z",
+      "region": "四川省眉山市"
+    },
+    {
+      "plate_code": "贵A",
+      "region": "贵州省贵阳市"
+    },
+    {
+      "plate_code": "贵B",
+      "region": "贵州省六盘水市"
+    },
+    {
+      "plate_code": "贵C",
+      "region": "贵州省遵义市"
+    },
+    {
+      "plate_code": "贵D",
+      "region": "贵州省铜仁市"
+    },
+    {
+      "plate_code": "贵E",
+      "region": "贵州省黔西南布依族苗族自治州"
+    },
+    {
+      "plate_code": "贵F",
+      "region": "贵州省毕节市"
+    },
+    {
+      "plate_code": "贵G",
+      "region": "贵州省安顺市"
+    },
+    {
+      "plate_code": "贵H",
+      "region": "贵州省黔东南苗族侗族自治州"
+    },
+    {
+      "plate_code": "贵J",
+      "region": "贵州省黔南布依族苗族自治州"
+    },
+    {
+      "plate_code": "贵O",
+      "region": "贵州省公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "云A",
+      "region": "云南省昆明市"
+    },
+    {
+      "plate_code": "云C",
+      "region": "云南省昭通市"
+    },
+    {
+      "plate_code": "云D",
+      "region": "云南省曲靖市"
+    },
+    {
+      "plate_code": "云E",
+      "region": "云南省楚雄彝族自治州"
+    },
+    {
+      "plate_code": "云F",
+      "region": "云南省玉溪市"
+    },
+    {
+      "plate_code": "云G",
+      "region": "云南省红河哈尼族彝族自治州"
+    },
+    {
+      "plate_code": "云H",
+      "region": "云南省文山壮族苗族自治州"
+    },
+    {
+      "plate_code": "云J",
+      "region": "云南省普洱市"
+    },
+    {
+      "plate_code": "云K",
+      "region": "云南省西双版纳傣族自治州"
+    },
+    {
+      "plate_code": "云L",
+      "region": "云南省大理白族自治州"
+    },
+    {
+      "plate_code": "云M",
+      "region": "云南省保山市"
+    },
+    {
+      "plate_code": "云N",
+      "region": "云南省德宏傣族景颇族自治州"
+    },
+    {
+      "plate_code": "云O",
+      "region": "云南省公安厅交通警察总队车辆管理所"
+    },
+    {
+      "plate_code": "云P",
+      "region": "云南省丽江市"
+    },
+    {
+      "plate_code": "云Q",
+      "region": "云南省怒江傈僳族自治州"
+    },
+    {
+      "plate_code": "云R",
+      "region": "云南省迪庆藏族自治州"
+    },
+    {
+      "plate_code": "云S",
+      "region": "云南省临沧市"
+    },
+    {
+      "plate_code": "藏A",
+      "region": "西藏自治区拉萨市"
+    },
+    {
+      "plate_code": "藏B",
+      "region": "西藏自治区昌都市"
+    },
+    {
+      "plate_code": "藏C",
+      "region": "西藏自治区山南市"
+    },
+    {
+      "plate_code": "藏D",
+      "region": "西藏自治区日喀则市"
+    },
+    {
+      "plate_code": "藏E",
+      "region": "西藏自治区那曲市"
+    },
+    {
+      "plate_code": "藏F",
+      "region": "西藏自治区阿里地区"
+    },
+    {
+      "plate_code": "藏G",
+      "region": "西藏自治区林芝市"
+    },
+    {
+      "plate_code": "藏O",
+      "region": "西藏自治区公安厅公安交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "陕A",
+      "region": "陕西省西安市"
+    },
+    {
+      "plate_code": "陕B",
+      "region": "陕西省铜川市"
+    },
+    {
+      "plate_code": "陕C",
+      "region": "陕西省宝鸡市"
+    },
+    {
+      "plate_code": "陕D",
+      "region": "陕西省咸阳市"
+    },
+    {
+      "plate_code": "陕E",
+      "region": "陕西省渭南市"
+    },
+    {
+      "plate_code": "陕F",
+      "region": "陕西省汉中市"
+    },
+    {
+      "plate_code": "陕G",
+      "region": "陕西省安康市"
+    },
+    {
+      "plate_code": "陕H",
+      "region": "陕西省商洛市"
+    },
+    {
+      "plate_code": "陕J",
+      "region": "陕西省延安市"
+    },
+    {
+      "plate_code": "陕K",
+      "region": "陕西省榆林市"
+    },
+    {
+      "plate_code": "陕O",
+      "region": "陕西省公安厅交通警察总队车辆管理所"
+    },
+    {
+      "plate_code": "陕V",
+      "region": "陕西省公安厅交通警察总队车辆管理所杨陵分所"
+    },
+    {
+      "plate_code": "甘A",
+      "region": "甘肃省兰州市"
+    },
+    {
+      "plate_code": "甘B",
+      "region": "甘肃省嘉峪关市"
+    },
+    {
+      "plate_code": "甘C",
+      "region": "甘肃省金昌市"
+    },
+    {
+      "plate_code": "甘D",
+      "region": "甘肃省白银市"
+    },
+    {
+      "plate_code": "甘E",
+      "region": "甘肃省天水市"
+    },
+    {
+      "plate_code": "甘F",
+      "region": "甘肃省酒泉市"
+    },
+    {
+      "plate_code": "甘G",
+      "region": "甘肃省张掖市"
+    },
+    {
+      "plate_code": "甘H",
+      "region": "甘肃省武威市"
+    },
+    {
+      "plate_code": "甘J",
+      "region": "甘肃省定西市"
+    },
+    {
+      "plate_code": "甘K",
+      "region": "甘肃省陇南市"
+    },
+    {
+      "plate_code": "甘L",
+      "region": "甘肃省平凉市"
+    },
+    {
+      "plate_code": "甘M",
+      "region": "甘肃省庆阳市"
+    },
+    {
+      "plate_code": "甘N",
+      "region": "甘肃省临夏回族自治州"
+    },
+    {
+      "plate_code": "甘O",
+      "region": "甘肃省公安厅交通警察总队车辆管理所"
+    },
+    {
+      "plate_code": "甘P",
+      "region": "甘肃省甘南藏族自治州"
+    },
+    {
+      "plate_code": "青A",
+      "region": "青海省西宁市"
+    },
+    {
+      "plate_code": "青B",
+      "region": "青海省海东市"
+    },
+    {
+      "plate_code": "青C",
+      "region": "青海省海北藏族自治州"
+    },
+    {
+      "plate_code": "青D",
+      "region": "青海省黄南藏族自治州"
+    },
+    {
+      "plate_code": "青E",
+      "region": "青海省海南藏族自治州"
+    },
+    {
+      "plate_code": "青F",
+      "region": "青海省果洛藏族自治州"
+    },
+    {
+      "plate_code": "青G",
+      "region": "青海省玉树藏族自治州"
+    },
+    {
+      "plate_code": "青H",
+      "region": "青海省海西蒙古族藏族自治州"
+    },
+    {
+      "plate_code": "青O",
+      "region": "青海省公安厅交通警察总队车辆管理所"
+    },
+    {
+      "plate_code": "宁A",
+      "region": "宁夏回族自治区银川市"
+    },
+    {
+      "plate_code": "宁B",
+      "region": "宁夏回族自治区石嘴山市"
+    },
+    {
+      "plate_code": "宁C",
+      "region": "宁夏回族自治区吴忠市"
+    },
+    {
+      "plate_code": "宁D",
+      "region": "宁夏回族自治区固原市"
+    },
+    {
+      "plate_code": "宁E",
+      "region": "宁夏回族自治区中卫市"
+    },
+    {
+      "plate_code": "宁O",
+      "region": "宁夏回族自治区公安厅交通管理局车辆管理所"
+    },
+    {
+      "plate_code": "新A",
+      "region": "新疆维吾尔自治区乌鲁木齐市"
+    },
+    {
+      "plate_code": "新B",
+      "region": "新疆维吾尔自治区昌吉回族自治州"
+    },
+    {
+      "plate_code": "新C",
+      "region": "新疆维吾尔自治区石河子市"
+    },
+    {
+      "plate_code": "新[DF]",
+      "region": "新疆维吾尔自治区伊犁哈萨克自治州"
+    },
+    {
+      "plate_code": "新E",
+      "region": "新疆维吾尔自治区博尔塔拉蒙古自治州"
+    },
+    {
+      "plate_code": "新G",
+      "region": "新疆维吾尔自治区塔城地区"
+    },
+    {
+      "plate_code": "新H",
+      "region": "新疆维吾尔自治区阿勒泰地区"
+    },
+    {
+      "plate_code": "新J",
+      "region": "新疆维吾尔自治区克拉玛依市"
+    },
+    {
+      "plate_code": "新K",
+      "region": "新疆维吾尔自治区吐鲁番市"
+    },
+    {
+      "plate_code": "新L",
+      "region": "新疆维吾尔自治区哈密市"
+    },
+    {
+      "plate_code": "新M",
+      "region": "新疆维吾尔自治区巴音郭楞蒙古自治州"
+    },
+    {
+      "plate_code": "新N",
+      "region": "新疆维吾尔自治区阿克苏地区"
+    },
+    {
+      "plate_code": "新O",
+      "region": "新疆维吾尔自治区公安厅交通警察总队车辆管理所"
+    },
+    {
+      "plate_code": "新P",
+      "region": "新疆维吾尔自治区克孜勒苏柯尔克孜自治州"
+    },
+    {
+      "plate_code": "新Q",
+      "region": "新疆维吾尔自治区喀什地区"
+    },
+    {
+      "plate_code": "新R",
+      "region": "新疆维吾尔自治区和田地区"
+    }
+  ]
+}

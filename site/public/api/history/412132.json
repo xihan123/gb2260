@@ -1,0 +1,27 @@
+{
+  "code": "412132",
+  "records": [
+    {
+      "code": "412132",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "范县",
+      "parent_code": "412100",
+      "path": "河南省/安阳地区/范县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "412132",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "范县",
+      "parent_code": "412100",
+      "path": "河南省/安阳地区/范县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

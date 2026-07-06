@@ -1,0 +1,16 @@
+{
+  "code": "352621",
+  "records": [
+    {
+      "code": "352621",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "龙岩县",
+      "parent_code": "352600",
+      "path": "福建省/龙岩地区/龙岩县",
+      "revision": "198012",
+      "source": "mca"
+    }
+  ]
+}

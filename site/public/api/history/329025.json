@@ -1,0 +1,16 @@
+{
+  "code": "329025",
+  "records": [
+    {
+      "code": "329025",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "江都市",
+      "parent_code": "320000",
+      "path": "江苏省/江都市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

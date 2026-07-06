@@ -1,0 +1,16 @@
+{
+  "code": "359009",
+  "records": [
+    {
+      "code": "359009",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "建瓯市",
+      "parent_code": "350000",
+      "path": "福建省/建瓯市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

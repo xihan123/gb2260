@@ -1,0 +1,27 @@
+{
+  "code": "322427",
+  "records": [
+    {
+      "code": "322427",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "邗江县",
+      "parent_code": "322400",
+      "path": "江苏省/扬州地区/邗江县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "322427",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "邗江县",
+      "parent_code": "322400",
+      "path": "江苏省/扬州地区/邗江县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

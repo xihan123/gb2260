@@ -1,0 +1,71 @@
+{
+  "code": "441703",
+  "records": [
+    {
+      "code": "441703",
+      "file": "areacodes/data/1988.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "阳东区",
+      "parent_code": "441700",
+      "path": "广东省/阳江市/阳东区",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "code": "441703",
+      "file": "areacodes/data/1989.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "阳东区",
+      "parent_code": "441700",
+      "path": "广东省/阳江市/阳东区",
+      "revision": "1989",
+      "source": "areacodes"
+    },
+    {
+      "code": "441703",
+      "file": "areacodes/data/1990.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "阳东区",
+      "parent_code": "441700",
+      "path": "广东省/阳江市/阳东区",
+      "revision": "1990",
+      "source": "areacodes"
+    },
+    {
+      "code": "441703",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "阳东区",
+      "parent_code": "441700",
+      "path": "广东省/阳江市/阳东区",
+      "revision": "198812",
+      "source": "mca"
+    },
+    {
+      "code": "441703",
+      "file": "gb2260/mca/198912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "阳东区",
+      "parent_code": "441700",
+      "path": "广东省/阳江市/阳东区",
+      "revision": "198912",
+      "source": "mca"
+    },
+    {
+      "code": "441703",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "阳东区",
+      "parent_code": "441700",
+      "path": "广东省/阳江市/阳东区",
+      "revision": "199012",
+      "source": "mca"
+    }
+  ]
+}

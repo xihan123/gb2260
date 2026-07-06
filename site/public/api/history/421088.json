@@ -1,0 +1,71 @@
+{
+  "code": "421088",
+  "records": [
+    {
+      "code": "421088",
+      "file": "areacodes/data/2020.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "监利市",
+      "parent_code": "421000",
+      "path": "湖北省/荆州市/监利市",
+      "revision": "2020",
+      "source": "areacodes"
+    },
+    {
+      "code": "421088",
+      "file": "areacodes/data/2021.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "监利市",
+      "parent_code": "421000",
+      "path": "湖北省/荆州市/监利市",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "code": "421088",
+      "file": "areacodes/data/2022.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "监利市",
+      "parent_code": "421000",
+      "path": "湖北省/荆州市/监利市",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "code": "421088",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "监利市",
+      "parent_code": "421000",
+      "path": "湖北省/荆州市/监利市",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "421088",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "监利市",
+      "parent_code": "421000",
+      "path": "湖北省/荆州市/监利市",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "421088",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "监利市",
+      "parent_code": "421000",
+      "path": "湖北省/荆州市/监利市",
+      "revision": "2025",
+      "source": "areacodes"
+    }
+  ]
+}

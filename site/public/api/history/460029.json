@@ -1,0 +1,115 @@
+{
+  "code": "460029",
+  "records": [
+    {
+      "code": "460029",
+      "file": "areacodes/data/1988.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "儋县",
+      "parent_code": "460000",
+      "path": "海南省/儋县",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "code": "460029",
+      "file": "areacodes/data/1989.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "儋县",
+      "parent_code": "460000",
+      "path": "海南省/儋县",
+      "revision": "1989",
+      "source": "areacodes"
+    },
+    {
+      "code": "460029",
+      "file": "areacodes/data/1990.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "儋县",
+      "parent_code": "460000",
+      "path": "海南省/儋县",
+      "revision": "1990",
+      "source": "areacodes"
+    },
+    {
+      "code": "460029",
+      "file": "areacodes/data/1991.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "儋县",
+      "parent_code": "460000",
+      "path": "海南省/儋县",
+      "revision": "1991",
+      "source": "areacodes"
+    },
+    {
+      "code": "460029",
+      "file": "areacodes/data/1992.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "儋县",
+      "parent_code": "460000",
+      "path": "海南省/儋县",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "code": "460029",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "儋县",
+      "parent_code": "460000",
+      "path": "海南省/儋县",
+      "revision": "198812",
+      "source": "mca"
+    },
+    {
+      "code": "460029",
+      "file": "gb2260/mca/198912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "儋县",
+      "parent_code": "460000",
+      "path": "海南省/儋县",
+      "revision": "198912",
+      "source": "mca"
+    },
+    {
+      "code": "460029",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "儋县",
+      "parent_code": "460000",
+      "path": "海南省/儋县",
+      "revision": "199012",
+      "source": "mca"
+    },
+    {
+      "code": "460029",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "儋县",
+      "parent_code": "460000",
+      "path": "海南省/儋县",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "code": "460029",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "儋县",
+      "parent_code": "460000",
+      "path": "海南省/儋县",
+      "revision": "199212",
+      "source": "mca"
+    }
+  ]
+}

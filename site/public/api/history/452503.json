@@ -1,0 +1,27 @@
+{
+  "code": "452503",
+  "records": [
+    {
+      "code": "452503",
+      "file": "areacodes/data/1994.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "桂平市",
+      "parent_code": "452500",
+      "path": "广西壮族自治区/玉林地区/桂平市",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "452503",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "桂平市",
+      "parent_code": "452500",
+      "path": "广西壮族自治区/玉林地区/桂平市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

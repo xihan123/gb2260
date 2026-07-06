@@ -1,0 +1,16 @@
+{
+  "code": "429012",
+  "records": [
+    {
+      "code": "429012",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "石首市",
+      "parent_code": "420000",
+      "path": "湖北省/石首市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

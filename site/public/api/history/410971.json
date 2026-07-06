@@ -1,0 +1,16 @@
+{
+  "code": "410971",
+  "records": [
+    {
+      "code": "410971",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "河南濮阳工业园区",
+      "parent_code": "410900",
+      "path": "河南省/濮阳市/河南濮阳工业园区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

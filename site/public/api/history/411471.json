@@ -1,0 +1,16 @@
+{
+  "code": "411471",
+  "records": [
+    {
+      "code": "411471",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "豫东综合物流产业聚集区",
+      "parent_code": "411400",
+      "path": "河南省/商丘市/豫东综合物流产业聚集区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

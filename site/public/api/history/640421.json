@@ -1,0 +1,82 @@
+{
+  "code": "640421",
+  "records": [
+    {
+      "code": "640421",
+      "file": "areacodes/data/2001.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "海原县",
+      "parent_code": "640400",
+      "path": "宁夏回族自治区/固原市/海原县",
+      "revision": "2001",
+      "source": "areacodes"
+    },
+    {
+      "code": "640421",
+      "file": "areacodes/data/2002.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "海原县",
+      "parent_code": "640400",
+      "path": "宁夏回族自治区/固原市/海原县",
+      "revision": "2002",
+      "source": "areacodes"
+    },
+    {
+      "code": "640421",
+      "file": "gb2260/200212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "海原县",
+      "parent_code": "640400",
+      "path": "宁夏回族自治区/固原市/海原县",
+      "revision": "200212",
+      "source": "gb"
+    },
+    {
+      "code": "640421",
+      "file": "gb2260/mca/200112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "海原县",
+      "parent_code": "640400",
+      "path": "宁夏回族自治区/固原市/海原县",
+      "revision": "200112",
+      "source": "mca"
+    },
+    {
+      "code": "640421",
+      "file": "gb2260/mca/200212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "海原县",
+      "parent_code": "640400",
+      "path": "宁夏回族自治区/固原市/海原县",
+      "revision": "200212",
+      "source": "mca"
+    },
+    {
+      "code": "640421",
+      "file": "gb2260/stats/200212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "海原县",
+      "parent_code": "640400",
+      "path": "宁夏回族自治区/固原市/海原县",
+      "revision": "200212",
+      "source": "stats"
+    },
+    {
+      "code": "640421",
+      "file": "gb2260/stats/200306.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "海原县",
+      "parent_code": "640400",
+      "path": "宁夏回族自治区/固原市/海原县",
+      "revision": "200306",
+      "source": "stats"
+    }
+  ]
+}

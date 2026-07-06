@@ -1,0 +1,82 @@
+{
+  "code": "329012",
+  "records": [
+    {
+      "code": "329012",
+      "file": "areacodes/data/1989.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "昆山市",
+      "parent_code": "320000",
+      "path": "江苏省/昆山市",
+      "revision": "1989",
+      "source": "areacodes"
+    },
+    {
+      "code": "329012",
+      "file": "gb2260/mca/198912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "昆山市",
+      "parent_code": "320000",
+      "path": "江苏省/昆山市",
+      "revision": "198912",
+      "source": "mca"
+    },
+    {
+      "code": "329012",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "昆山市",
+      "parent_code": "320000",
+      "path": "江苏省/昆山市",
+      "revision": "199012",
+      "source": "mca"
+    },
+    {
+      "code": "329012",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "昆山市",
+      "parent_code": "320000",
+      "path": "江苏省/昆山市",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "code": "329012",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "昆山市",
+      "parent_code": "320000",
+      "path": "江苏省/昆山市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "329012",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "昆山市",
+      "parent_code": "320000",
+      "path": "江苏省/昆山市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "329012",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "昆山市",
+      "parent_code": "320000",
+      "path": "江苏省/昆山市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

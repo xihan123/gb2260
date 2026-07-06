@@ -1,0 +1,47 @@
+@localBaseUrl = http://127.0.0.1:9000/v1
+@edgeBaseUrl = https://your-domain.example/api/v1
+@baseUrl = {{localBaseUrl}}
+
+### Health
+GET {{baseUrl}}/health
+Accept: application/json
+
+### Area by code
+GET {{baseUrl}}/areas/110101
+Accept: application/json
+
+### Children by parent code
+GET {{baseUrl}}/areas/110000/children?year=2025
+Accept: application/json
+
+### Search active Beijing records
+GET {{baseUrl}}/search?q=北京&status=active&limit=10
+Accept: application/json
+
+### Search by level and year
+GET {{baseUrl}}/search?q=东城&level=county&status=active&year=2025&limit=10
+Accept: application/json
+
+### Areas valid in a year
+GET {{baseUrl}}/year/2025?province=北京市&limit=20
+Accept: application/json
+
+### Changes by code
+GET {{baseUrl}}/changes/110103
+Accept: application/json
+
+### History by code
+GET {{baseUrl}}/history/110101?source=gb&limit=3
+Accept: application/json
+
+### Plate prefix
+GET {{baseUrl}}/plates/京A
+Accept: application/json
+
+### Versions
+GET {{baseUrl}}/versions
+Accept: application/json
+
+### Bad request example
+GET {{baseUrl}}/areas/not-code
+Accept: application/json

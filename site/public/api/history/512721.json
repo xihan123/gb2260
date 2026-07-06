@@ -1,0 +1,60 @@
+{
+  "code": "512721",
+  "records": [
+    {
+      "code": "512721",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "温江县",
+      "parent_code": "512700",
+      "path": "四川省/温江地区/温江县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "512721",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "温江县",
+      "parent_code": "512700",
+      "path": "四川省/温江地区/温江县",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "512721",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "江津县",
+      "parent_code": "512700",
+      "path": "四川省/江津地区/江津县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "512721",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "江津县",
+      "parent_code": "512700",
+      "path": "四川省/永川地区/江津县",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "512721",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "江津县",
+      "parent_code": "512700",
+      "path": "四川省/永川地区/江津县",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

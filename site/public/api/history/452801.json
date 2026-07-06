@@ -1,0 +1,181 @@
+{
+  "code": "452801",
+  "records": [
+    {
+      "code": "452801",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "北海市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/北海市",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "452801",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "北海市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/北海市",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "452801",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "北海市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/北海市",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "452801",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "北海市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/北海市",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "452801",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "北海市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/北海市",
+      "revision": "198212",
+      "source": "mca"
+    },
+    {
+      "code": "452801",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "code": "452801",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "code": "452801",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "452801",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "452801",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "198712",
+      "source": "mca"
+    },
+    {
+      "code": "452801",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "198812",
+      "source": "mca"
+    },
+    {
+      "code": "452801",
+      "file": "gb2260/mca/198912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "198912",
+      "source": "mca"
+    },
+    {
+      "code": "452801",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "199012",
+      "source": "mca"
+    },
+    {
+      "code": "452801",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "code": "452801",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "452801",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "199312",
+      "source": "mca"
+    }
+  ]
+}

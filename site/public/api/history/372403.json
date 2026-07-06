@@ -1,0 +1,27 @@
+{
+  "code": "372403",
+  "records": [
+    {
+      "code": "372403",
+      "file": "areacodes/data/1993.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "禹城市",
+      "parent_code": "372400",
+      "path": "山东省/德州地区/禹城市",
+      "revision": "1993",
+      "source": "areacodes"
+    },
+    {
+      "code": "372403",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "禹城市",
+      "parent_code": "372400",
+      "path": "山东省/德州地区/禹城市",
+      "revision": "199312",
+      "source": "mca"
+    }
+  ]
+}

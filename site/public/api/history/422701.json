@@ -1,0 +1,115 @@
+{
+  "code": "422701",
+  "records": [
+    {
+      "code": "422701",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枝城市",
+      "parent_code": "422700",
+      "path": "湖北省/宜昌地区/枝城市",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "422701",
+      "file": "areacodes/data/1988.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枝城市",
+      "parent_code": "422700",
+      "path": "湖北省/宜昌地区/枝城市",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "code": "422701",
+      "file": "areacodes/data/1989.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枝城市",
+      "parent_code": "422700",
+      "path": "湖北省/宜昌地区/枝城市",
+      "revision": "1989",
+      "source": "areacodes"
+    },
+    {
+      "code": "422701",
+      "file": "areacodes/data/1990.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枝城市",
+      "parent_code": "422700",
+      "path": "湖北省/宜昌地区/枝城市",
+      "revision": "1990",
+      "source": "areacodes"
+    },
+    {
+      "code": "422701",
+      "file": "areacodes/data/1991.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枝城市",
+      "parent_code": "422700",
+      "path": "湖北省/宜昌地区/枝城市",
+      "revision": "1991",
+      "source": "areacodes"
+    },
+    {
+      "code": "422701",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枝城市",
+      "parent_code": "422700",
+      "path": "湖北省/宜昌地区/枝城市",
+      "revision": "198712",
+      "source": "mca"
+    },
+    {
+      "code": "422701",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枝城市",
+      "parent_code": "422700",
+      "path": "湖北省/宜昌地区/枝城市",
+      "revision": "198812",
+      "source": "mca"
+    },
+    {
+      "code": "422701",
+      "file": "gb2260/mca/198912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枝城市",
+      "parent_code": "422700",
+      "path": "湖北省/宜昌地区/枝城市",
+      "revision": "198912",
+      "source": "mca"
+    },
+    {
+      "code": "422701",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枝城市",
+      "parent_code": "422700",
+      "path": "湖北省/宜昌地区/枝城市",
+      "revision": "199012",
+      "source": "mca"
+    },
+    {
+      "code": "422701",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枝城市",
+      "parent_code": "422700",
+      "path": "湖北省/宜昌地区/枝城市",
+      "revision": "199112",
+      "source": "mca"
+    }
+  ]
+}

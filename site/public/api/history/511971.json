@@ -1,0 +1,16 @@
+{
+  "code": "511971",
+  "records": [
+    {
+      "code": "511971",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "巴中经济开发区",
+      "parent_code": "511900",
+      "path": "四川省/巴中市/巴中经济开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

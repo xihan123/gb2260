@@ -1,0 +1,170 @@
+{
+  "code": "130282",
+  "records": [
+    {
+      "code": "130282",
+      "file": "areacodes/data/1994.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/丰南市",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "130282",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/丰南市",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "130282",
+      "file": "areacodes/data/1996.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/丰南市",
+      "revision": "1996",
+      "source": "areacodes"
+    },
+    {
+      "code": "130282",
+      "file": "areacodes/data/1997.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/丰南市",
+      "revision": "1997",
+      "source": "areacodes"
+    },
+    {
+      "code": "130282",
+      "file": "areacodes/data/1998.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/丰南市",
+      "revision": "1998",
+      "source": "areacodes"
+    },
+    {
+      "code": "130282",
+      "file": "areacodes/data/1999.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/丰南市",
+      "revision": "1999",
+      "source": "areacodes"
+    },
+    {
+      "code": "130282",
+      "file": "areacodes/data/2000.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/丰南市",
+      "revision": "2000",
+      "source": "areacodes"
+    },
+    {
+      "code": "130282",
+      "file": "areacodes/data/2001.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/丰南市",
+      "revision": "2001",
+      "source": "areacodes"
+    },
+    {
+      "code": "130282",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/丰南市",
+      "revision": "199512",
+      "source": "mca"
+    },
+    {
+      "code": "130282",
+      "file": "gb2260/mca/199612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/丰南市",
+      "revision": "199612",
+      "source": "mca"
+    },
+    {
+      "code": "130282",
+      "file": "gb2260/mca/199712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/丰南市",
+      "revision": "199712",
+      "source": "mca"
+    },
+    {
+      "code": "130282",
+      "file": "gb2260/mca/199812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/丰南市",
+      "revision": "199812",
+      "source": "mca"
+    },
+    {
+      "code": "130282",
+      "file": "gb2260/mca/199912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/丰南市",
+      "revision": "199912",
+      "source": "mca"
+    },
+    {
+      "code": "130282",
+      "file": "gb2260/mca/200012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/丰南市",
+      "revision": "200012",
+      "source": "mca"
+    },
+    {
+      "code": "130282",
+      "file": "gb2260/mca/200112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/丰南市",
+      "revision": "200112",
+      "source": "mca"
+    }
+  ]
+}

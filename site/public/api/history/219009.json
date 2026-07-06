@@ -1,0 +1,49 @@
+{
+  "code": "219009",
+  "records": [
+    {
+      "code": "219009",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "凌源市",
+      "parent_code": "210000",
+      "path": "辽宁省/凌源市",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "code": "219009",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "凌源市",
+      "parent_code": "210000",
+      "path": "辽宁省/凌源市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "219009",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "凌源市",
+      "parent_code": "210000",
+      "path": "辽宁省/凌源市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "219009",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "凌源市",
+      "parent_code": "210000",
+      "path": "辽宁省/凌源市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

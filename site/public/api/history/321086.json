@@ -1,0 +1,49 @@
+{
+  "code": "321086",
+  "records": [
+    {
+      "code": "321086",
+      "file": "areacodes/data/1993.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "靖江市",
+      "parent_code": "321000",
+      "path": "江苏省/扬州市/靖江市",
+      "revision": "1993",
+      "source": "areacodes"
+    },
+    {
+      "code": "321086",
+      "file": "areacodes/data/1994.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "靖江市",
+      "parent_code": "321000",
+      "path": "江苏省/扬州市/靖江市",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "321086",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "靖江市",
+      "parent_code": "321000",
+      "path": "江苏省/扬州市/靖江市",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "321086",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "泰兴市",
+      "parent_code": "321000",
+      "path": "江苏省/扬州市/泰兴市",
+      "revision": "199512",
+      "source": "mca"
+    }
+  ]
+}

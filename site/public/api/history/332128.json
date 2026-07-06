@@ -1,0 +1,27 @@
+{
+  "code": "332128",
+  "records": [
+    {
+      "code": "332128",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "安吉县",
+      "parent_code": "332100",
+      "path": "浙江省/嘉兴地区/安吉县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "332128",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "安吉县",
+      "parent_code": "332100",
+      "path": "浙江省/嘉兴地区/安吉县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "342621",
+  "records": [
+    {
+      "code": "342621",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "肥东县",
+      "parent_code": "342600",
+      "path": "安徽省/巢湖地区/肥东县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "342621",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "肥东县",
+      "parent_code": "342600",
+      "path": "安徽省/巢湖地区/肥东县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

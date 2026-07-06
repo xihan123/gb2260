@@ -1,0 +1,16 @@
+{
+  "code": "421071",
+  "records": [
+    {
+      "code": "421071",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "荆州经济技术开发区",
+      "parent_code": "421000",
+      "path": "湖北省/荆州市/荆州经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

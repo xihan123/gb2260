@@ -1,0 +1,16 @@
+{
+  "code": "419018",
+  "records": [
+    {
+      "code": "419018",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "登封市",
+      "parent_code": "410000",
+      "path": "河南省/登封市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

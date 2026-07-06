@@ -1,0 +1,16 @@
+{
+  "code": "519011",
+  "records": [
+    {
+      "code": "519011",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "简阳市",
+      "parent_code": "510000",
+      "path": "四川省/简阳市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

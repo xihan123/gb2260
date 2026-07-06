@@ -1,0 +1,38 @@
+{
+  "code": "412203",
+  "records": [
+    {
+      "code": "412203",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新华区",
+      "parent_code": "412200",
+      "path": "河南省/新乡地区/新华区",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "412203",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新华区",
+      "parent_code": "412200",
+      "path": "河南省/新乡地区/新华区",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "412203",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新华区",
+      "parent_code": "412200",
+      "path": "河南省/新乡地区/新华区",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "code": "520601",
+  "records": [
+    {
+      "code": "520601",
+      "file": "gb2260/stats/201110.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "市辖区",
+      "parent_code": "520600",
+      "path": "贵州省/铜仁市/市辖区",
+      "revision": "201110",
+      "source": "stats"
+    },
+    {
+      "code": "520601",
+      "file": "gb2260/stats/201308.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "市辖区",
+      "parent_code": "520600",
+      "path": "贵州省/铜仁市/市辖区",
+      "revision": "201308",
+      "source": "stats"
+    },
+    {
+      "code": "520601",
+      "file": "gb2260/stats/201410.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "市辖区",
+      "parent_code": "520600",
+      "path": "贵州省/铜仁市/市辖区",
+      "revision": "201410",
+      "source": "stats"
+    },
+    {
+      "code": "520601",
+      "file": "gb2260/stats/201509.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "市辖区",
+      "parent_code": "520600",
+      "path": "贵州省/铜仁市/市辖区",
+      "revision": "201509",
+      "source": "stats"
+    },
+    {
+      "code": "520601",
+      "file": "gb2260/stats/201607.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "市辖区",
+      "parent_code": "520600",
+      "path": "贵州省/铜仁市/市辖区",
+      "revision": "201607",
+      "source": "stats"
+    },
+    {
+      "code": "520601",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "市辖区",
+      "parent_code": "520600",
+      "path": "贵州省/铜仁市/市辖区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

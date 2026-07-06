@@ -1,0 +1,16 @@
+{
+  "code": "130973",
+  "records": [
+    {
+      "code": "130973",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "沧州渤海新区",
+      "parent_code": "130900",
+      "path": "河北省/沧州市/沧州渤海新区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

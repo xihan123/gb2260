@@ -1,0 +1,16 @@
+{
+  "code": "410371",
+  "records": [
+    {
+      "code": "410371",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "洛阳高新技术产业开发区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/洛阳高新技术产业开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

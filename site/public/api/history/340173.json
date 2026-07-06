@@ -1,0 +1,16 @@
+{
+  "code": "340173",
+  "records": [
+    {
+      "code": "340173",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "合肥新站高新技术产业开发区",
+      "parent_code": "340100",
+      "path": "安徽省/合肥市/合肥新站高新技术产业开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

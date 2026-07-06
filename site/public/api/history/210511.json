@@ -1,0 +1,71 @@
+{
+  "code": "210511",
+  "records": [
+    {
+      "code": "210511",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "立新区",
+      "parent_code": "210500",
+      "path": "辽宁省/本溪市/立新区",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "210511",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "立新区",
+      "parent_code": "210500",
+      "path": "辽宁省/本溪市/立新区",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "210511",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "立新区",
+      "parent_code": "210500",
+      "path": "辽宁省/本溪市/立新区",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "210511",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "立新区",
+      "parent_code": "210500",
+      "path": "辽宁省/本溪市/立新区",
+      "revision": "198212",
+      "source": "mca"
+    },
+    {
+      "code": "210511",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "立新区",
+      "parent_code": "210500",
+      "path": "辽宁省/本溪市/立新区",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "code": "210511",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南芬区",
+      "parent_code": "210500",
+      "path": "辽宁省/本溪市/南芬区",
+      "revision": "198512",
+      "source": "mca"
+    }
+  ]
+}

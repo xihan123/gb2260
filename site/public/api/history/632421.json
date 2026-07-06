@@ -1,0 +1,38 @@
+{
+  "code": "632421",
+  "records": [
+    {
+      "code": "632421",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "河南蒙古族自治县",
+      "parent_code": "630000",
+      "path": "青海省/河南蒙古族自治县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "632421",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "河南蒙古族自治县",
+      "parent_code": "630000",
+      "path": "青海省/河南蒙古族自治县",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "632421",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "河南蒙古族自治县",
+      "parent_code": "630000",
+      "path": "青海省/河南蒙古族自治县",
+      "revision": "1983",
+      "source": "areacodes"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "code": "370903",
+  "records": [
+    {
+      "code": "370903",
+      "file": "gb2260/200212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "岱岳区",
+      "parent_code": "370900",
+      "path": "山东省/泰安市/岱岳区",
+      "revision": "200212",
+      "source": "gb"
+    },
+    {
+      "code": "370903",
+      "file": "gb2260/stats/200212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "岱岳区",
+      "parent_code": "370900",
+      "path": "山东省/泰安市/岱岳区",
+      "revision": "200212",
+      "source": "stats"
+    },
+    {
+      "code": "370903",
+      "file": "gb2260/stats/200306.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "岱岳区",
+      "parent_code": "370900",
+      "path": "山东省/泰安市/岱岳区",
+      "revision": "200306",
+      "source": "stats"
+    },
+    {
+      "code": "370903",
+      "file": "gb2260/stats/200312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "岱岳区",
+      "parent_code": "370900",
+      "path": "山东省/泰安市/岱岳区",
+      "revision": "200312",
+      "source": "stats"
+    },
+    {
+      "code": "370903",
+      "file": "gb2260/stats/200403.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "岱岳区",
+      "parent_code": "370900",
+      "path": "山东省/泰安市/岱岳区",
+      "revision": "200403",
+      "source": "stats"
+    },
+    {
+      "code": "370903",
+      "file": "gb2260/stats/200409.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "岱岳区",
+      "parent_code": "370900",
+      "path": "山东省/泰安市/岱岳区",
+      "revision": "200409",
+      "source": "stats"
+    },
+    {
+      "code": "370903",
+      "file": "gb2260/stats/200412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "岱岳区",
+      "parent_code": "370900",
+      "path": "山东省/泰安市/岱岳区",
+      "revision": "200412",
+      "source": "stats"
+    },
+    {
+      "code": "370903",
+      "file": "gb2260/stats/200506.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "岱岳区",
+      "parent_code": "370900",
+      "path": "山东省/泰安市/岱岳区",
+      "revision": "200506",
+      "source": "stats"
+    },
+    {
+      "code": "370903",
+      "file": "gb2260/stats/200512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "岱岳区",
+      "parent_code": "370900",
+      "path": "山东省/泰安市/岱岳区",
+      "revision": "200512",
+      "source": "stats"
+    },
+    {
+      "code": "370903",
+      "file": "gb2260/stats/200612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "岱岳区",
+      "parent_code": "370900",
+      "path": "山东省/泰安市/岱岳区",
+      "revision": "200612",
+      "source": "stats"
+    }
+  ]
+}

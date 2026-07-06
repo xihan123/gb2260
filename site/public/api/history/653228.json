@@ -1,0 +1,27 @@
+{
+  "code": "653228",
+  "records": [
+    {
+      "code": "653228",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "和康县",
+      "parent_code": "653200",
+      "path": "新疆维吾尔自治区/和田地区/和康县",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "653228",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "和康县",
+      "parent_code": "653200",
+      "path": "新疆维吾尔自治区/和田地区/和康县",
+      "revision": "2025",
+      "source": "areacodes"
+    }
+  ]
+}

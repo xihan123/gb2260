@@ -1,0 +1,16 @@
+{
+  "code": "430671",
+  "records": [
+    {
+      "code": "430671",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "岳阳市屈原管理区",
+      "parent_code": "430600",
+      "path": "湖南省/岳阳市/岳阳市屈原管理区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

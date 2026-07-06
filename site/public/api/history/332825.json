@@ -1,0 +1,16 @@
+{
+  "code": "332825",
+  "records": [
+    {
+      "code": "332825",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "瑞安县",
+      "parent_code": "332800",
+      "path": "浙江省/温州地区/瑞安县",
+      "revision": "198012",
+      "source": "mca"
+    }
+  ]
+}

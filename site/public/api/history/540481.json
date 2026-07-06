@@ -1,0 +1,38 @@
+{
+  "code": "540481",
+  "records": [
+    {
+      "code": "540481",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "米林市",
+      "parent_code": "540400",
+      "path": "西藏自治区/林芝市/米林市",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "540481",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "米林市",
+      "parent_code": "540400",
+      "path": "西藏自治区/林芝市/米林市",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "540481",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "米林市",
+      "parent_code": "540400",
+      "path": "西藏自治区/林芝市/米林市",
+      "revision": "2025",
+      "source": "areacodes"
+    }
+  ]
+}

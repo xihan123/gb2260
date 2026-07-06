@@ -1,0 +1,16 @@
+{
+  "code": "370672",
+  "records": [
+    {
+      "code": "370672",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "烟台经济技术开发区",
+      "parent_code": "370600",
+      "path": "山东省/烟台市/烟台经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

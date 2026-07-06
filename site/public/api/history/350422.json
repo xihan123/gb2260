@@ -1,0 +1,27 @@
+{
+  "code": "350422",
+  "records": [
+    {
+      "code": "350422",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "永安县",
+      "parent_code": "350400",
+      "path": "福建省/三明市/永安县",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "350422",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "永安县",
+      "parent_code": "350400",
+      "path": "福建省/三明市/永安县",
+      "revision": "198312",
+      "source": "mca"
+    }
+  ]
+}

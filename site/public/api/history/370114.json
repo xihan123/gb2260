@@ -1,0 +1,291 @@
+{
+  "code": "370114",
+  "records": [
+    {
+      "code": "370114",
+      "file": "areacodes/data/2016.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "2016",
+      "source": "areacodes"
+    },
+    {
+      "code": "370114",
+      "file": "areacodes/data/2017.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "2017",
+      "source": "areacodes"
+    },
+    {
+      "code": "370114",
+      "file": "areacodes/data/2018.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "2018",
+      "source": "areacodes"
+    },
+    {
+      "code": "370114",
+      "file": "areacodes/data/2019.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "2019",
+      "source": "areacodes"
+    },
+    {
+      "code": "370114",
+      "file": "areacodes/data/2020.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "2020",
+      "source": "areacodes"
+    },
+    {
+      "code": "370114",
+      "file": "areacodes/data/2021.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "code": "370114",
+      "file": "areacodes/data/2022.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "code": "370114",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "370114",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "370114",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "2025",
+      "source": "areacodes"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/mca/201612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201612",
+      "source": "mca"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/mca/201701.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201701",
+      "source": "mca"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/mca/201702.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201702",
+      "source": "mca"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/mca/201703.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201703",
+      "source": "mca"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/mca/201704.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201704",
+      "source": "mca"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/mca/201705.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201705",
+      "source": "mca"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/mca/201706.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201706",
+      "source": "mca"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/mca/201707.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201707",
+      "source": "mca"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/mca/201708.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201708",
+      "source": "mca"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/mca/201709.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201709",
+      "source": "mca"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/mca/201710.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201710",
+      "source": "mca"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/mca/201711.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201711",
+      "source": "mca"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/mca/201712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201712",
+      "source": "mca"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/mca/201801.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201801",
+      "source": "mca"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/mca/201904.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201904",
+      "source": "mca"
+    },
+    {
+      "code": "370114",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "章丘区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/章丘区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

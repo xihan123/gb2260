@@ -1,0 +1,61 @@
+name: 持续集成
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+      - master
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+
+      - name: 设置 Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: "1.26"
+          cache-dependency-path: cloud-functions/go.sum
+
+      - name: 安装前端依赖
+        run: npm ci
+
+      - name: 编译检查脚本
+        run: python -m py_compile main.py scripts/fetch_sources.py scripts/build_database.py scripts/build_site.py scripts/query.py
+
+      - name: 准备原始数据
+        run: python scripts/fetch_sources.py
+
+      - name: 构建数据
+        run: python scripts/build_database.py
+
+      - name: 构建静态站点
+        run: python scripts/build_site.py
+
+      - name: 烟测查询
+        run: |
+          python scripts/query.py code 110101
+          python scripts/query.py changes 110103
+          python scripts/query.py history 110101 --source areacodes --limit 3
+          python scripts/query.py plate 京A
+
+      - name: 测试云函数 API
+        working-directory: cloud-functions
+        run: go test ./...

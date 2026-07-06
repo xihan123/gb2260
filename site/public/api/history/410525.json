@@ -1,0 +1,71 @@
+{
+  "code": "410525",
+  "records": [
+    {
+      "code": "410525",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "浚县",
+      "parent_code": "410500",
+      "path": "河南省/安阳市/浚县",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "410525",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "浚县",
+      "parent_code": "410500",
+      "path": "河南省/安阳市/浚县",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "410525",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "浚县",
+      "parent_code": "410500",
+      "path": "河南省/安阳市/浚县",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "410525",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "浚县",
+      "parent_code": "410500",
+      "path": "河南省/安阳市/浚县",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "code": "410525",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "浚县",
+      "parent_code": "410500",
+      "path": "河南省/安阳市/浚县",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "code": "410525",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "浚县",
+      "parent_code": "410500",
+      "path": "河南省/安阳市/浚县",
+      "revision": "198512",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "359007",
+  "records": [
+    {
+      "code": "359007",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "邵武市",
+      "parent_code": "350000",
+      "path": "福建省/邵武市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

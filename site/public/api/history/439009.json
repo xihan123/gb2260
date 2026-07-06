@@ -1,0 +1,16 @@
+{
+  "code": "439009",
+  "records": [
+    {
+      "code": "439009",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "资兴市",
+      "parent_code": "430000",
+      "path": "湖南省/资兴市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

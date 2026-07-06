@@ -1,0 +1,82 @@
+{
+  "code": "230834",
+  "records": [
+    {
+      "code": "230834",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "友谊县",
+      "parent_code": "230800",
+      "path": "黑龙江省/佳木斯市/友谊县",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "230834",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "友谊县",
+      "parent_code": "230800",
+      "path": "黑龙江省/佳木斯市/友谊县",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "230834",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "友谊县",
+      "parent_code": "230800",
+      "path": "黑龙江省/佳木斯市/友谊县",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "230834",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "友谊县",
+      "parent_code": "230800",
+      "path": "黑龙江省/佳木斯市/友谊县",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "230834",
+      "file": "areacodes/data/1988.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "友谊县",
+      "parent_code": "230800",
+      "path": "黑龙江省/佳木斯市/友谊县",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "code": "230834",
+      "file": "areacodes/data/1989.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "友谊县",
+      "parent_code": "230800",
+      "path": "黑龙江省/佳木斯市/友谊县",
+      "revision": "1989",
+      "source": "areacodes"
+    },
+    {
+      "code": "230834",
+      "file": "areacodes/data/1990.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "友谊县",
+      "parent_code": "230800",
+      "path": "黑龙江省/佳木斯市/友谊县",
+      "revision": "1990",
+      "source": "areacodes"
+    }
+  ]
+}

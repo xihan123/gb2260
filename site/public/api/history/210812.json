@@ -1,0 +1,27 @@
+{
+  "code": "210812",
+  "records": [
+    {
+      "code": "210812",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "鲅鱼圈区",
+      "parent_code": "210800",
+      "path": "辽宁省/营口市/鲅鱼圈区",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "210812",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "鲅鱼圈区",
+      "parent_code": "210800",
+      "path": "辽宁省/营口市/鲅鱼圈区",
+      "revision": "1985",
+      "source": "areacodes"
+    }
+  ]
+}

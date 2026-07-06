@@ -1,0 +1,19 @@
+{
+  "areas": [
+    {
+      "city": "",
+      "code": "810000",
+      "end_year": "",
+      "level": "province",
+      "level_label": "省级",
+      "name": "香港特别行政区",
+      "new_code": "",
+      "parent_code": "",
+      "path": "香港特别行政区",
+      "province": "香港特别行政区",
+      "start_year": "1997",
+      "status": "active"
+    }
+  ],
+  "province_code": "810000"
+}

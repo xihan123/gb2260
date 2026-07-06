@@ -1,0 +1,16 @@
+{
+  "code": "341371",
+  "records": [
+    {
+      "code": "341371",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宿州马鞍山现代产业园区",
+      "parent_code": "341300",
+      "path": "安徽省/宿州市/宿州马鞍山现代产业园区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

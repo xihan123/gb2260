@@ -1,0 +1,38 @@
+{
+  "code": "342323",
+  "records": [
+    {
+      "code": "342323",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "滁县",
+      "parent_code": "342300",
+      "path": "安徽省/滁县地区/滁县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "342323",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "滁县",
+      "parent_code": "342300",
+      "path": "安徽省/滁县地区/滁县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "342323",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "滁县",
+      "parent_code": "342300",
+      "path": "安徽省/滁县地区/滁县",
+      "revision": "198112",
+      "source": "mca"
+    }
+  ]
+}

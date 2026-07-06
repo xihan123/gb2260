@@ -1,0 +1,27 @@
+{
+  "code": "329022",
+  "records": [
+    {
+      "code": "329022",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "太仓市",
+      "parent_code": "320000",
+      "path": "江苏省/太仓市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "329022",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "太仓市",
+      "parent_code": "320000",
+      "path": "江苏省/太仓市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "371371",
+  "records": [
+    {
+      "code": "371371",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "临沂高新技术产业开发区",
+      "parent_code": "371300",
+      "path": "山东省/临沂市/临沂高新技术产业开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "411472",
+  "records": [
+    {
+      "code": "411472",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "河南商丘经济开发区",
+      "parent_code": "411400",
+      "path": "河南省/商丘市/河南商丘经济开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

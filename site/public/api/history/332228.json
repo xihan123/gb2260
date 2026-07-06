@@ -1,0 +1,38 @@
+{
+  "code": "332228",
+  "records": [
+    {
+      "code": "332228",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "安吉县",
+      "parent_code": "332200",
+      "path": "浙江省/嘉兴地区/安吉县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "332228",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "安吉县",
+      "parent_code": "332200",
+      "path": "浙江省/嘉兴地区/安吉县",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "332228",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "安吉县",
+      "parent_code": "332200",
+      "path": "浙江省/嘉兴地区/安吉县",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

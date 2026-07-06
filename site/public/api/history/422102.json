@@ -1,0 +1,181 @@
+{
+  "code": "422102",
+  "records": [
+    {
+      "code": "422102",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "422102",
+      "file": "areacodes/data/1988.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "code": "422102",
+      "file": "areacodes/data/1989.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "1989",
+      "source": "areacodes"
+    },
+    {
+      "code": "422102",
+      "file": "areacodes/data/1990.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "1990",
+      "source": "areacodes"
+    },
+    {
+      "code": "422102",
+      "file": "areacodes/data/1991.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "1991",
+      "source": "areacodes"
+    },
+    {
+      "code": "422102",
+      "file": "areacodes/data/1992.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "code": "422102",
+      "file": "areacodes/data/1993.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "1993",
+      "source": "areacodes"
+    },
+    {
+      "code": "422102",
+      "file": "areacodes/data/1994.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "422102",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "198712",
+      "source": "mca"
+    },
+    {
+      "code": "422102",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "198812",
+      "source": "mca"
+    },
+    {
+      "code": "422102",
+      "file": "gb2260/mca/198912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "198912",
+      "source": "mca"
+    },
+    {
+      "code": "422102",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "199012",
+      "source": "mca"
+    },
+    {
+      "code": "422102",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "code": "422102",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "422102",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "422102",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武穴市",
+      "parent_code": "422100",
+      "path": "湖北省/黄冈地区/武穴市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

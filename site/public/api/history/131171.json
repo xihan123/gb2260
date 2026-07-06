@@ -1,0 +1,16 @@
+{
+  "code": "131171",
+  "records": [
+    {
+      "code": "131171",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "河北衡水高新技术产业开发区",
+      "parent_code": "131100",
+      "path": "河北省/衡水市/河北衡水高新技术产业开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

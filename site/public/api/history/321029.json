@@ -1,0 +1,71 @@
+{
+  "code": "321029",
+  "records": [
+    {
+      "code": "321029",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仪征县",
+      "parent_code": "321000",
+      "path": "江苏省/扬州市/仪征县",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "321029",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仪征县",
+      "parent_code": "321000",
+      "path": "江苏省/扬州市/仪征县",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "321029",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仪征县",
+      "parent_code": "321000",
+      "path": "江苏省/扬州市/仪征县",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "321029",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仪征县",
+      "parent_code": "321000",
+      "path": "江苏省/扬州市/仪征县",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "code": "321029",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仪征县",
+      "parent_code": "321000",
+      "path": "江苏省/扬州市/仪征县",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "code": "321029",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仪征县",
+      "parent_code": "321000",
+      "path": "江苏省/扬州市/仪征县",
+      "revision": "198512",
+      "source": "mca"
+    }
+  ]
+}

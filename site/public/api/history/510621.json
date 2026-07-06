@@ -1,0 +1,27 @@
+{
+  "code": "510621",
+  "records": [
+    {
+      "code": "510621",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "德阳县",
+      "parent_code": "510600",
+      "path": "四川省/德阳市/德阳县",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "510621",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "德阳县",
+      "parent_code": "510600",
+      "path": "四川省/德阳市/德阳县",
+      "revision": "198312",
+      "source": "mca"
+    }
+  ]
+}

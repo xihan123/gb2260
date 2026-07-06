@@ -1,0 +1,16 @@
+{
+  "code": "540171",
+  "records": [
+    {
+      "code": "540171",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "格尔木藏青工业园区",
+      "parent_code": "540100",
+      "path": "西藏自治区/拉萨市/格尔木藏青工业园区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

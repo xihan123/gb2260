@@ -1,0 +1,38 @@
+{
+  "code": "442202",
+  "records": [
+    {
+      "code": "442202",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "通什市",
+      "parent_code": "442200",
+      "path": "广东省/海南黎族苗族自治州/通什市",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "442202",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "通什市",
+      "parent_code": "442200",
+      "path": "广东省/海南黎族苗族自治州/通什市",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "442202",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "通什市",
+      "parent_code": "440000",
+      "path": "广东省/通什市",
+      "revision": "198712",
+      "source": "mca"
+    }
+  ]
+}

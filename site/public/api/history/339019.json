@@ -1,0 +1,16 @@
+{
+  "code": "339019",
+  "records": [
+    {
+      "code": "339019",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "富阳市",
+      "parent_code": "330000",
+      "path": "浙江省/富阳市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "412426",
+  "records": [
+    {
+      "code": "412426",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新郑县",
+      "parent_code": "412400",
+      "path": "河南省/开封地区/新郑县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "412426",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新郑县",
+      "parent_code": "412400",
+      "path": "河南省/开封地区/新郑县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

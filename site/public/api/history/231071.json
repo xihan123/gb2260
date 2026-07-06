@@ -1,0 +1,16 @@
+{
+  "code": "231071",
+  "records": [
+    {
+      "code": "231071",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "牡丹江经济技术开发区",
+      "parent_code": "231000",
+      "path": "黑龙江省/牡丹江市/牡丹江经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

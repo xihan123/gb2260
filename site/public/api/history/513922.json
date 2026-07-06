@@ -1,0 +1,49 @@
+{
+  "code": "513922",
+  "records": [
+    {
+      "code": "513922",
+      "file": "areacodes/data/1998.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "乐至县",
+      "parent_code": "513900",
+      "path": "四川省/资阳地区/乐至县",
+      "revision": "1998",
+      "source": "areacodes"
+    },
+    {
+      "code": "513922",
+      "file": "areacodes/data/1999.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "乐至县",
+      "parent_code": "513900",
+      "path": "四川省/资阳地区/乐至县",
+      "revision": "1999",
+      "source": "areacodes"
+    },
+    {
+      "code": "513922",
+      "file": "gb2260/mca/199812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "乐至县",
+      "parent_code": "513900",
+      "path": "四川省/资阳地区/乐至县",
+      "revision": "199812",
+      "source": "mca"
+    },
+    {
+      "code": "513922",
+      "file": "gb2260/mca/199912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "乐至县",
+      "parent_code": "513900",
+      "path": "四川省/资阳地区/乐至县",
+      "revision": "199912",
+      "source": "mca"
+    }
+  ]
+}

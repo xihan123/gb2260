@@ -1,0 +1,16 @@
+{
+  "code": "130672",
+  "records": [
+    {
+      "code": "130672",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "保定白沟新城",
+      "parent_code": "130600",
+      "path": "河北省/保定市/保定白沟新城",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "code": "232702",
+  "records": [
+    {
+      "code": "232702",
+      "file": "gb2260/200712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "松岭区",
+      "parent_code": "232700",
+      "path": "黑龙江省/大兴安岭地区/松岭区",
+      "revision": "200712",
+      "source": "gb"
+    },
+    {
+      "code": "232702",
+      "file": "gb2260/stats/200612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "松岭区",
+      "parent_code": "232700",
+      "path": "黑龙江省/大兴安岭地区/松岭区",
+      "revision": "200612",
+      "source": "stats"
+    },
+    {
+      "code": "232702",
+      "file": "gb2260/stats/200712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "松岭区",
+      "parent_code": "232700",
+      "path": "黑龙江省/大兴安岭地区/松岭区",
+      "revision": "200712",
+      "source": "stats"
+    },
+    {
+      "code": "232702",
+      "file": "gb2260/stats/200812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "松岭区",
+      "parent_code": "232700",
+      "path": "黑龙江省/大兴安岭地区/松岭区",
+      "revision": "200812",
+      "source": "stats"
+    }
+  ]
+}

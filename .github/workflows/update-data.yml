@@ -1,0 +1,70 @@
+name: 更新数据
+
+on:
+  schedule:
+    - cron: "30 2 * * 1"
+  workflow_dispatch:
+    inputs:
+      force_commit:
+        description: "即使只有站点元数据变化也提交"
+        required: false
+        default: "false"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+          cache: npm
+
+      - name: 安装前端依赖
+        run: npm ci
+
+      - name: 刷新上游原始数据
+        run: python scripts/fetch_sources.py --force
+
+      - name: 构建数据
+        run: python scripts/build_database.py
+
+      - name: 同步云函数数据
+        run: |
+          mkdir -p cloud-functions/data
+          cp data/build/areas.csv data/build/changes.csv data/build/plate_codes.csv data/build/source_areas.csv data/build/versions.csv cloud-functions/data/
+
+      - name: 检测数据变化
+        id: diff
+        run: |
+          if git diff --quiet -- data/raw data/build cloud-functions/data; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: 构建静态站点
+        if: steps.diff.outputs.changed == 'true' || github.event.inputs.force_commit == 'true'
+        run: python scripts/build_site.py
+
+      - name: 提交数据更新
+        if: steps.diff.outputs.changed == 'true' || github.event.inputs.force_commit == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/raw data/build cloud-functions/data site/public
+          git commit -m "更新 GB2260 行政区划数据" || exit 0
+          git push

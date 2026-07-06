@@ -1,0 +1,71 @@
+{
+  "code": "130506",
+  "records": [
+    {
+      "code": "130506",
+      "file": "areacodes/data/2020.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南和区",
+      "parent_code": "130500",
+      "path": "河北省/邢台市/南和区",
+      "revision": "2020",
+      "source": "areacodes"
+    },
+    {
+      "code": "130506",
+      "file": "areacodes/data/2021.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南和区",
+      "parent_code": "130500",
+      "path": "河北省/邢台市/南和区",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "code": "130506",
+      "file": "areacodes/data/2022.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南和区",
+      "parent_code": "130500",
+      "path": "河北省/邢台市/南和区",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "code": "130506",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南和区",
+      "parent_code": "130500",
+      "path": "河北省/邢台市/南和区",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "130506",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南和区",
+      "parent_code": "130500",
+      "path": "河北省/邢台市/南和区",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "130506",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南和区",
+      "parent_code": "130500",
+      "path": "河北省/邢台市/南和区",
+      "revision": "2025",
+      "source": "areacodes"
+    }
+  ]
+}

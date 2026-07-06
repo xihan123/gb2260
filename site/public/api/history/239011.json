@@ -1,0 +1,27 @@
+{
+  "code": "239011",
+  "records": [
+    {
+      "code": "239011",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宁安市",
+      "parent_code": "230000",
+      "path": "黑龙江省/宁安市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "239011",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宁安市",
+      "parent_code": "230000",
+      "path": "黑龙江省/宁安市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

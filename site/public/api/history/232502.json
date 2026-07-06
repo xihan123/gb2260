@@ -1,0 +1,60 @@
+{
+  "code": "232502",
+  "records": [
+    {
+      "code": "232502",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "绥芬河市",
+      "parent_code": "232500",
+      "path": "黑龙江省/牡丹江地区/绥芬河市",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "232502",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "绥芬河市",
+      "parent_code": "232500",
+      "path": "黑龙江省/牡丹江地区/绥芬河市",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "232502",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "东凤区",
+      "parent_code": "232500",
+      "path": "黑龙江省/牡丹江地区/东凤区",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "232502",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "东凤区",
+      "parent_code": "232500",
+      "path": "黑龙江省/牡丹江地区/东凤区",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "232502",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "东凤区",
+      "parent_code": "232500",
+      "path": "黑龙江省/牡丹江地区/东凤区",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

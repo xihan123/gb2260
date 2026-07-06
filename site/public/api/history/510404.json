@@ -1,0 +1,16 @@
+{
+  "code": "510404",
+  "records": [
+    {
+      "code": "510404",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仁和区",
+      "parent_code": "510400",
+      "path": "四川省/渡口市/仁和区",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

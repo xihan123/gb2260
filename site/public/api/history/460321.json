@@ -1,0 +1,49 @@
+{
+  "code": "460321",
+  "records": [
+    {
+      "code": "460321",
+      "file": "gb2260/stats/201210.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460300",
+      "path": "海南省/三沙市/西沙群岛",
+      "revision": "201210",
+      "source": "stats"
+    },
+    {
+      "code": "460321",
+      "file": "gb2260/stats/201308.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460300",
+      "path": "海南省/三沙市/西沙群岛",
+      "revision": "201308",
+      "source": "stats"
+    },
+    {
+      "code": "460321",
+      "file": "gb2260/stats/201509.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460300",
+      "path": "海南省/三沙市/西沙群岛",
+      "revision": "201509",
+      "source": "stats"
+    },
+    {
+      "code": "460321",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460300",
+      "path": "海南省/三沙市/西沙群岛",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

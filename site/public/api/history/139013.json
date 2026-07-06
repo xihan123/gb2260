@@ -1,0 +1,27 @@
+{
+  "code": "139013",
+  "records": [
+    {
+      "code": "139013",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南宫市",
+      "parent_code": "130000",
+      "path": "河北省/南宫市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "139013",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南宫市",
+      "parent_code": "130000",
+      "path": "河北省/南宫市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

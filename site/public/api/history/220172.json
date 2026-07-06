@@ -1,0 +1,16 @@
+{
+  "code": "220172",
+  "records": [
+    {
+      "code": "220172",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "长春净月高新技术产业开发区",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/长春净月高新技术产业开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

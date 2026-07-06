@@ -1,0 +1,38 @@
+{
+  "code": "449006",
+  "records": [
+    {
+      "code": "449006",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新会市",
+      "parent_code": "440000",
+      "path": "广东省/新会市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "449006",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新会市",
+      "parent_code": "440000",
+      "path": "广东省/新会市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "449006",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新会市",
+      "parent_code": "440000",
+      "path": "广东省/新会市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

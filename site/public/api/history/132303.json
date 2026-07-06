@@ -1,0 +1,49 @@
+{
+  "code": "132303",
+  "records": [
+    {
+      "code": "132303",
+      "file": "areacodes/data/1991.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋州市",
+      "parent_code": "132300",
+      "path": "河北省/石家庄地区/晋州市",
+      "revision": "1991",
+      "source": "areacodes"
+    },
+    {
+      "code": "132303",
+      "file": "areacodes/data/1992.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋州市",
+      "parent_code": "132300",
+      "path": "河北省/石家庄地区/晋州市",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "code": "132303",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋州市",
+      "parent_code": "132300",
+      "path": "河北省/石家庄地区/晋州市",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "code": "132303",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋州市",
+      "parent_code": "132300",
+      "path": "河北省/石家庄地区/晋州市",
+      "revision": "199212",
+      "source": "mca"
+    }
+  ]
+}

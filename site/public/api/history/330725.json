@@ -1,0 +1,71 @@
+{
+  "code": "330725",
+  "records": [
+    {
+      "code": "330725",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "义乌县",
+      "parent_code": "330700",
+      "path": "浙江省/金华市/义乌县",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "330725",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "义乌县",
+      "parent_code": "330700",
+      "path": "浙江省/金华市/义乌县",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "330725",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "义乌县",
+      "parent_code": "330700",
+      "path": "浙江省/金华市/义乌县",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "330725",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "义乌县",
+      "parent_code": "330700",
+      "path": "浙江省/金华市/义乌县",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "330725",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "义乌县",
+      "parent_code": "330700",
+      "path": "浙江省/金华市/义乌县",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "330725",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "义乌县",
+      "parent_code": "330700",
+      "path": "浙江省/金华市/义乌县",
+      "revision": "198712",
+      "source": "mca"
+    }
+  ]
+}

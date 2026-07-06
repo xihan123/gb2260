@@ -1,0 +1,38 @@
+{
+  "code": "210823",
+  "records": [
+    {
+      "code": "210823",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大洼县",
+      "parent_code": "210800",
+      "path": "辽宁省/营口市/大洼县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "210823",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大洼县",
+      "parent_code": "210800",
+      "path": "辽宁省/营口市/大洼县",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "210823",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大洼县",
+      "parent_code": "210800",
+      "path": "辽宁省/营口市/大洼县",
+      "revision": "1983",
+      "source": "areacodes"
+    }
+  ]
+}

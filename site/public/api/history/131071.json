@@ -1,0 +1,16 @@
+{
+  "code": "131071",
+  "records": [
+    {
+      "code": "131071",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "廊坊经济技术开发区",
+      "parent_code": "131000",
+      "path": "河北省/廊坊市/廊坊经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

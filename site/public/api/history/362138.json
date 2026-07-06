@@ -1,0 +1,60 @@
+{
+  "code": "362138",
+  "records": [
+    {
+      "code": "362138",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "广昌县",
+      "parent_code": "362100",
+      "path": "江西省/赣州地区/广昌县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "362138",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "广昌县",
+      "parent_code": "362100",
+      "path": "江西省/赣州地区/广昌县",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "362138",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "广昌县",
+      "parent_code": "362100",
+      "path": "江西省/赣州地区/广昌县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "362138",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "广昌县",
+      "parent_code": "362100",
+      "path": "江西省/赣州地区/广昌县",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "362138",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "广昌县",
+      "parent_code": "362100",
+      "path": "江西省/赣州地区/广昌县",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

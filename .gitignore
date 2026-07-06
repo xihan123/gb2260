@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+.env.*
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Node / Vite
+node_modules/
+.npm/
+dist/
+.vite/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local artifacts
+*.log
+*.sqlite-journal
+*.sqlite-shm
+*.sqlite-wal
+release-notes.md
+*.exe
+*.test
+coverage.out
+bin/

@@ -1,0 +1,16 @@
+{
+  "code": "370719",
+  "records": [
+    {
+      "code": "370719",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "青州市",
+      "parent_code": "370700",
+      "path": "山东省/潍坊市/青州市",
+      "revision": "1986",
+      "source": "areacodes"
+    }
+  ]
+}

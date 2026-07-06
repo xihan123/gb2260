@@ -1,0 +1,16 @@
+{
+  "code": "432221",
+  "records": [
+    {
+      "code": "432221",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "岳阳县",
+      "parent_code": "432200",
+      "path": "湖南省/岳阳地区/岳阳县",
+      "revision": "198012",
+      "source": "mca"
+    }
+  ]
+}

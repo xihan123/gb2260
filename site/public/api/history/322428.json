@@ -1,0 +1,27 @@
+{
+  "code": "322428",
+  "records": [
+    {
+      "code": "322428",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "泰县",
+      "parent_code": "322400",
+      "path": "江苏省/扬州地区/泰县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "322428",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "泰县",
+      "parent_code": "322400",
+      "path": "江苏省/扬州地区/泰县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

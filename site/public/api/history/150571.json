@@ -1,0 +1,16 @@
+{
+  "code": "150571",
+  "records": [
+    {
+      "code": "150571",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "通辽经济技术开发区",
+      "parent_code": "150500",
+      "path": "内蒙古自治区/通辽市/通辽经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

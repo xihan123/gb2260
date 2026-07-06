@@ -1,0 +1,16 @@
+{
+  "code": "152571",
+  "records": [
+    {
+      "code": "152571",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "乌拉盖管委会",
+      "parent_code": "152500",
+      "path": "内蒙古自治区/锡林郭勒盟/乌拉盖管委会",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

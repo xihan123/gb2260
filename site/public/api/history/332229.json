@@ -1,0 +1,16 @@
+{
+  "code": "332229",
+  "records": [
+    {
+      "code": "332229",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "吴兴县",
+      "parent_code": "332200",
+      "path": "浙江省/嘉兴地区/吴兴县",
+      "revision": "198012",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "code": "231122",
+  "records": [
+    {
+      "code": "231122",
+      "file": "areacodes/data/1993.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "德都县",
+      "parent_code": "231100",
+      "path": "黑龙江省/黑河市/德都县",
+      "revision": "1993",
+      "source": "areacodes"
+    },
+    {
+      "code": "231122",
+      "file": "areacodes/data/1994.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "德都县",
+      "parent_code": "231100",
+      "path": "黑龙江省/黑河市/德都县",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "231122",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "德都县",
+      "parent_code": "231100",
+      "path": "黑龙江省/黑河市/德都县",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "231122",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "德都县",
+      "parent_code": "231100",
+      "path": "黑龙江省/黑河市/德都县",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "231122",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "德都县",
+      "parent_code": "231100",
+      "path": "黑龙江省/黑河市/德都县",
+      "revision": "199412",
+      "source": "mca"
+    },
+    {
+      "code": "231122",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "德都县",
+      "parent_code": "231100",
+      "path": "黑龙江省/黑河市/德都县",
+      "revision": "199512",
+      "source": "mca"
+    }
+  ]
+}

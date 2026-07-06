@@ -1,0 +1,71 @@
+{
+  "code": "513800",
+  "records": [
+    {
+      "code": "513800",
+      "file": "areacodes/data/1997.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "眉山地区",
+      "parent_code": "510000",
+      "path": "四川省/眉山地区",
+      "revision": "1997",
+      "source": "areacodes"
+    },
+    {
+      "code": "513800",
+      "file": "areacodes/data/1998.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "眉山地区",
+      "parent_code": "510000",
+      "path": "四川省/眉山地区",
+      "revision": "1998",
+      "source": "areacodes"
+    },
+    {
+      "code": "513800",
+      "file": "areacodes/data/1999.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "眉山地区",
+      "parent_code": "510000",
+      "path": "四川省/眉山地区",
+      "revision": "1999",
+      "source": "areacodes"
+    },
+    {
+      "code": "513800",
+      "file": "gb2260/mca/199712.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "眉山地区",
+      "parent_code": "510000",
+      "path": "四川省/眉山地区",
+      "revision": "199712",
+      "source": "mca"
+    },
+    {
+      "code": "513800",
+      "file": "gb2260/mca/199812.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "眉山地区",
+      "parent_code": "510000",
+      "path": "四川省/眉山地区",
+      "revision": "199812",
+      "source": "mca"
+    },
+    {
+      "code": "513800",
+      "file": "gb2260/mca/199912.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "眉山地区",
+      "parent_code": "510000",
+      "path": "四川省/眉山地区",
+      "revision": "199912",
+      "source": "mca"
+    }
+  ]
+}

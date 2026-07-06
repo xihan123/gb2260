@@ -1,0 +1,27 @@
+{
+  "code": "341121",
+  "records": [
+    {
+      "code": "341121",
+      "file": "areacodes/data/1992.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "天长县",
+      "parent_code": "341100",
+      "path": "安徽省/滁州市/天长县",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "code": "341121",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "天长县",
+      "parent_code": "341100",
+      "path": "安徽省/滁州市/天长县",
+      "revision": "199212",
+      "source": "mca"
+    }
+  ]
+}

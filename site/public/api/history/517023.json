@@ -1,0 +1,27 @@
+{
+  "code": "517023",
+  "records": [
+    {
+      "code": "517023",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武隆县",
+      "parent_code": "517000",
+      "path": "四川省/涪陵市/武隆县",
+      "revision": "199512",
+      "source": "mca"
+    },
+    {
+      "code": "517023",
+      "file": "gb2260/mca/199612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武隆县",
+      "parent_code": "517000",
+      "path": "四川省/涪陵市/武隆县",
+      "revision": "199612",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "code": "211203",
+  "records": [
+    {
+      "code": "211203",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "铁法区",
+      "parent_code": "211200",
+      "path": "辽宁省/铁岭市/铁法区",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "211203",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "铁法区",
+      "parent_code": "211200",
+      "path": "辽宁省/铁岭市/铁法区",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "211203",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "铁法区",
+      "parent_code": "211200",
+      "path": "辽宁省/铁岭市/铁法区",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "code": "211203",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "铁法区",
+      "parent_code": "211200",
+      "path": "辽宁省/铁岭市/铁法区",
+      "revision": "198512",
+      "source": "mca"
+    }
+  ]
+}

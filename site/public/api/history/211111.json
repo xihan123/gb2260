@@ -1,0 +1,49 @@
+{
+  "code": "211111",
+  "records": [
+    {
+      "code": "211111",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郊区",
+      "parent_code": "211100",
+      "path": "辽宁省/盘锦市/郊区",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "211111",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郊区",
+      "parent_code": "211100",
+      "path": "辽宁省/盘锦市/郊区",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "211111",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郊区",
+      "parent_code": "211100",
+      "path": "辽宁省/盘锦市/郊区",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "code": "211111",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郊区",
+      "parent_code": "211100",
+      "path": "辽宁省/盘锦市/郊区",
+      "revision": "198512",
+      "source": "mca"
+    }
+  ]
+}

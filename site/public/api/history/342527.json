@@ -1,0 +1,38 @@
+{
+  "code": "342527",
+  "records": [
+    {
+      "code": "342527",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南陵县",
+      "parent_code": "342500",
+      "path": "安徽省/宣城地区/南陵县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "342527",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南陵县",
+      "parent_code": "342500",
+      "path": "安徽省/宣城地区/南陵县",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "342527",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南陵县",
+      "parent_code": "342500",
+      "path": "安徽省/宣城地区/南陵县",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "code": "410424",
+  "records": [
+    {
+      "code": "410424",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "临汝县",
+      "parent_code": "410400",
+      "path": "河南省/平顶山市/临汝县",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "410424",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "临汝县",
+      "parent_code": "410400",
+      "path": "河南省/平顶山市/临汝县",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "410424",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "临汝县",
+      "parent_code": "410400",
+      "path": "河南省/平顶山市/临汝县",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "410424",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "临汝县",
+      "parent_code": "410400",
+      "path": "河南省/平顶山市/临汝县",
+      "revision": "198712",
+      "source": "mca"
+    }
+  ]
+}

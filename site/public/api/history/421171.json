@@ -1,0 +1,16 @@
+{
+  "code": "421171",
+  "records": [
+    {
+      "code": "421171",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "龙感湖管理区",
+      "parent_code": "421100",
+      "path": "湖北省/黄冈市/龙感湖管理区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

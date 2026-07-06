@@ -1,0 +1,16 @@
+{
+  "code": "519013",
+  "records": [
+    {
+      "code": "519013",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "崇州市",
+      "parent_code": "510000",
+      "path": "四川省/崇州市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

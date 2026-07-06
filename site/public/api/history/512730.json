@@ -1,0 +1,27 @@
+{
+  "code": "512730",
+  "records": [
+    {
+      "code": "512730",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "邛崃县",
+      "parent_code": "512700",
+      "path": "四川省/温江地区/邛崃县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "512730",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "邛崃县",
+      "parent_code": "512700",
+      "path": "四川省/温江地区/邛崃县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "229009",
+  "records": [
+    {
+      "code": "229009",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大安市",
+      "parent_code": "220000",
+      "path": "吉林省/大安市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "229009",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大安市",
+      "parent_code": "220000",
+      "path": "吉林省/大安市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

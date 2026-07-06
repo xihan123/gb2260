@@ -1,0 +1,71 @@
+{
+  "code": "320613",
+  "records": [
+    {
+      "code": "320613",
+      "file": "areacodes/data/2020.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "崇川区",
+      "parent_code": "320600",
+      "path": "江苏省/南通市/崇川区",
+      "revision": "2020",
+      "source": "areacodes"
+    },
+    {
+      "code": "320613",
+      "file": "areacodes/data/2021.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "崇川区",
+      "parent_code": "320600",
+      "path": "江苏省/南通市/崇川区",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "code": "320613",
+      "file": "areacodes/data/2022.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "崇川区",
+      "parent_code": "320600",
+      "path": "江苏省/南通市/崇川区",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "code": "320613",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "崇川区",
+      "parent_code": "320600",
+      "path": "江苏省/南通市/崇川区",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "320613",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "崇川区",
+      "parent_code": "320600",
+      "path": "江苏省/南通市/崇川区",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "320613",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "崇川区",
+      "parent_code": "320600",
+      "path": "江苏省/南通市/崇川区",
+      "revision": "2025",
+      "source": "areacodes"
+    }
+  ]
+}

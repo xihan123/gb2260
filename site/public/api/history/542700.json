@@ -1,0 +1,71 @@
+{
+  "code": "542700",
+  "records": [
+    {
+      "code": "542700",
+      "file": "areacodes/data/1983.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "江孜地区",
+      "parent_code": "540000",
+      "path": "西藏自治区/江孜地区",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "542700",
+      "file": "areacodes/data/1984.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "江孜地区",
+      "parent_code": "540000",
+      "path": "西藏自治区/江孜地区",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "542700",
+      "file": "areacodes/data/1985.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "江孜地区",
+      "parent_code": "540000",
+      "path": "西藏自治区/江孜地区",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "542700",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "江孜地区",
+      "parent_code": "540000",
+      "path": "西藏自治区/江孜地区",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "code": "542700",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "江孜地区",
+      "parent_code": "540000",
+      "path": "西藏自治区/江孜地区",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "code": "542700",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "江孜地区",
+      "parent_code": "540000",
+      "path": "西藏自治区/江孜地区",
+      "revision": "198512",
+      "source": "mca"
+    }
+  ]
+}

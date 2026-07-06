@@ -1,0 +1,27 @@
+{
+  "code": "342831",
+  "records": [
+    {
+      "code": "342831",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "石台县",
+      "parent_code": "342800",
+      "path": "安徽省/安庆地区/石台县",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "342831",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "石台县",
+      "parent_code": "342800",
+      "path": "安庆地区/石台县",
+      "revision": "198712",
+      "source": "mca"
+    }
+  ]
+}

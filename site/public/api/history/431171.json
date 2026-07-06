@@ -1,0 +1,16 @@
+{
+  "code": "431171",
+  "records": [
+    {
+      "code": "431171",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "永州经济技术开发区",
+      "parent_code": "431100",
+      "path": "湖南省/永州市/永州经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

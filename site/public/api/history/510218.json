@@ -1,0 +1,38 @@
+{
+  "code": "510218",
+  "records": [
+    {
+      "code": "510218",
+      "file": "areacodes/data/1994.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "渝北区",
+      "parent_code": "510200",
+      "path": "四川省/重庆市/渝北区",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "510218",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "渝北区",
+      "parent_code": "510200",
+      "path": "四川省/重庆市/渝北区",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "510218",
+      "file": "areacodes/data/1996.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "渝北区",
+      "parent_code": "510200",
+      "path": "四川省/重庆市/渝北区",
+      "revision": "1996",
+      "source": "areacodes"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "339016",
+  "records": [
+    {
+      "code": "339016",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "桐乡市",
+      "parent_code": "330000",
+      "path": "浙江省/桐乡市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "339016",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "桐乡市",
+      "parent_code": "330000",
+      "path": "浙江省/桐乡市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

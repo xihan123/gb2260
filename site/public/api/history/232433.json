@@ -1,0 +1,93 @@
+{
+  "code": "232433",
+  "records": [
+    {
+      "code": "232433",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "抚远县",
+      "parent_code": "232400",
+      "path": "黑龙江省/合江地区/抚远县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "232433",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "抚远县",
+      "parent_code": "232400",
+      "path": "黑龙江省/合江地区/抚远县",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "232433",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "抚远县",
+      "parent_code": "232400",
+      "path": "黑龙江省/合江地区/抚远县",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "232433",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "抚远县",
+      "parent_code": "232400",
+      "path": "黑龙江省/合江地区/抚远县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "232433",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "抚远县",
+      "parent_code": "232400",
+      "path": "黑龙江省/合江地区/抚远县",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "232433",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "抚远县",
+      "parent_code": "232400",
+      "path": "黑龙江省/合江地区/抚远县",
+      "revision": "198212",
+      "source": "mca"
+    },
+    {
+      "code": "232433",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "抚远县",
+      "parent_code": "232400",
+      "path": "黑龙江省/合江地区/抚远县",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "code": "232433",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "抚远县",
+      "parent_code": "230000",
+      "path": "黑龙江省/抚远县",
+      "revision": "198612",
+      "source": "mca"
+    }
+  ]
+}

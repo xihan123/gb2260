@@ -1,0 +1,16 @@
+{
+  "code": "150172",
+  "records": [
+    {
+      "code": "150172",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "呼和浩特经济技术开发区",
+      "parent_code": "150100",
+      "path": "内蒙古自治区/呼和浩特市/呼和浩特经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

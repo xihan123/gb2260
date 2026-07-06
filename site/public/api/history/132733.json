@@ -1,0 +1,49 @@
+{
+  "code": "132733",
+  "records": [
+    {
+      "code": "132733",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "唐海县",
+      "parent_code": "132700",
+      "path": "河北省/唐山地区/唐海县",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "132733",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "卢龙县",
+      "parent_code": "132700",
+      "path": "河北省/唐山地区/卢龙县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "132733",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "卢龙县",
+      "parent_code": "132700",
+      "path": "河北省/唐山地区/卢龙县",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "132733",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "卢龙县",
+      "parent_code": "132700",
+      "path": "河北省/唐山地区/卢龙县",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

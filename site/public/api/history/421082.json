@@ -1,0 +1,38 @@
+{
+  "code": "421082",
+  "records": [
+    {
+      "code": "421082",
+      "file": "areacodes/data/1994.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钟祥市",
+      "parent_code": "421000",
+      "path": "湖北省/荆沙市/钟祥市",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "421082",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钟祥市",
+      "parent_code": "421000",
+      "path": "湖北省/荆沙市/钟祥市",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "421082",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钟祥市",
+      "parent_code": "421000",
+      "path": "湖北省/荆沙市/钟祥市",
+      "revision": "199512",
+      "source": "mca"
+    }
+  ]
+}

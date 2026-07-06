@@ -1,0 +1,16 @@
+{
+  "code": "229012",
+  "records": [
+    {
+      "code": "229012",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "德惠市",
+      "parent_code": "220000",
+      "path": "吉林省/德惠市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

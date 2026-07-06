@@ -1,0 +1,71 @@
+{
+  "code": "442201",
+  "records": [
+    {
+      "code": "442201",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "三亚市",
+      "parent_code": "442200",
+      "path": "广东省/海南黎族苗族自治州/三亚市",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "442201",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "三亚市",
+      "parent_code": "442200",
+      "path": "广东省/海南黎族苗族自治州/三亚市",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "442201",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "三亚市",
+      "parent_code": "442200",
+      "path": "广东省/海南黎族苗族自治州/三亚市",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "442201",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "三亚市",
+      "parent_code": "442200",
+      "path": "广东省/海南黎族苗族自治州/三亚市",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "code": "442201",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "三亚市",
+      "parent_code": "442200",
+      "path": "广东省/海南黎族苗族自治州/三亚市",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "442201",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "三亚市",
+      "parent_code": "442200",
+      "path": "广东省/海南黎族苗族自治州/三亚市",
+      "revision": "198612",
+      "source": "mca"
+    }
+  ]
+}

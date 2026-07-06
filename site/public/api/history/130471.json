@@ -1,0 +1,16 @@
+{
+  "code": "130471",
+  "records": [
+    {
+      "code": "130471",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "邯郸经济技术开发区",
+      "parent_code": "130400",
+      "path": "河北省/邯郸市/邯郸经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

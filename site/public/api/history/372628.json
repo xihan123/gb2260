@@ -1,0 +1,38 @@
+{
+  "code": "372628",
+  "records": [
+    {
+      "code": "372628",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新汶县",
+      "parent_code": "372600",
+      "path": "山东省/泰安地区/新汶县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "372628",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新汶县",
+      "parent_code": "372600",
+      "path": "山东省/泰安地区/新汶县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "372628",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新汶县",
+      "parent_code": "372600",
+      "path": "山东省/泰安地区/新汶县",
+      "revision": "198112",
+      "source": "mca"
+    }
+  ]
+}

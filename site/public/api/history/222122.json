@@ -1,0 +1,60 @@
+{
+  "code": "222122",
+  "records": [
+    {
+      "code": "222122",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "梨树县",
+      "parent_code": "222100",
+      "path": "吉林省/四平地区/梨树县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "222122",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "梨树县",
+      "parent_code": "222100",
+      "path": "吉林省/四平地区/梨树县",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "222122",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "农安县",
+      "parent_code": "220000",
+      "path": "吉林省/农安县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "222122",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "农安县",
+      "parent_code": "220000",
+      "path": "吉林省/农安县",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "222122",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "农安县",
+      "parent_code": "222100",
+      "path": "吉林省/德惠地区/农安县",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

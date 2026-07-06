@@ -1,0 +1,16 @@
+{
+  "code": "619002",
+  "records": [
+    {
+      "code": "619002",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "韩城市",
+      "parent_code": "610000",
+      "path": "陕西省/韩城市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

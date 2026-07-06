@@ -1,0 +1,71 @@
+{
+  "code": "442502",
+  "records": [
+    {
+      "code": "442502",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "东莞市",
+      "parent_code": "442500",
+      "path": "广东省/惠阳地区/东莞市",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "442502",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "东莞市",
+      "parent_code": "442500",
+      "path": "广东省/惠阳地区/东莞市",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "442502",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "东莞市",
+      "parent_code": "442500",
+      "path": "广东省/惠阳地区/东莞市",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "442502",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "东莞市",
+      "parent_code": "442500",
+      "path": "广东省/惠阳地区/东莞市",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "442502",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "东莞市",
+      "parent_code": "442500",
+      "path": "广东省/惠阳地区/东莞市",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "442502",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "东莞市",
+      "parent_code": "442500",
+      "path": "广东省/惠阳地区/东莞市",
+      "revision": "198712",
+      "source": "mca"
+    }
+  ]
+}

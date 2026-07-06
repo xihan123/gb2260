@@ -1,0 +1,93 @@
+{
+  "code": "612103",
+  "records": [
+    {
+      "code": "612103",
+      "file": "areacodes/data/1990.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华阴市",
+      "parent_code": "612100",
+      "path": "陕西省/渭南地区/华阴市",
+      "revision": "1990",
+      "source": "areacodes"
+    },
+    {
+      "code": "612103",
+      "file": "areacodes/data/1991.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华阴市",
+      "parent_code": "612100",
+      "path": "陕西省/渭南地区/华阴市",
+      "revision": "1991",
+      "source": "areacodes"
+    },
+    {
+      "code": "612103",
+      "file": "areacodes/data/1992.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华阴市",
+      "parent_code": "612100",
+      "path": "陕西省/渭南地区/华阴市",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "code": "612103",
+      "file": "areacodes/data/1993.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华阴市",
+      "parent_code": "612100",
+      "path": "陕西省/渭南地区/华阴市",
+      "revision": "1993",
+      "source": "areacodes"
+    },
+    {
+      "code": "612103",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华阴市",
+      "parent_code": "612100",
+      "path": "陕西省/渭南地区/华阴市",
+      "revision": "199012",
+      "source": "mca"
+    },
+    {
+      "code": "612103",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华阴市",
+      "parent_code": "612100",
+      "path": "陕西省/渭南地区/华阴市",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "code": "612103",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华阴市",
+      "parent_code": "612100",
+      "path": "陕西省/渭南地区/华阴市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "612103",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华阴市",
+      "parent_code": "612100",
+      "path": "陕西省/渭南地区/华阴市",
+      "revision": "199312",
+      "source": "mca"
+    }
+  ]
+}

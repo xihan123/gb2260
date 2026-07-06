@@ -1,0 +1,38 @@
+{
+  "code": "219011",
+  "records": [
+    {
+      "code": "219011",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大石桥市",
+      "parent_code": "210000",
+      "path": "辽宁省/大石桥市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "219011",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大石桥市",
+      "parent_code": "210000",
+      "path": "辽宁省/大石桥市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "219011",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大石桥市",
+      "parent_code": "210000",
+      "path": "辽宁省/大石桥市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

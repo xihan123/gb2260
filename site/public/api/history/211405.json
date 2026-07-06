@@ -1,0 +1,60 @@
+{
+  "code": "211405",
+  "records": [
+    {
+      "code": "211405",
+      "file": "gb2260/mca/198912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "葫芦岛区",
+      "parent_code": "211400",
+      "path": "辽宁省/锦西市/葫芦岛区",
+      "revision": "198912",
+      "source": "mca"
+    },
+    {
+      "code": "211405",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "葫芦岛区",
+      "parent_code": "211400",
+      "path": "辽宁省/锦西市/葫芦岛区",
+      "revision": "199012",
+      "source": "mca"
+    },
+    {
+      "code": "211405",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "葫芦岛区",
+      "parent_code": "211400",
+      "path": "辽宁省/锦西市/葫芦岛区",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "code": "211405",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "葫芦岛区",
+      "parent_code": "211400",
+      "path": "辽宁省/锦西市/葫芦岛区",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "211405",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "葫芦岛区",
+      "parent_code": "211400",
+      "path": "辽宁省/锦西市/葫芦岛区",
+      "revision": "199312",
+      "source": "mca"
+    }
+  ]
+}

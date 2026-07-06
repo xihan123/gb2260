@@ -1,0 +1,38 @@
+{
+  "code": "372332",
+  "records": [
+    {
+      "code": "372332",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "垦利县",
+      "parent_code": "372300",
+      "path": "山东省/惠民地区/垦利县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "372332",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "利津县",
+      "parent_code": "372300",
+      "path": "山东省/惠民地区/利津县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "372332",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "利津县",
+      "parent_code": "372300",
+      "path": "山东省/惠民地区/利津县",
+      "revision": "198112",
+      "source": "mca"
+    }
+  ]
+}

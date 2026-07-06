@@ -1,0 +1,115 @@
+{
+  "code": "469039",
+  "records": [
+    {
+      "code": "469039",
+      "file": "gb2260/200212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "中沙群岛的岛礁及其海域",
+      "parent_code": "469000",
+      "path": "海南省/省直辖县级行政单位/中沙群岛的岛礁及其海域",
+      "revision": "200212",
+      "source": "gb"
+    },
+    {
+      "code": "469039",
+      "file": "gb2260/stats/200212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "中沙群岛的岛礁及其海域",
+      "parent_code": "469000",
+      "path": "海南省/省直辖县级行政单位/中沙群岛的岛礁及其海域",
+      "revision": "200212",
+      "source": "stats"
+    },
+    {
+      "code": "469039",
+      "file": "gb2260/stats/200306.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "中沙群岛的岛礁及其海域",
+      "parent_code": "469000",
+      "path": "海南省/省直辖县级行政单位/中沙群岛的岛礁及其海域",
+      "revision": "200306",
+      "source": "stats"
+    },
+    {
+      "code": "469039",
+      "file": "gb2260/stats/200312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "中沙群岛的岛礁及其海域",
+      "parent_code": "469000",
+      "path": "海南省/省直辖县级行政单位/中沙群岛的岛礁及其海域",
+      "revision": "200312",
+      "source": "stats"
+    },
+    {
+      "code": "469039",
+      "file": "gb2260/stats/200403.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "中沙群岛的岛礁及其海域",
+      "parent_code": "469000",
+      "path": "海南省/省直辖县级行政单位/中沙群岛的岛礁及其海域",
+      "revision": "200403",
+      "source": "stats"
+    },
+    {
+      "code": "469039",
+      "file": "gb2260/stats/200409.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "中沙群岛的岛礁及其海域",
+      "parent_code": "469000",
+      "path": "海南省/省直辖县级行政单位/中沙群岛的岛礁及其海域",
+      "revision": "200409",
+      "source": "stats"
+    },
+    {
+      "code": "469039",
+      "file": "gb2260/stats/200412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "中沙群岛的岛礁及其海域",
+      "parent_code": "469000",
+      "path": "海南省/省直辖县级行政单位/中沙群岛的岛礁及其海域",
+      "revision": "200412",
+      "source": "stats"
+    },
+    {
+      "code": "469039",
+      "file": "gb2260/stats/200506.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "中沙群岛的岛礁及其海域",
+      "parent_code": "469000",
+      "path": "海南省/省直辖县级行政单位/中沙群岛的岛礁及其海域",
+      "revision": "200506",
+      "source": "stats"
+    },
+    {
+      "code": "469039",
+      "file": "gb2260/stats/200512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "中沙群岛的岛礁及其海域",
+      "parent_code": "469000",
+      "path": "海南省/省直辖县级行政单位/中沙群岛的岛礁及其海域",
+      "revision": "200512",
+      "source": "stats"
+    },
+    {
+      "code": "469039",
+      "file": "gb2260/stats/200612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "中沙群岛的岛礁及其海域",
+      "parent_code": "469000",
+      "path": "海南省/省直辖县级行政单位/中沙群岛的岛礁及其海域",
+      "revision": "200612",
+      "source": "stats"
+    }
+  ]
+}

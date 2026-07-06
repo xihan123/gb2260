@@ -1,0 +1,38 @@
+{
+  "code": "433121",
+  "records": [
+    {
+      "code": "433121",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "吉首县",
+      "parent_code": "433100",
+      "path": "湖南省/湘西土家族苗族自治州/吉首县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "433121",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "吉首县",
+      "parent_code": "433100",
+      "path": "湖南省/湘西土家族苗族自治州/吉首县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "433121",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "吉首县",
+      "parent_code": "433100",
+      "path": "湖南省/湘西土家族苗族自治州/吉首县",
+      "revision": "198112",
+      "source": "mca"
+    }
+  ]
+}

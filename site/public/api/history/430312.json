@@ -1,0 +1,49 @@
+{
+  "code": "430312",
+  "records": [
+    {
+      "code": "430312",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "韶山区",
+      "parent_code": "430300",
+      "path": "湖南省/湘潭市/韶山区",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "430312",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "韶山区",
+      "parent_code": "430300",
+      "path": "湖南省/湘潭市/韶山区",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "430312",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "韶山区",
+      "parent_code": "430300",
+      "path": "湖南省/湘潭市/韶山区",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "430312",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "韶山区",
+      "parent_code": "430300",
+      "path": "湖南省/湘潭市/韶山区",
+      "revision": "1987",
+      "source": "areacodes"
+    }
+  ]
+}

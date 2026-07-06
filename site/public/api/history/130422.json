@@ -1,0 +1,49 @@
+{
+  "code": "130422",
+  "records": [
+    {
+      "code": "130422",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武安县",
+      "parent_code": "130400",
+      "path": "河北省/邯郸市/武安县",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "130422",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武安县",
+      "parent_code": "130400",
+      "path": "河北省/邯郸市/武安县",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "130422",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武安县",
+      "parent_code": "130400",
+      "path": "河北省/邯郸市/武安县",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "130422",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "武安县",
+      "parent_code": "130400",
+      "path": "河北省/邯郸市/武安县",
+      "revision": "198712",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "code": "139003",
+  "records": [
+    {
+      "code": "139003",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "遵化市",
+      "parent_code": "130000",
+      "path": "河北省/遵化市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "139003",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "遵化市",
+      "parent_code": "130000",
+      "path": "河北省/遵化市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "139003",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "遵化市",
+      "parent_code": "130000",
+      "path": "河北省/遵化市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

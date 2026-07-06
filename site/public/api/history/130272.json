@@ -1,0 +1,16 @@
+{
+  "code": "130272",
+  "records": [
+    {
+      "code": "130272",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "唐山市汉沽管理区",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/唐山市汉沽管理区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

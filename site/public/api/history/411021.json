@@ -1,0 +1,49 @@
+{
+  "code": "411021",
+  "records": [
+    {
+      "code": "411021",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "禹县",
+      "parent_code": "411000",
+      "path": "河南省/许昌市/禹县",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "411021",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "禹县",
+      "parent_code": "411000",
+      "path": "河南省/许昌市/禹县",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "411021",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "禹县",
+      "parent_code": "411000",
+      "path": "河南省/许昌市/禹县",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "411021",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "禹县",
+      "parent_code": "411000",
+      "path": "河南省/许昌市/禹县",
+      "revision": "198712",
+      "source": "mca"
+    }
+  ]
+}

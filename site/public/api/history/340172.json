@@ -1,0 +1,16 @@
+{
+  "code": "340172",
+  "records": [
+    {
+      "code": "340172",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "合肥经济技术开发区",
+      "parent_code": "340100",
+      "path": "安徽省/合肥市/合肥经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

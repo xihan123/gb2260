@@ -1,0 +1,16 @@
+{
+  "code": "411571",
+  "records": [
+    {
+      "code": "411571",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "信阳高新技术产业开发区",
+      "parent_code": "411500",
+      "path": "河南省/信阳市/信阳高新技术产业开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "code": "211325",
+  "records": [
+    {
+      "code": "211325",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "建昌县",
+      "parent_code": "211300",
+      "path": "辽宁省/朝阳市/建昌县",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "211325",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "建昌县",
+      "parent_code": "211300",
+      "path": "辽宁省/朝阳市/建昌县",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "211325",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "建昌县",
+      "parent_code": "211300",
+      "path": "辽宁省/朝阳市/建昌县",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "211325",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "建昌县",
+      "parent_code": "211300",
+      "path": "辽宁省/朝阳市/建昌县",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "211325",
+      "file": "areacodes/data/1988.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "建昌县",
+      "parent_code": "211300",
+      "path": "辽宁省/朝阳市/建昌县",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "code": "211325",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "建昌县",
+      "parent_code": "211300",
+      "path": "辽宁省/朝阳市/建昌县",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "code": "211325",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "建昌县",
+      "parent_code": "211300",
+      "path": "辽宁省/朝阳市/建昌县",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "211325",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "建昌县",
+      "parent_code": "211300",
+      "path": "辽宁省/朝阳市/建昌县",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "211325",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "建昌县",
+      "parent_code": "211300",
+      "path": "辽宁省/朝阳市/建昌县",
+      "revision": "198712",
+      "source": "mca"
+    },
+    {
+      "code": "211325",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "建昌县",
+      "parent_code": "211300",
+      "path": "辽宁省/朝阳市/建昌县",
+      "revision": "198812",
+      "source": "mca"
+    }
+  ]
+}

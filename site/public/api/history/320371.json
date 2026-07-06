@@ -1,0 +1,16 @@
+{
+  "code": "320371",
+  "records": [
+    {
+      "code": "320371",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "徐州经济技术开发区",
+      "parent_code": "320300",
+      "path": "江苏省/徐州市/徐州经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

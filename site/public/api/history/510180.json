@@ -1,0 +1,49 @@
+{
+  "code": "510180",
+  "records": [
+    {
+      "code": "510180",
+      "file": "gb2260/mca/201605.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "简阳市",
+      "parent_code": "510100",
+      "path": "四川省/成都市/简阳市",
+      "revision": "201605",
+      "source": "mca"
+    },
+    {
+      "code": "510180",
+      "file": "gb2260/mca/201606.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "简阳市",
+      "parent_code": "510100",
+      "path": "四川省/成都市/简阳市",
+      "revision": "201606",
+      "source": "mca"
+    },
+    {
+      "code": "510180",
+      "file": "gb2260/mca/201607.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "简阳市",
+      "parent_code": "510100",
+      "path": "四川省/成都市/简阳市",
+      "revision": "201607",
+      "source": "mca"
+    },
+    {
+      "code": "510180",
+      "file": "gb2260/mca/201608.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "简阳市",
+      "parent_code": "510100",
+      "path": "四川省/成都市/简阳市",
+      "revision": "201608",
+      "source": "mca"
+    }
+  ]
+}

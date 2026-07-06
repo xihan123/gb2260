@@ -1,0 +1,60 @@
+{
+  "code": "439006",
+  "records": [
+    {
+      "code": "439006",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "韶山市",
+      "parent_code": "430000",
+      "path": "湖南省/韶山市",
+      "revision": "199012",
+      "source": "mca"
+    },
+    {
+      "code": "439006",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "韶山市",
+      "parent_code": "430000",
+      "path": "湖南省/韶山市",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "code": "439006",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "韶山市",
+      "parent_code": "430000",
+      "path": "湖南省/韶山市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "439006",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "韶山市",
+      "parent_code": "430000",
+      "path": "湖南省/韶山市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "439006",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "韶山市",
+      "parent_code": "430000",
+      "path": "湖南省/韶山市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

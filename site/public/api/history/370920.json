@@ -1,0 +1,38 @@
+{
+  "code": "370920",
+  "records": [
+    {
+      "code": "370920",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新泰市",
+      "parent_code": "370900",
+      "path": "山东省/泰安市/新泰市",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "370920",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新泰市",
+      "parent_code": "370900",
+      "path": "山东省/泰安市/新泰市",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "370920",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新泰市",
+      "parent_code": "370900",
+      "path": "山东省/泰安市/新泰市",
+      "revision": "198712",
+      "source": "mca"
+    }
+  ]
+}

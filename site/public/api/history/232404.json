@@ -1,0 +1,38 @@
+{
+  "code": "232404",
+  "records": [
+    {
+      "code": "232404",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "前进区",
+      "parent_code": "232400",
+      "path": "黑龙江省/合江地区/前进区",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "232404",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "前进区",
+      "parent_code": "232400",
+      "path": "黑龙江省/合江地区/前进区",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "232404",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "前进区",
+      "parent_code": "232400",
+      "path": "黑龙江省/合江地区/前进区",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

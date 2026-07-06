@@ -1,0 +1,27 @@
+{
+  "code": "149002",
+  "records": [
+    {
+      "code": "149002",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "高平市",
+      "parent_code": "140000",
+      "path": "山西省/高平市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "149002",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "高平市",
+      "parent_code": "140000",
+      "path": "山西省/高平市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

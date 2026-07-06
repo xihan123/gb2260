@@ -1,0 +1,16 @@
+{
+  "code": "500157",
+  "records": [
+    {
+      "code": "500157",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "两江新区",
+      "parent_code": "500000",
+      "path": "重庆市/两江新区",
+      "revision": "2025",
+      "source": "areacodes"
+    }
+  ]
+}

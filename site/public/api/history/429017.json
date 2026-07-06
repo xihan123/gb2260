@@ -1,0 +1,16 @@
+{
+  "code": "429017",
+  "records": [
+    {
+      "code": "429017",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宜城市",
+      "parent_code": "420000",
+      "path": "湖北省/宜城市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

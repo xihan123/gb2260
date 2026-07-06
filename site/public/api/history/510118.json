@@ -1,0 +1,71 @@
+{
+  "code": "510118",
+  "records": [
+    {
+      "code": "510118",
+      "file": "areacodes/data/2020.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新津区",
+      "parent_code": "510100",
+      "path": "四川省/成都市/新津区",
+      "revision": "2020",
+      "source": "areacodes"
+    },
+    {
+      "code": "510118",
+      "file": "areacodes/data/2021.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新津区",
+      "parent_code": "510100",
+      "path": "四川省/成都市/新津区",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "code": "510118",
+      "file": "areacodes/data/2022.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新津区",
+      "parent_code": "510100",
+      "path": "四川省/成都市/新津区",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "code": "510118",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新津区",
+      "parent_code": "510100",
+      "path": "四川省/成都市/新津区",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "510118",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新津区",
+      "parent_code": "510100",
+      "path": "四川省/成都市/新津区",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "510118",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新津区",
+      "parent_code": "510100",
+      "path": "四川省/成都市/新津区",
+      "revision": "2025",
+      "source": "areacodes"
+    }
+  ]
+}

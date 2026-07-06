@@ -1,0 +1,16 @@
+{
+  "code": "411071",
+  "records": [
+    {
+      "code": "411071",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "许昌经济技术开发区",
+      "parent_code": "411000",
+      "path": "河南省/许昌市/许昌经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

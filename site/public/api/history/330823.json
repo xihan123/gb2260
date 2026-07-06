@@ -1,0 +1,49 @@
+{
+  "code": "330823",
+  "records": [
+    {
+      "code": "330823",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "江山县",
+      "parent_code": "330800",
+      "path": "浙江省/衢州市/江山县",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "330823",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "江山县",
+      "parent_code": "330800",
+      "path": "浙江省/衢州市/江山县",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "330823",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "江山县",
+      "parent_code": "330800",
+      "path": "浙江省/衢州市/江山县",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "330823",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "江山县",
+      "parent_code": "330800",
+      "path": "浙江省/衢州市/江山县",
+      "revision": "198612",
+      "source": "mca"
+    }
+  ]
+}

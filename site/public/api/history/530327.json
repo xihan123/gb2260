@@ -1,0 +1,27 @@
+{
+  "code": "530327",
+  "records": [
+    {
+      "code": "530327",
+      "file": "areacodes/data/1997.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "寻甸回族彝族自治县",
+      "parent_code": "530300",
+      "path": "云南省/曲靖市/寻甸回族彝族自治县",
+      "revision": "1997",
+      "source": "areacodes"
+    },
+    {
+      "code": "530327",
+      "file": "gb2260/mca/199712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "寻甸回族彝族自治县",
+      "parent_code": "530300",
+      "path": "云南省/曲靖市/寻甸回族彝族自治县",
+      "revision": "199712",
+      "source": "mca"
+    }
+  ]
+}

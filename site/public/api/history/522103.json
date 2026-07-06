@@ -1,0 +1,49 @@
+{
+  "code": "522103",
+  "records": [
+    {
+      "code": "522103",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仁怀市",
+      "parent_code": "522100",
+      "path": "贵州省/遵义地区/仁怀市",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "522103",
+      "file": "areacodes/data/1996.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仁怀市",
+      "parent_code": "522100",
+      "path": "贵州省/遵义地区/仁怀市",
+      "revision": "1996",
+      "source": "areacodes"
+    },
+    {
+      "code": "522103",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仁怀市",
+      "parent_code": "522100",
+      "path": "贵州省/遵义地区/仁怀市",
+      "revision": "199512",
+      "source": "mca"
+    },
+    {
+      "code": "522103",
+      "file": "gb2260/mca/199612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仁怀市",
+      "parent_code": "522100",
+      "path": "贵州省/遵义地区/仁怀市",
+      "revision": "199612",
+      "source": "mca"
+    }
+  ]
+}

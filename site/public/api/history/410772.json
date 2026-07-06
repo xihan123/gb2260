@@ -1,0 +1,16 @@
+{
+  "code": "410772",
+  "records": [
+    {
+      "code": "410772",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新乡经济技术开发区",
+      "parent_code": "410700",
+      "path": "河南省/新乡市/新乡经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

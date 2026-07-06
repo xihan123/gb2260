@@ -1,0 +1,16 @@
+{
+  "code": "130571",
+  "records": [
+    {
+      "code": "130571",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "河北邢台经济开发区",
+      "parent_code": "130500",
+      "path": "河北省/邢台市/河北邢台经济开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

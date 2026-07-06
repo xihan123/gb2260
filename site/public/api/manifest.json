@@ -1,0 +1,120 @@
+{
+  "api": [
+    "api/manifest.json",
+    "api/latest.json",
+    "api/search-index.json",
+    "api/changes.json",
+    "api/plates.json",
+    "api/versions.json",
+    "api/stats.json",
+    "api/schema.json",
+    "api/history-index.json",
+    "api/areas/{province_code}.json",
+    "api/history/{code}.json"
+  ],
+  "counts": {
+    "active_areas": 3212,
+    "areas": 6824,
+    "changes": 21455,
+    "history_codes": 7190,
+    "history_records": 452183,
+    "plate_codes": 376,
+    "province_files": 34,
+    "versions": 141
+  },
+  "files": [
+    {
+      "bytes": 825106,
+      "description": "生命周期主表",
+      "format": "CSV",
+      "path": "downloads/areas.csv",
+      "sha256": "8080d805fce45b5e260d61f7c5487185a404e3ab064cd53683a014082db16c8a",
+      "title": "areas.csv"
+    },
+    {
+      "bytes": 2938346,
+      "description": "按代码索引的结构化数据",
+      "format": "JSON",
+      "path": "downloads/areas.json",
+      "sha256": "e4844fb761ef80b912f81ffef508b12838865159d1940e83b9d6ef6195e1e619",
+      "title": "areas.json"
+    },
+    {
+      "bytes": 818278,
+      "description": "UTF-8 制表符分隔紧凑表",
+      "format": "DAT",
+      "path": "downloads/areas.dat",
+      "sha256": "238279b560f9fda61e538c12e26739d1be41d1865cfb9755d2be16cd0988dd9e",
+      "title": "areas.dat"
+    },
+    {
+      "bytes": 65134592,
+      "description": "离线关系数据库",
+      "format": "SQLite",
+      "path": "downloads/areas.sqlite",
+      "sha256": "1ea9f0d6fb52ba720069d5f0cc84bd3dc375f17bb153544c9ba8ac17f7a22f96",
+      "title": "areas.sqlite"
+    },
+    {
+      "bytes": 1078467,
+      "description": "新增、撤销、改名、旧新代码映射",
+      "format": "CSV",
+      "path": "downloads/changes.csv",
+      "sha256": "a402723b224d41238170e0d505e8dd1cfbe7720d8bc9d2666613fb69736b90bc",
+      "title": "changes.csv"
+    },
+    {
+      "bytes": 5179,
+      "description": "上游版本清单",
+      "format": "CSV",
+      "path": "downloads/versions.csv",
+      "sha256": "f262319e1169ba8733da2163f52251f0c88c89028b1bd091fe920f572337bf0e",
+      "title": "versions.csv"
+    },
+    {
+      "bytes": 11953,
+      "description": "车牌前缀映射",
+      "format": "CSV",
+      "path": "downloads/plate_codes.csv",
+      "sha256": "f27482567362a3527db18c5ca62ad6a0b1ca910de43aeb3af057e8d6ee8ae7b8",
+      "title": "plate_codes.csv"
+    },
+    {
+      "bytes": 46053298,
+      "description": "GB2260 各来源版本快照",
+      "format": "CSV",
+      "path": "downloads/source_areas.csv",
+      "sha256": "d0e083b92b1a4cc61918b5165651874130193df49ee4ec6037e569089579883c",
+      "title": "source_areas.csv"
+    },
+    {
+      "bytes": 17360710,
+      "description": "完整数据包",
+      "format": "ZIP",
+      "path": "downloads/gb2260-data-2025-87b768a8.zip",
+      "sha256": "cdfee25fc0cbaaeb7eac819d77e01f1b1b4d57128c4c3d57094834086fafdc1b",
+      "title": "gb2260-data-2025-87b768a8.zip"
+    },
+    {
+      "bytes": 735,
+      "description": "下载文件 SHA256 校验和",
+      "format": "TXT",
+      "path": "downloads/checksums.txt",
+      "sha256": "1f0357a5584c390204e763a834ba7ae25018937cd7ad44c39920d2fce94adb19",
+      "title": "checksums.txt"
+    }
+  ],
+  "generated_at": "2026-07-06T17:28:19+00:00",
+  "latest_year": 2025,
+  "sources": [
+    {
+      "name": "cn/GB2260",
+      "url": "https://github.com/cn/GB2260"
+    },
+    {
+      "name": "yescallop/areacodes",
+      "url": "https://github.com/yescallop/areacodes"
+    }
+  ],
+  "version": "gb2260-data-2025-87b768a8"
+}

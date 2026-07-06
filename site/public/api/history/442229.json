@@ -1,0 +1,71 @@
+{
+  "code": "442229",
+  "records": [
+    {
+      "code": "442229",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙、南沙、中沙群岛",
+      "parent_code": "442200",
+      "path": "广东省/海南黎族苗族自治州/西沙、南沙、中沙群岛",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "442229",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙、南沙、中沙群岛",
+      "parent_code": "442200",
+      "path": "广东省/海南黎族苗族自治州/西沙、南沙、中沙群岛",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "442229",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙、南沙、中沙群岛",
+      "parent_code": "442200",
+      "path": "广东省/海南黎族苗族自治州/西沙、南沙、中沙群岛",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "442229",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙、南沙、中沙群岛",
+      "parent_code": "442200",
+      "path": "广东省/海南黎族苗族自治州/西沙、南沙、中沙群岛",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "442229",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙、南沙、中沙群岛",
+      "parent_code": "442200",
+      "path": "广东省/海南黎族苗族自治州/西沙、南沙、中沙群岛",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "442229",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙、南沙、中沙群岛",
+      "parent_code": "442200",
+      "path": "广东省/海南黎族苗族自治州/西沙、南沙、中沙群岛",
+      "revision": "1986",
+      "source": "areacodes"
+    }
+  ]
+}

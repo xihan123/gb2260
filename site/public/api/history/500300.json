@@ -1,0 +1,104 @@
+{
+  "code": "500300",
+  "records": [
+    {
+      "code": "500300",
+      "file": "gb2260/200212.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "市",
+      "parent_code": "500000",
+      "path": "重庆市/市",
+      "revision": "200212",
+      "source": "gb"
+    },
+    {
+      "code": "500300",
+      "file": "gb2260/stats/200212.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "市",
+      "parent_code": "500000",
+      "path": "重庆市/市",
+      "revision": "200212",
+      "source": "stats"
+    },
+    {
+      "code": "500300",
+      "file": "gb2260/stats/200306.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "市",
+      "parent_code": "500000",
+      "path": "重庆市/市",
+      "revision": "200306",
+      "source": "stats"
+    },
+    {
+      "code": "500300",
+      "file": "gb2260/stats/200312.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "市",
+      "parent_code": "500000",
+      "path": "重庆市/市",
+      "revision": "200312",
+      "source": "stats"
+    },
+    {
+      "code": "500300",
+      "file": "gb2260/stats/200403.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "市",
+      "parent_code": "500000",
+      "path": "重庆市/市",
+      "revision": "200403",
+      "source": "stats"
+    },
+    {
+      "code": "500300",
+      "file": "gb2260/stats/200409.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "市",
+      "parent_code": "500000",
+      "path": "重庆市/市",
+      "revision": "200409",
+      "source": "stats"
+    },
+    {
+      "code": "500300",
+      "file": "gb2260/stats/200412.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "市",
+      "parent_code": "500000",
+      "path": "重庆市/市",
+      "revision": "200412",
+      "source": "stats"
+    },
+    {
+      "code": "500300",
+      "file": "gb2260/stats/200506.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "市",
+      "parent_code": "500000",
+      "path": "重庆市/市",
+      "revision": "200506",
+      "source": "stats"
+    },
+    {
+      "code": "500300",
+      "file": "gb2260/stats/200512.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "市",
+      "parent_code": "500000",
+      "path": "重庆市/市",
+      "revision": "200512",
+      "source": "stats"
+    }
+  ]
+}

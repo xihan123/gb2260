@@ -1,0 +1,27 @@
+{
+  "code": "342227",
+  "records": [
+    {
+      "code": "342227",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "五河县",
+      "parent_code": "342200",
+      "path": "安徽省/宿县地区/五河县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "342227",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "五河县",
+      "parent_code": "342200",
+      "path": "安徽省/宿县地区/五河县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

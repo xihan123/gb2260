@@ -1,0 +1,27 @@
+{
+  "code": "370981",
+  "records": [
+    {
+      "code": "370981",
+      "file": "areacodes/data/1990.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "莱芜市",
+      "parent_code": "370900",
+      "path": "山东省/泰安市/莱芜市",
+      "revision": "1990",
+      "source": "areacodes"
+    },
+    {
+      "code": "370981",
+      "file": "areacodes/data/1991.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "莱芜市",
+      "parent_code": "370900",
+      "path": "山东省/泰安市/莱芜市",
+      "revision": "1991",
+      "source": "areacodes"
+    }
+  ]
+}

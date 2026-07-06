@@ -1,0 +1,16 @@
+{
+  "code": "619003",
+  "records": [
+    {
+      "code": "619003",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华阴市",
+      "parent_code": "610000",
+      "path": "陕西省/华阴市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

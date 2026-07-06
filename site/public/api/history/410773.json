@@ -1,0 +1,16 @@
+{
+  "code": "410773",
+  "records": [
+    {
+      "code": "410773",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新乡市平原城乡一体化示范区",
+      "parent_code": "410700",
+      "path": "河南省/新乡市/新乡市平原城乡一体化示范区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

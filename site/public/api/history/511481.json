@@ -1,0 +1,27 @@
+{
+  "code": "511481",
+  "records": [
+    {
+      "code": "511481",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南川市",
+      "parent_code": "511400",
+      "path": "四川省/涪陵市/南川市",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "511481",
+      "file": "areacodes/data/1996.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南川市",
+      "parent_code": "511400",
+      "path": "四川省/涪陵市/南川市",
+      "revision": "1996",
+      "source": "areacodes"
+    }
+  ]
+}

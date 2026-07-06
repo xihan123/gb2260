@@ -1,0 +1,16 @@
+{
+  "code": "340372",
+  "records": [
+    {
+      "code": "340372",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "蚌埠市经济开发区",
+      "parent_code": "340300",
+      "path": "安徽省/蚌埠市/蚌埠市经济开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

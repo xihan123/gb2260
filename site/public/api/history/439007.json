@@ -1,0 +1,38 @@
+{
+  "code": "439007",
+  "records": [
+    {
+      "code": "439007",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "临湘市",
+      "parent_code": "430000",
+      "path": "湖南省/临湘市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "439007",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "临湘市",
+      "parent_code": "430000",
+      "path": "湖南省/临湘市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "439007",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "临湘市",
+      "parent_code": "430000",
+      "path": "湖南省/临湘市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

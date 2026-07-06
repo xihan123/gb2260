@@ -1,0 +1,16 @@
+{
+  "code": "370819",
+  "records": [
+    {
+      "code": "370819",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "曲阜市",
+      "parent_code": "370800",
+      "path": "山东省/济宁市/曲阜市",
+      "revision": "1986",
+      "source": "areacodes"
+    }
+  ]
+}

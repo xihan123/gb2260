@@ -1,0 +1,16 @@
+{
+  "code": "442102",
+  "records": [
+    {
+      "code": "442102",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "通什市",
+      "parent_code": "442100",
+      "path": "广东省/海南行政区/通什市",
+      "revision": "1987",
+      "source": "areacodes"
+    }
+  ]
+}

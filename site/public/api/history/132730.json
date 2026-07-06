@@ -1,0 +1,38 @@
+{
+  "code": "132730",
+  "records": [
+    {
+      "code": "132730",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "迁西县",
+      "parent_code": "132700",
+      "path": "河北省/唐山地区/迁西县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "132730",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "迁西县",
+      "parent_code": "132700",
+      "path": "河北省/唐山地区/迁西县",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "132730",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "唐海县",
+      "parent_code": "132700",
+      "path": "河北省/唐山地区/唐海县",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

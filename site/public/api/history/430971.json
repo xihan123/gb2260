@@ -1,0 +1,16 @@
+{
+  "code": "430971",
+  "records": [
+    {
+      "code": "430971",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "益阳市大通湖管理区",
+      "parent_code": "430900",
+      "path": "湖南省/益阳市/益阳市大通湖管理区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

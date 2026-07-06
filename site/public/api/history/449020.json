@@ -1,0 +1,16 @@
+{
+  "code": "449020",
+  "records": [
+    {
+      "code": "449020",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "恩平市",
+      "parent_code": "440000",
+      "path": "广东省/恩平市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

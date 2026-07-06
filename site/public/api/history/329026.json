@@ -1,0 +1,16 @@
+{
+  "code": "329026",
+  "records": [
+    {
+      "code": "329026",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "海门市",
+      "parent_code": "320000",
+      "path": "江苏省/海门市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

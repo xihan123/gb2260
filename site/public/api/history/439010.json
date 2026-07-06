@@ -1,0 +1,16 @@
+{
+  "code": "439010",
+  "records": [
+    {
+      "code": "439010",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "沅江市",
+      "parent_code": "430000",
+      "path": "湖南省/沅江市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "370171",
+  "records": [
+    {
+      "code": "370171",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济南高新技术产业开发区",
+      "parent_code": "370100",
+      "path": "山东省/济南市/济南高新技术产业开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

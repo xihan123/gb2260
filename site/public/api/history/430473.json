@@ -1,0 +1,16 @@
+{
+  "code": "430473",
+  "records": [
+    {
+      "code": "430473",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "湖南衡阳松木经济开发区",
+      "parent_code": "430400",
+      "path": "湖南省/衡阳市/湖南衡阳松木经济开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "442134",
+  "records": [
+    {
+      "code": "442134",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "陵水黎族自治县",
+      "parent_code": "442100",
+      "path": "广东省/海南行政区/陵水黎族自治县",
+      "revision": "1987",
+      "source": "areacodes"
+    }
+  ]
+}

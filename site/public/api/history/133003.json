@@ -1,0 +1,49 @@
+{
+  "code": "133003",
+  "records": [
+    {
+      "code": "133003",
+      "file": "areacodes/data/1994.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "深州市",
+      "parent_code": "133000",
+      "path": "河北省/衡水地区/深州市",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "133003",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "深州市",
+      "parent_code": "133000",
+      "path": "河北省/衡水地区/深州市",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "133003",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "深州市",
+      "parent_code": "133000",
+      "path": "河北省/衡水地区/深州市",
+      "revision": "199412",
+      "source": "mca"
+    },
+    {
+      "code": "133003",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "深州市",
+      "parent_code": "133000",
+      "path": "河北省/衡水地区/深州市",
+      "revision": "199512",
+      "source": "mca"
+    }
+  ]
+}

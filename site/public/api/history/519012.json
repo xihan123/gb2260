@@ -1,0 +1,16 @@
+{
+  "code": "519012",
+  "records": [
+    {
+      "code": "519012",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "邛崃市",
+      "parent_code": "510000",
+      "path": "四川省/邛崃市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

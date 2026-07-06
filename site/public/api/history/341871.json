@@ -1,0 +1,16 @@
+{
+  "code": "341871",
+  "records": [
+    {
+      "code": "341871",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宣城市经济开发区",
+      "parent_code": "341800",
+      "path": "安徽省/宣城市/宣城市经济开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

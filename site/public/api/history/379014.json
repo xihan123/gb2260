@@ -1,0 +1,82 @@
+{
+  "code": "379014",
+  "records": [
+    {
+      "code": "379014",
+      "file": "areacodes/data/1989.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平度市",
+      "parent_code": "370000",
+      "path": "山东省/平度市",
+      "revision": "1989",
+      "source": "areacodes"
+    },
+    {
+      "code": "379014",
+      "file": "gb2260/mca/198912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平度市",
+      "parent_code": "370000",
+      "path": "山东省/平度市",
+      "revision": "198912",
+      "source": "mca"
+    },
+    {
+      "code": "379014",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平度市",
+      "parent_code": "370000",
+      "path": "山东省/平度市",
+      "revision": "199012",
+      "source": "mca"
+    },
+    {
+      "code": "379014",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平度市",
+      "parent_code": "370000",
+      "path": "山东省/平度市",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "code": "379014",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平度市",
+      "parent_code": "370000",
+      "path": "山东省/平度市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "379014",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平度市",
+      "parent_code": "370000",
+      "path": "山东省/平度市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "379014",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平度市",
+      "parent_code": "370000",
+      "path": "山东省/平度市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

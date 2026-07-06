@@ -1,0 +1,40 @@
+{
+  "areas": {
+    "city": "二级行政区名称，直辖市县级记录为直辖",
+    "code": "6 位行政区划代码",
+    "end_year": "变更或弃用年份",
+    "level": "province / prefecture / county",
+    "name": "行政区划名称",
+    "new_code": "弃用后的承接代码",
+    "parent_code": "父级行政区划代码",
+    "path": "省/市/县路径",
+    "province": "一级行政区名称",
+    "source": "生命周期记录来源",
+    "start_year": "启用年份",
+    "status": "active / retired"
+  },
+  "changes": {
+    "change_type": "created / retired / remapped / added / removed / renamed",
+    "code": "原代码或变化代码",
+    "name": "名称",
+    "new_code": "承接新代码",
+    "new_name": "改名后名称",
+    "old_name": "改名前名称",
+    "source": "变化记录来源",
+    "year": "发生年份"
+  },
+  "plate_codes": {
+    "plate_code": "车牌前缀或前缀模式",
+    "region": "对应地区"
+  },
+  "source_areas": {
+    "code": "6 位行政区划代码",
+    "file": "来源文件",
+    "level": "province / prefecture / county",
+    "name": "该版本中的名称",
+    "parent_code": "该版本中的父级代码",
+    "path": "该版本中的所属路径",
+    "revision": "来源版本或年份",
+    "source": "gb / stats / mca / areacodes"
+  }
+}

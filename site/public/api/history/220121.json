@@ -1,0 +1,170 @@
+{
+  "code": "220121",
+  "records": [
+    {
+      "code": "220121",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "榆树县",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/榆树县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "220121",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "榆树县",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/榆树县",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "220121",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "榆树县",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/榆树县",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "220121",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "榆树县",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/榆树县",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "220121",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "榆树县",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/榆树县",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "220121",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "榆树县",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/榆树县",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "220121",
+      "file": "areacodes/data/1988.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "榆树县",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/榆树县",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "code": "220121",
+      "file": "areacodes/data/1989.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "榆树县",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/榆树县",
+      "revision": "1989",
+      "source": "areacodes"
+    },
+    {
+      "code": "220121",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "榆树县",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/榆树县",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "code": "220121",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "榆树县",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/榆树县",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "code": "220121",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "榆树县",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/榆树县",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "220121",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "榆树县",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/榆树县",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "220121",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "榆树县",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/榆树县",
+      "revision": "198712",
+      "source": "mca"
+    },
+    {
+      "code": "220121",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "榆树县",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/榆树县",
+      "revision": "198812",
+      "source": "mca"
+    },
+    {
+      "code": "220121",
+      "file": "gb2260/mca/198912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "榆树县",
+      "parent_code": "220100",
+      "path": "吉林省/长春市/榆树县",
+      "revision": "198912",
+      "source": "mca"
+    }
+  ]
+}

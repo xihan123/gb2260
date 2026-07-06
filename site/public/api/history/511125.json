@@ -1,0 +1,71 @@
+{
+  "code": "511125",
+  "records": [
+    {
+      "code": "511125",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "峨眉县",
+      "parent_code": "511100",
+      "path": "四川省/乐山市/峨眉县",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "511125",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "峨眉县",
+      "parent_code": "511100",
+      "path": "四川省/乐山市/峨眉县",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "511125",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "峨眉县",
+      "parent_code": "511100",
+      "path": "四川省/乐山市/峨眉县",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "511125",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "峨眉县",
+      "parent_code": "511100",
+      "path": "四川省/乐山市/峨眉县",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "511125",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "峨眉县",
+      "parent_code": "511100",
+      "path": "四川省/乐山市/峨眉县",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "511125",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "峨眉县",
+      "parent_code": "511100",
+      "path": "四川省/乐山市/峨眉县",
+      "revision": "198712",
+      "source": "mca"
+    }
+  ]
+}

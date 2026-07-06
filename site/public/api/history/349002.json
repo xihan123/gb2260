@@ -1,0 +1,16 @@
+{
+  "code": "349002",
+  "records": [
+    {
+      "code": "349002",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "明光市",
+      "parent_code": "340000",
+      "path": "安徽省/明光市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

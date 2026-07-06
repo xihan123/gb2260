@@ -1,0 +1,16 @@
+{
+  "code": "130473",
+  "records": [
+    {
+      "code": "130473",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "邯郸冀南新区",
+      "parent_code": "130400",
+      "path": "河北省/邯郸市/邯郸冀南新区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

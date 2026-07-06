@@ -1,0 +1,27 @@
+{
+  "code": "211326",
+  "records": [
+    {
+      "code": "211326",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "北票县",
+      "parent_code": "211300",
+      "path": "辽宁省/朝阳市/北票县",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "211326",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "北票县",
+      "parent_code": "211300",
+      "path": "辽宁省/朝阳市/北票县",
+      "revision": "198412",
+      "source": "mca"
+    }
+  ]
+}

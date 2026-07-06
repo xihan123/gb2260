@@ -1,0 +1,49 @@
+{
+  "code": "220321",
+  "records": [
+    {
+      "code": "220321",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "怀德县",
+      "parent_code": "220300",
+      "path": "吉林省/四平市/怀德县",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "220321",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "怀德县",
+      "parent_code": "220300",
+      "path": "吉林省/四平市/怀德县",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "220321",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "怀德县",
+      "parent_code": "220300",
+      "path": "吉林省/四平市/怀德县",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "code": "220321",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "怀德县",
+      "parent_code": "220300",
+      "path": "吉林省/四平市/怀德县",
+      "revision": "198412",
+      "source": "mca"
+    }
+  ]
+}

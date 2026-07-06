@@ -1,0 +1,16 @@
+{
+  "code": "130671",
+  "records": [
+    {
+      "code": "130671",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "保定高新技术产业开发区",
+      "parent_code": "130600",
+      "path": "河北省/保定市/保定高新技术产业开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

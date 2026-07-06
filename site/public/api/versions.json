@@ -1,0 +1,709 @@
+{
+  "versions": [
+    {
+      "file": "areacodes/data/1981.txt",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1982.txt",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1983.txt",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1984.txt",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1985.txt",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1986.txt",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1987.txt",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1988.txt",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1989.txt",
+      "revision": "1989",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1990.txt",
+      "revision": "1990",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1991.txt",
+      "revision": "1991",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1992.txt",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1993.txt",
+      "revision": "1993",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1994.txt",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1995.txt",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1996.txt",
+      "revision": "1996",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1997.txt",
+      "revision": "1997",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1998.txt",
+      "revision": "1998",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/1999.txt",
+      "revision": "1999",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2000.txt",
+      "revision": "2000",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2001.txt",
+      "revision": "2001",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2002.txt",
+      "revision": "2002",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2003.txt",
+      "revision": "2003",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2004.txt",
+      "revision": "2004",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2005.txt",
+      "revision": "2005",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2006.txt",
+      "revision": "2006",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2007.txt",
+      "revision": "2007",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2008.txt",
+      "revision": "2008",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2009.txt",
+      "revision": "2009",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2010.txt",
+      "revision": "2010",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2011.txt",
+      "revision": "2011",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2012.txt",
+      "revision": "2012",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2013.txt",
+      "revision": "2013",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2014.txt",
+      "revision": "2014",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2015.txt",
+      "revision": "2015",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2016.txt",
+      "revision": "2016",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2017.txt",
+      "revision": "2017",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2018.txt",
+      "revision": "2018",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2019.txt",
+      "revision": "2019",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2020.txt",
+      "revision": "2020",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2021.txt",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2022.txt",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2023.txt",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2024.txt",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/data/2025.txt",
+      "revision": "2025",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/plate-codes.csv",
+      "revision": "plate-codes",
+      "source": "areacodes"
+    },
+    {
+      "file": "areacodes/result.csv",
+      "revision": "result",
+      "source": "areacodes"
+    },
+    {
+      "file": "gb2260/200212.tsv",
+      "revision": "200212",
+      "source": "gb"
+    },
+    {
+      "file": "gb2260/200712.tsv",
+      "revision": "200712",
+      "source": "gb"
+    },
+    {
+      "file": "gb2260/mca/198012.tsv",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/198112.tsv",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/198212.tsv",
+      "revision": "198212",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/198312.tsv",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/198412.tsv",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/198512.tsv",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/198612.tsv",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/198712.tsv",
+      "revision": "198712",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/198812.tsv",
+      "revision": "198812",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/198912.tsv",
+      "revision": "198912",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/199012.tsv",
+      "revision": "199012",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/199112.tsv",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/199212.tsv",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/199312.tsv",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/199412.tsv",
+      "revision": "199412",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/199512.tsv",
+      "revision": "199512",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/199612.tsv",
+      "revision": "199612",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/199712.tsv",
+      "revision": "199712",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/199812.tsv",
+      "revision": "199812",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/199912.tsv",
+      "revision": "199912",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/200012.tsv",
+      "revision": "200012",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/200112.tsv",
+      "revision": "200112",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/200212.tsv",
+      "revision": "200212",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/200312.tsv",
+      "revision": "200312",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/200412.tsv",
+      "revision": "200412",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/200512.tsv",
+      "revision": "200512",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/200612.tsv",
+      "revision": "200612",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/200712.tsv",
+      "revision": "200712",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/200812.tsv",
+      "revision": "200812",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/200912.tsv",
+      "revision": "200912",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201012.tsv",
+      "revision": "201012",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201112.tsv",
+      "revision": "201112",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201312.tsv",
+      "revision": "201312",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201412.tsv",
+      "revision": "201412",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201501.tsv",
+      "revision": "201501",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201502.tsv",
+      "revision": "201502",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201503.tsv",
+      "revision": "201503",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201504.tsv",
+      "revision": "201504",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201505.tsv",
+      "revision": "201505",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201506.tsv",
+      "revision": "201506",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201507.tsv",
+      "revision": "201507",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201508.tsv",
+      "revision": "201508",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201509.tsv",
+      "revision": "201509",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201510.tsv",
+      "revision": "201510",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201511.tsv",
+      "revision": "201511",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201512.tsv",
+      "revision": "201512",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201601.tsv",
+      "revision": "201601",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201602.tsv",
+      "revision": "201602",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201603.tsv",
+      "revision": "201603",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201604.tsv",
+      "revision": "201604",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201605.tsv",
+      "revision": "201605",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201606.tsv",
+      "revision": "201606",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201607.tsv",
+      "revision": "201607",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201608.tsv",
+      "revision": "201608",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201609.tsv",
+      "revision": "201609",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201610.tsv",
+      "revision": "201610",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201611.tsv",
+      "revision": "201611",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201612.tsv",
+      "revision": "201612",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201701.tsv",
+      "revision": "201701",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201702.tsv",
+      "revision": "201702",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201703.tsv",
+      "revision": "201703",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201704.tsv",
+      "revision": "201704",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201705.tsv",
+      "revision": "201705",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201706.tsv",
+      "revision": "201706",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201707.tsv",
+      "revision": "201707",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201708.tsv",
+      "revision": "201708",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201709.tsv",
+      "revision": "201709",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201710.tsv",
+      "revision": "201710",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201711.tsv",
+      "revision": "201711",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201712.tsv",
+      "revision": "201712",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201801.tsv",
+      "revision": "201801",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/mca/201904.tsv",
+      "revision": "201904",
+      "source": "mca"
+    },
+    {
+      "file": "gb2260/stats/200212.tsv",
+      "revision": "200212",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/200306.tsv",
+      "revision": "200306",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/200312.tsv",
+      "revision": "200312",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/200403.tsv",
+      "revision": "200403",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/200409.tsv",
+      "revision": "200409",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/200412.tsv",
+      "revision": "200412",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/200506.tsv",
+      "revision": "200506",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/200512.tsv",
+      "revision": "200512",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/200612.tsv",
+      "revision": "200612",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/200712.tsv",
+      "revision": "200712",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/200812.tsv",
+      "revision": "200812",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/200912.tsv",
+      "revision": "200912",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/201010.tsv",
+      "revision": "201010",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/201110.tsv",
+      "revision": "201110",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/201210.tsv",
+      "revision": "201210",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/201308.tsv",
+      "revision": "201308",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/201410.tsv",
+      "revision": "201410",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/201509.tsv",
+      "revision": "201509",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/201607.tsv",
+      "revision": "201607",
+      "source": "stats"
+    },
+    {
+      "file": "gb2260/stats/201810.tsv",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

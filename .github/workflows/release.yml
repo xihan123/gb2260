@@ -1,0 +1,102 @@
+name: 发布数据
+
+on:
+  push:
+    tags:
+    - "v*"
+    - "gb2260-data-*"
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "发布标签，例如 gb2260-data-20260706"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+    - name: 检出代码
+      uses: actions/checkout@v4
+
+    - name: 设置 Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.14"
+
+    - name: 设置 Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: "24"
+        cache: npm
+
+    - name: 安装前端依赖
+      run: npm ci
+
+    - name: 构建发布资产
+      run: |
+        python scripts/fetch_sources.py --force
+        python scripts/build_database.py
+        python scripts/build_site.py
+
+    - name: 确定发布版本
+      id: version
+      run: |
+        VERSION="${{ github.event.inputs.version }}"
+        if [ -z "$VERSION" ]; then
+          if [ "${GITHUB_REF_TYPE}" = "tag" ]; then
+            VERSION="${GITHUB_REF_NAME}"
+          else
+            VERSION="gb2260-data-$(date -u +%Y%m%d)"
+          fi
+        fi
+        echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+    - name: 生成中文发布说明
+      env:
+        VERSION: ${{ steps.version.outputs.version }}
+      run: |
+        python - <<'PY'
+        import json
+        import os
+        from pathlib import Path
+
+        manifest = json.loads(Path("site/public/api/manifest.json").read_text(encoding="utf-8"))
+        version = os.environ["VERSION"]
+        lines = [
+            f"# {version} 行政区划数据发布",
+            "",
+            f"- 数据构建版本：{manifest['version']}",
+            f"- 最新覆盖年份：{manifest['latest_year']}",
+            f"- 生命周期记录：{manifest['counts']['areas']}",
+            f"- 当前有效记录：{manifest['counts']['active_areas']}",
+            f"- 沿革变化记录：{manifest['counts']['changes']}",
+            f"- 历史版本归属记录：{manifest['counts']['history_records']}",
+            f"- 历史代码数量：{manifest['counts']['history_codes']}",
+            f"- 车牌前缀映射：{manifest['counts']['plate_codes']}",
+            "",
+            "## 发布资产",
+            "",
+            "本次发布包含 CSV、JSON、DAT、SQLite、完整 ZIP 包和 SHA256 校验文件。",
+            "",
+            "## 数据来源",
+            "",
+            "- cn/GB2260",
+            "- yescallop/areacodes",
+        ]
+        Path("release-notes.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+        PY
+
+    - name: 创建或更新 GitHub Release
+      env:
+        GH_TOKEN: ${{ github.token }}
+        VERSION: ${{ steps.version.outputs.version }}
+      run: |
+        if gh release view "$VERSION" >/dev/null 2>&1; then
+          gh release edit "$VERSION" --title "$VERSION 行政区划数据发布" --notes-file release-notes.md
+          gh release upload "$VERSION" site/public/downloads/* --clobber
+        else
+          gh release create "$VERSION" site/public/downloads/* --title "$VERSION 行政区划数据发布" --notes-file release-notes.md
+        fi

@@ -1,0 +1,27 @@
+{
+  "code": "239010",
+  "records": [
+    {
+      "code": "239010",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "五大连池市",
+      "parent_code": "230000",
+      "path": "黑龙江省/五大连池市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "239010",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "五大连池市",
+      "parent_code": "230000",
+      "path": "黑龙江省/五大连池市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

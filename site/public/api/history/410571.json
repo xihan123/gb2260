@@ -1,0 +1,16 @@
+{
+  "code": "410571",
+  "records": [
+    {
+      "code": "410571",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "安阳高新技术产业开发区",
+      "parent_code": "410500",
+      "path": "河南省/安阳市/安阳高新技术产业开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

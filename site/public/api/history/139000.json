@@ -1,0 +1,27 @@
+{
+  "code": "139000",
+  "records": [
+    {
+      "code": "139000",
+      "file": "gb2260/stats/201509.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "省直辖县级行政区划",
+      "parent_code": "130000",
+      "path": "河北省/省直辖县级行政区划",
+      "revision": "201509",
+      "source": "stats"
+    },
+    {
+      "code": "139000",
+      "file": "gb2260/stats/201607.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "省直辖县级行政区划",
+      "parent_code": "130000",
+      "path": "河北省/省直辖县级行政区划",
+      "revision": "201607",
+      "source": "stats"
+    }
+  ]
+}

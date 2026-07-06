@@ -1,0 +1,82 @@
+{
+  "code": "230824",
+  "records": [
+    {
+      "code": "230824",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "友谊县",
+      "parent_code": "230800",
+      "path": "黑龙江省/佳木斯市/友谊县",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "code": "230824",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "友谊县",
+      "parent_code": "230800",
+      "path": "黑龙江省/佳木斯市/友谊县",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "230824",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "友谊县",
+      "parent_code": "230800",
+      "path": "黑龙江省/佳木斯市/友谊县",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "230824",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "友谊县",
+      "parent_code": "230800",
+      "path": "黑龙江省/佳木斯市/友谊县",
+      "revision": "198712",
+      "source": "mca"
+    },
+    {
+      "code": "230824",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "友谊县",
+      "parent_code": "230800",
+      "path": "黑龙江省/佳木斯市/友谊县",
+      "revision": "198812",
+      "source": "mca"
+    },
+    {
+      "code": "230824",
+      "file": "gb2260/mca/198912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "友谊县",
+      "parent_code": "230800",
+      "path": "黑龙江省/佳木斯市/友谊县",
+      "revision": "198912",
+      "source": "mca"
+    },
+    {
+      "code": "230824",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "友谊县",
+      "parent_code": "230800",
+      "path": "黑龙江省/佳木斯市/友谊县",
+      "revision": "199012",
+      "source": "mca"
+    }
+  ]
+}

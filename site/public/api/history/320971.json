@@ -1,0 +1,16 @@
+{
+  "code": "320971",
+  "records": [
+    {
+      "code": "320971",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "盐城经济技术开发区",
+      "parent_code": "320900",
+      "path": "江苏省/盐城市/盐城经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

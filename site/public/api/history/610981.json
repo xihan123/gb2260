@@ -1,0 +1,60 @@
+{
+  "code": "610981",
+  "records": [
+    {
+      "code": "610981",
+      "file": "areacodes/data/2021.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "旬阳市",
+      "parent_code": "610900",
+      "path": "陕西省/安康市/旬阳市",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "code": "610981",
+      "file": "areacodes/data/2022.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "旬阳市",
+      "parent_code": "610900",
+      "path": "陕西省/安康市/旬阳市",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "code": "610981",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "旬阳市",
+      "parent_code": "610900",
+      "path": "陕西省/安康市/旬阳市",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "610981",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "旬阳市",
+      "parent_code": "610900",
+      "path": "陕西省/安康市/旬阳市",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "610981",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "旬阳市",
+      "parent_code": "610900",
+      "path": "陕西省/安康市/旬阳市",
+      "revision": "2025",
+      "source": "areacodes"
+    }
+  ]
+}

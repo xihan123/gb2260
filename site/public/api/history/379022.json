@@ -1,0 +1,16 @@
+{
+  "code": "379022",
+  "records": [
+    {
+      "code": "379022",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "禹城市",
+      "parent_code": "370000",
+      "path": "山东省/禹城市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

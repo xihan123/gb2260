@@ -1,0 +1,60 @@
+name: 部署 GitHub Pages
+
+on:
+  push:
+    branches:
+    - main
+    - master
+  workflow_dispatch:
+
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+    - name: 检出代码
+      uses: actions/checkout@v4
+
+    - name: 设置 Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.14"
+
+    - name: 设置 Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: "24"
+        cache: npm
+
+    - name: 安装前端依赖
+      run: npm ci
+
+    - name: 构建数据和站点
+      run: |
+        python scripts/fetch_sources.py
+        python scripts/build_database.py
+        python scripts/build_site.py
+
+    - name: 配置 Pages
+      uses: actions/configure-pages@v5
+
+    - name: 上传 Pages 产物
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: site/public
+
+    - name: 部署到 GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v4

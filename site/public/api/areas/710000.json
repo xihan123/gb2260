@@ -1,0 +1,19 @@
+{
+  "areas": [
+    {
+      "city": "",
+      "code": "710000",
+      "end_year": "",
+      "level": "province",
+      "level_label": "省级",
+      "name": "台湾省",
+      "new_code": "",
+      "parent_code": "",
+      "path": "台湾省",
+      "province": "台湾省",
+      "start_year": "1981",
+      "status": "active"
+    }
+  ],
+  "province_code": "710000"
+}

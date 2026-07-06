@@ -1,0 +1,203 @@
+{
+  "code": "513500",
+  "records": [
+    {
+      "code": "513500",
+      "file": "areacodes/data/1988.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "code": "513500",
+      "file": "areacodes/data/1989.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "1989",
+      "source": "areacodes"
+    },
+    {
+      "code": "513500",
+      "file": "areacodes/data/1990.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "1990",
+      "source": "areacodes"
+    },
+    {
+      "code": "513500",
+      "file": "areacodes/data/1991.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "1991",
+      "source": "areacodes"
+    },
+    {
+      "code": "513500",
+      "file": "areacodes/data/1992.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "code": "513500",
+      "file": "areacodes/data/1993.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "1993",
+      "source": "areacodes"
+    },
+    {
+      "code": "513500",
+      "file": "areacodes/data/1994.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "513500",
+      "file": "areacodes/data/1995.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "513500",
+      "file": "areacodes/data/1996.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "1996",
+      "source": "areacodes"
+    },
+    {
+      "code": "513500",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "198812",
+      "source": "mca"
+    },
+    {
+      "code": "513500",
+      "file": "gb2260/mca/198912.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "198912",
+      "source": "mca"
+    },
+    {
+      "code": "513500",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "199012",
+      "source": "mca"
+    },
+    {
+      "code": "513500",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "code": "513500",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "513500",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "513500",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "199412",
+      "source": "mca"
+    },
+    {
+      "code": "513500",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "199512",
+      "source": "mca"
+    },
+    {
+      "code": "513500",
+      "file": "gb2260/mca/199612.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "黔江地区",
+      "parent_code": "510000",
+      "path": "四川省/黔江地区",
+      "revision": "199612",
+      "source": "mca"
+    }
+  ]
+}

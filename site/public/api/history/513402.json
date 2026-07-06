@@ -1,0 +1,60 @@
+{
+  "code": "513402",
+  "records": [
+    {
+      "code": "513402",
+      "file": "areacodes/data/2021.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "会理市",
+      "parent_code": "513400",
+      "path": "四川省/凉山彝族自治州/会理市",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "code": "513402",
+      "file": "areacodes/data/2022.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "会理市",
+      "parent_code": "513400",
+      "path": "四川省/凉山彝族自治州/会理市",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "code": "513402",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "会理市",
+      "parent_code": "513400",
+      "path": "四川省/凉山彝族自治州/会理市",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "513402",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "会理市",
+      "parent_code": "513400",
+      "path": "四川省/凉山彝族自治州/会理市",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "513402",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "会理市",
+      "parent_code": "513400",
+      "path": "四川省/凉山彝族自治州/会理市",
+      "revision": "2025",
+      "source": "areacodes"
+    }
+  ]
+}

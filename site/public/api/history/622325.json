@@ -1,0 +1,16 @@
+{
+  "code": "622325",
+  "records": [
+    {
+      "code": "622325",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "永昌县",
+      "parent_code": "622300",
+      "path": "甘肃省/武威地区/永昌县",
+      "revision": "198012",
+      "source": "mca"
+    }
+  ]
+}

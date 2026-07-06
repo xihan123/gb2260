@@ -1,0 +1,49 @@
+{
+  "code": "330223",
+  "records": [
+    {
+      "code": "330223",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "余姚县",
+      "parent_code": "330200",
+      "path": "浙江省/宁波市/余姚县",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "330223",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "余姚县",
+      "parent_code": "330200",
+      "path": "浙江省/宁波市/余姚县",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "330223",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "余姚县",
+      "parent_code": "330200",
+      "path": "浙江省/宁波市/余姚县",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "code": "330223",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "余姚县",
+      "parent_code": "330200",
+      "path": "浙江省/宁波市/余姚县",
+      "revision": "198412",
+      "source": "mca"
+    }
+  ]
+}

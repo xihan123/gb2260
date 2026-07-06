@@ -1,0 +1,16 @@
+{
+  "code": "540172",
+  "records": [
+    {
+      "code": "540172",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "拉萨经济技术开发区",
+      "parent_code": "540100",
+      "path": "西藏自治区/拉萨市/拉萨经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

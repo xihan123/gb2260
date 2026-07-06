@@ -1,0 +1,16 @@
+{
+  "code": "320772",
+  "records": [
+    {
+      "code": "320772",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "连云港高新技术产业开发区",
+      "parent_code": "320700",
+      "path": "江苏省/连云港市/连云港高新技术产业开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

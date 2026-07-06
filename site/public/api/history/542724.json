@@ -1,0 +1,71 @@
+{
+  "code": "542724",
+  "records": [
+    {
+      "code": "542724",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仁布县",
+      "parent_code": "542700",
+      "path": "西藏自治区/江孜地区/仁布县",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "542724",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仁布县",
+      "parent_code": "542700",
+      "path": "西藏自治区/江孜地区/仁布县",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "542724",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仁布县",
+      "parent_code": "542700",
+      "path": "西藏自治区/江孜地区/仁布县",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "542724",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仁布县",
+      "parent_code": "542700",
+      "path": "西藏自治区/江孜地区/仁布县",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "code": "542724",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仁布县",
+      "parent_code": "542700",
+      "path": "西藏自治区/江孜地区/仁布县",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "code": "542724",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "仁布县",
+      "parent_code": "542700",
+      "path": "西藏自治区/江孜地区/仁布县",
+      "revision": "198512",
+      "source": "mca"
+    }
+  ]
+}

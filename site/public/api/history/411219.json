@@ -1,0 +1,16 @@
+{
+  "code": "411219",
+  "records": [
+    {
+      "code": "411219",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "义马市",
+      "parent_code": "411200",
+      "path": "河南省/三门峡市/义马市",
+      "revision": "1986",
+      "source": "areacodes"
+    }
+  ]
+}

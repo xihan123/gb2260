@@ -1,0 +1,27 @@
+{
+  "code": "517003",
+  "records": [
+    {
+      "code": "517003",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "李渡区",
+      "parent_code": "517000",
+      "path": "四川省/涪陵市/李渡区",
+      "revision": "199512",
+      "source": "mca"
+    },
+    {
+      "code": "517003",
+      "file": "gb2260/mca/199612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "李渡区",
+      "parent_code": "517000",
+      "path": "四川省/涪陵市/李渡区",
+      "revision": "199612",
+      "source": "mca"
+    }
+  ]
+}

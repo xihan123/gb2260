@@ -1,0 +1,530 @@
+{
+  "active_counts": [
+    {
+      "count": 2640,
+      "year": 1981
+    },
+    {
+      "count": 2651,
+      "year": 1982
+    },
+    {
+      "count": 3129,
+      "year": 1983
+    },
+    {
+      "count": 3169,
+      "year": 1984
+    },
+    {
+      "count": 3185,
+      "year": 1985
+    },
+    {
+      "count": 3188,
+      "year": 1986
+    },
+    {
+      "count": 3185,
+      "year": 1987
+    },
+    {
+      "count": 3199,
+      "year": 1988
+    },
+    {
+      "count": 3199,
+      "year": 1989
+    },
+    {
+      "count": 3203,
+      "year": 1990
+    },
+    {
+      "count": 3205,
+      "year": 1991
+    },
+    {
+      "count": 3206,
+      "year": 1992
+    },
+    {
+      "count": 3204,
+      "year": 1993
+    },
+    {
+      "count": 3212,
+      "year": 1994
+    },
+    {
+      "count": 3217,
+      "year": 1995
+    },
+    {
+      "count": 3227,
+      "year": 1996
+    },
+    {
+      "count": 3230,
+      "year": 1997
+    },
+    {
+      "count": 3230,
+      "year": 1998
+    },
+    {
+      "count": 3226,
+      "year": 1999
+    },
+    {
+      "count": 3231,
+      "year": 2000
+    },
+    {
+      "count": 3230,
+      "year": 2001
+    },
+    {
+      "count": 3229,
+      "year": 2002
+    },
+    {
+      "count": 3231,
+      "year": 2003
+    },
+    {
+      "count": 3232,
+      "year": 2004
+    },
+    {
+      "count": 3232,
+      "year": 2005
+    },
+    {
+      "count": 3230,
+      "year": 2006
+    },
+    {
+      "count": 3229,
+      "year": 2007
+    },
+    {
+      "count": 3229,
+      "year": 2008
+    },
+    {
+      "count": 3228,
+      "year": 2009
+    },
+    {
+      "count": 3226,
+      "year": 2010
+    },
+    {
+      "count": 3222,
+      "year": 2011
+    },
+    {
+      "count": 3219,
+      "year": 2012
+    },
+    {
+      "count": 3220,
+      "year": 2013
+    },
+    {
+      "count": 3221,
+      "year": 2014
+    },
+    {
+      "count": 3218,
+      "year": 2015
+    },
+    {
+      "count": 3219,
+      "year": 2016
+    },
+    {
+      "count": 3219,
+      "year": 2017
+    },
+    {
+      "count": 3218,
+      "year": 2018
+    },
+    {
+      "count": 3213,
+      "year": 2019
+    },
+    {
+      "count": 3211,
+      "year": 2020
+    },
+    {
+      "count": 3210,
+      "year": 2021
+    },
+    {
+      "count": 3210,
+      "year": 2022
+    },
+    {
+      "count": 3211,
+      "year": 2023
+    },
+    {
+      "count": 3213,
+      "year": 2024
+    },
+    {
+      "count": 3212,
+      "year": 2025
+    }
+  ],
+  "change_counts": [
+    {
+      "count": 2640,
+      "year": "1981"
+    },
+    {
+      "count": 146,
+      "year": "1982"
+    },
+    {
+      "count": 3677,
+      "year": "1983"
+    },
+    {
+      "count": 578,
+      "year": "1984"
+    },
+    {
+      "count": 877,
+      "year": "1985"
+    },
+    {
+      "count": 666,
+      "year": "1986"
+    },
+    {
+      "count": 499,
+      "year": "1987"
+    },
+    {
+      "count": 905,
+      "year": "1988"
+    },
+    {
+      "count": 183,
+      "year": "1989"
+    },
+    {
+      "count": 555,
+      "year": "1990"
+    },
+    {
+      "count": 152,
+      "year": "1991"
+    },
+    {
+      "count": 533,
+      "year": "1992"
+    },
+    {
+      "count": 997,
+      "year": "1993"
+    },
+    {
+      "count": 1070,
+      "year": "1994"
+    },
+    {
+      "count": 352,
+      "year": "1995"
+    },
+    {
+      "count": 684,
+      "year": "1996"
+    },
+    {
+      "count": 764,
+      "year": "1997"
+    },
+    {
+      "count": 405,
+      "year": "1998"
+    },
+    {
+      "count": 468,
+      "year": "1999"
+    },
+    {
+      "count": 1184,
+      "year": "2000"
+    },
+    {
+      "count": 548,
+      "year": "2001"
+    },
+    {
+      "count": 643,
+      "year": "2002"
+    },
+    {
+      "count": 435,
+      "year": "2003"
+    },
+    {
+      "count": 129,
+      "year": "2004"
+    },
+    {
+      "count": 43,
+      "year": "2005"
+    },
+    {
+      "count": 49,
+      "year": "2006"
+    },
+    {
+      "count": 47,
+      "year": "2007"
+    },
+    {
+      "count": 28,
+      "year": "2009"
+    },
+    {
+      "count": 66,
+      "year": "2010"
+    },
+    {
+      "count": 171,
+      "year": "2011"
+    },
+    {
+      "count": 74,
+      "year": "2012"
+    },
+    {
+      "count": 125,
+      "year": "2013"
+    },
+    {
+      "count": 313,
+      "year": "2014"
+    },
+    {
+      "count": 271,
+      "year": "2015"
+    },
+    {
+      "count": 279,
+      "year": "2016"
+    },
+    {
+      "count": 124,
+      "year": "2017"
+    },
+    {
+      "count": 142,
+      "year": "2018"
+    },
+    {
+      "count": 150,
+      "year": "2019"
+    },
+    {
+      "count": 94,
+      "year": "2020"
+    },
+    {
+      "count": 88,
+      "year": "2021"
+    },
+    {
+      "count": 12,
+      "year": "2023"
+    },
+    {
+      "count": 4,
+      "year": "2024"
+    },
+    {
+      "count": 8,
+      "year": "2025"
+    }
+  ],
+  "province_counts": [
+    {
+      "count": 17,
+      "county_count": 16,
+      "province": "上海市"
+    },
+    {
+      "count": 146,
+      "county_count": 129,
+      "province": "云南省"
+    },
+    {
+      "count": 116,
+      "county_count": 103,
+      "province": "内蒙古自治区"
+    },
+    {
+      "count": 17,
+      "county_count": 16,
+      "province": "北京市"
+    },
+    {
+      "count": 1,
+      "county_count": 0,
+      "province": "台湾省"
+    },
+    {
+      "count": 70,
+      "county_count": 60,
+      "province": "吉林省"
+    },
+    {
+      "count": 205,
+      "county_count": 183,
+      "province": "四川省"
+    },
+    {
+      "count": 17,
+      "county_count": 16,
+      "province": "天津市"
+    },
+    {
+      "count": 28,
+      "county_count": 22,
+      "province": "宁夏回族自治区"
+    },
+    {
+      "count": 121,
+      "county_count": 104,
+      "province": "安徽省"
+    },
+    {
+      "count": 153,
+      "county_count": 136,
+      "province": "山东省"
+    },
+    {
+      "count": 129,
+      "county_count": 117,
+      "province": "山西省"
+    },
+    {
+      "count": 144,
+      "county_count": 122,
+      "province": "广东省"
+    },
+    {
+      "count": 126,
+      "county_count": 111,
+      "province": "广西壮族自治区"
+    },
+    {
+      "count": 125,
+      "county_count": 110,
+      "province": "新疆维吾尔自治区"
+    },
+    {
+      "count": 109,
+      "county_count": 95,
+      "province": "江苏省"
+    },
+    {
+      "count": 112,
+      "county_count": 100,
+      "province": "江西省"
+    },
+    {
+      "count": 179,
+      "county_count": 167,
+      "province": "河北省"
+    },
+    {
+      "count": 175,
+      "county_count": 157,
+      "province": "河南省"
+    },
+    {
+      "count": 102,
+      "county_count": 90,
+      "province": "浙江省"
+    },
+    {
+      "count": 30,
+      "county_count": 25,
+      "province": "海南省"
+    },
+    {
+      "count": 117,
+      "county_count": 103,
+      "province": "湖北省"
+    },
+    {
+      "count": 137,
+      "county_count": 122,
+      "province": "湖南省"
+    },
+    {
+      "count": 1,
+      "county_count": 0,
+      "province": "澳门特别行政区"
+    },
+    {
+      "count": 101,
+      "county_count": 86,
+      "province": "甘肃省"
+    },
+    {
+      "count": 94,
+      "county_count": 84,
+      "province": "福建省"
+    },
+    {
+      "count": 82,
+      "county_count": 74,
+      "province": "西藏自治区"
+    },
+    {
+      "count": 98,
+      "county_count": 88,
+      "province": "贵州省"
+    },
+    {
+      "count": 115,
+      "county_count": 100,
+      "province": "辽宁省"
+    },
+    {
+      "count": 38,
+      "county_count": 37,
+      "province": "重庆市"
+    },
+    {
+      "count": 118,
+      "county_count": 107,
+      "province": "陕西省"
+    },
+    {
+      "count": 53,
+      "county_count": 44,
+      "province": "青海省"
+    },
+    {
+      "count": 1,
+      "county_count": 0,
+      "province": "香港特别行政区"
+    },
+    {
+      "count": 135,
+      "county_count": 121,
+      "province": "黑龙江省"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "code": "421025",
+  "records": [
+    {
+      "code": "421025",
+      "file": "areacodes/data/1994.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "京山县",
+      "parent_code": "421000",
+      "path": "湖北省/荆沙市/京山县",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "421025",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "京山县",
+      "parent_code": "421000",
+      "path": "湖北省/荆沙市/京山县",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "421025",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "京山县",
+      "parent_code": "421000",
+      "path": "湖北省/荆沙市/京山县",
+      "revision": "199412",
+      "source": "mca"
+    },
+    {
+      "code": "421025",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "京山县",
+      "parent_code": "421000",
+      "path": "湖北省/荆沙市/京山县",
+      "revision": "199512",
+      "source": "mca"
+    }
+  ]
+}

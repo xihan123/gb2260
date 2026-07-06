@@ -1,0 +1,16 @@
+{
+  "code": "449024",
+  "records": [
+    {
+      "code": "449024",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "连州市",
+      "parent_code": "440000",
+      "path": "广东省/连州市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

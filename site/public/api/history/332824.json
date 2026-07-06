@@ -1,0 +1,16 @@
+{
+  "code": "332824",
+  "records": [
+    {
+      "code": "332824",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "永嘉县",
+      "parent_code": "332800",
+      "path": "浙江省/温州地区/永嘉县",
+      "revision": "198012",
+      "source": "mca"
+    }
+  ]
+}

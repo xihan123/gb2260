@@ -1,0 +1,159 @@
+{
+  "code": "350522",
+  "records": [
+    {
+      "code": "350522",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江县",
+      "parent_code": "350500",
+      "path": "福建省/泉州市/晋江县",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "350522",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江县",
+      "parent_code": "350500",
+      "path": "福建省/泉州市/晋江县",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "350522",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江县",
+      "parent_code": "350500",
+      "path": "福建省/泉州市/晋江县",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "350522",
+      "file": "areacodes/data/1988.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江县",
+      "parent_code": "350500",
+      "path": "福建省/泉州市/晋江县",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "code": "350522",
+      "file": "areacodes/data/1989.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江县",
+      "parent_code": "350500",
+      "path": "福建省/泉州市/晋江县",
+      "revision": "1989",
+      "source": "areacodes"
+    },
+    {
+      "code": "350522",
+      "file": "areacodes/data/1990.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江县",
+      "parent_code": "350500",
+      "path": "福建省/泉州市/晋江县",
+      "revision": "1990",
+      "source": "areacodes"
+    },
+    {
+      "code": "350522",
+      "file": "areacodes/data/1991.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江县",
+      "parent_code": "350500",
+      "path": "福建省/泉州市/晋江县",
+      "revision": "1991",
+      "source": "areacodes"
+    },
+    {
+      "code": "350522",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江县",
+      "parent_code": "350500",
+      "path": "福建省/泉州市/晋江县",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "350522",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江县",
+      "parent_code": "350500",
+      "path": "福建省/泉州市/晋江县",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "350522",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江县",
+      "parent_code": "350500",
+      "path": "福建省/泉州市/晋江县",
+      "revision": "198712",
+      "source": "mca"
+    },
+    {
+      "code": "350522",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江县",
+      "parent_code": "350500",
+      "path": "福建省/泉州市/晋江县",
+      "revision": "198812",
+      "source": "mca"
+    },
+    {
+      "code": "350522",
+      "file": "gb2260/mca/198912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江县",
+      "parent_code": "350500",
+      "path": "福建省/泉州市/晋江县",
+      "revision": "198912",
+      "source": "mca"
+    },
+    {
+      "code": "350522",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江县",
+      "parent_code": "350500",
+      "path": "福建省/泉州市/晋江县",
+      "revision": "199012",
+      "source": "mca"
+    },
+    {
+      "code": "350522",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江县",
+      "parent_code": "350500",
+      "path": "福建省/泉州市/晋江县",
+      "revision": "199112",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "320571",
+  "records": [
+    {
+      "code": "320571",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "苏州工业园区",
+      "parent_code": "320500",
+      "path": "江苏省/苏州市/苏州工业园区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

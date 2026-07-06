@@ -1,0 +1,16 @@
+{
+  "code": "139019",
+  "records": [
+    {
+      "code": "139019",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "鹿泉市",
+      "parent_code": "130000",
+      "path": "河北省/鹿泉市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

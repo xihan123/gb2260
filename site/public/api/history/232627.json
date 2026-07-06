@@ -1,0 +1,16 @@
+{
+  "code": "232627",
+  "records": [
+    {
+      "code": "232627",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "通北县",
+      "parent_code": "232600",
+      "path": "黑龙江省/黑河地区/通北县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

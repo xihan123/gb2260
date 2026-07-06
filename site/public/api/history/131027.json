@@ -1,0 +1,49 @@
+{
+  "code": "131027",
+  "records": [
+    {
+      "code": "131027",
+      "file": "areacodes/data/1988.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "霸县",
+      "parent_code": "131000",
+      "path": "河北省/廊坊市/霸县",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "code": "131027",
+      "file": "areacodes/data/1989.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "霸县",
+      "parent_code": "131000",
+      "path": "河北省/廊坊市/霸县",
+      "revision": "1989",
+      "source": "areacodes"
+    },
+    {
+      "code": "131027",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "霸县",
+      "parent_code": "131000",
+      "path": "河北省/廊坊市/霸县",
+      "revision": "198812",
+      "source": "mca"
+    },
+    {
+      "code": "131027",
+      "file": "gb2260/mca/198912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "霸县",
+      "parent_code": "131000",
+      "path": "河北省/廊坊市/霸县",
+      "revision": "198912",
+      "source": "mca"
+    }
+  ]
+}

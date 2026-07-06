@@ -1,0 +1,16 @@
+{
+  "code": "632857",
+  "records": [
+    {
+      "code": "632857",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大柴旦行政委员会",
+      "parent_code": "632800",
+      "path": "青海省/海西蒙古族藏族自治州/大柴旦行政委员会",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

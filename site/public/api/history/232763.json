@@ -1,0 +1,16 @@
+{
+  "code": "232763",
+  "records": [
+    {
+      "code": "232763",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新林区",
+      "parent_code": "232700",
+      "path": "黑龙江省/大兴安岭地区/新林区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

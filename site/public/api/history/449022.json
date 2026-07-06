@@ -1,0 +1,16 @@
+{
+  "code": "449022",
+  "records": [
+    {
+      "code": "449022",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "澄海市",
+      "parent_code": "440000",
+      "path": "广东省/澄海市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

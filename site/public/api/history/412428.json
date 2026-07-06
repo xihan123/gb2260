@@ -1,0 +1,27 @@
+{
+  "code": "412428",
+  "records": [
+    {
+      "code": "412428",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "登封县",
+      "parent_code": "412400",
+      "path": "河南省/开封地区/登封县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "412428",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "登封县",
+      "parent_code": "412400",
+      "path": "河南省/开封地区/登封县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "231019",
+  "records": [
+    {
+      "code": "231019",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "镜泊湖市",
+      "parent_code": "231000",
+      "path": "黑龙江省/牡丹江市/镜泊湖市",
+      "revision": "1986",
+      "source": "areacodes"
+    }
+  ]
+}

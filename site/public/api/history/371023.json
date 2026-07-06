@@ -1,0 +1,27 @@
+{
+  "code": "371023",
+  "records": [
+    {
+      "code": "371023",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "荣成县",
+      "parent_code": "371000",
+      "path": "山东省/威海市/荣成县",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "371023",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "荣成县",
+      "parent_code": "371000",
+      "path": "山东省/威海市/荣成县",
+      "revision": "198712",
+      "source": "mca"
+    }
+  ]
+}

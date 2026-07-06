@@ -1,0 +1,49 @@
+{
+  "code": "420619",
+  "records": [
+    {
+      "code": "420619",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "随州市",
+      "parent_code": "420600",
+      "path": "湖北省/襄樊市/随州市",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "420619",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "随州市",
+      "parent_code": "420600",
+      "path": "湖北省/襄樊市/随州市",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "420619",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "随州市",
+      "parent_code": "420600",
+      "path": "湖北省/襄樊市/随州市",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "420619",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "随州市",
+      "parent_code": "420600",
+      "path": "湖北省/襄樊市/随州市",
+      "revision": "198312",
+      "source": "mca"
+    }
+  ]
+}

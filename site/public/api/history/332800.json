@@ -1,0 +1,16 @@
+{
+  "code": "332800",
+  "records": [
+    {
+      "code": "332800",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "温州地区",
+      "parent_code": "330000",
+      "path": "浙江省/温州地区",
+      "revision": "198012",
+      "source": "mca"
+    }
+  ]
+}

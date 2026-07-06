@@ -1,0 +1,60 @@
+{
+  "code": "379015",
+  "records": [
+    {
+      "code": "379015",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "莱西市",
+      "parent_code": "370000",
+      "path": "山东省/莱西市",
+      "revision": "199012",
+      "source": "mca"
+    },
+    {
+      "code": "379015",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "莱西市",
+      "parent_code": "370000",
+      "path": "山东省/莱西市",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "code": "379015",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "莱西市",
+      "parent_code": "370000",
+      "path": "山东省/莱西市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "379015",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "莱西市",
+      "parent_code": "370000",
+      "path": "山东省/莱西市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "379015",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "莱西市",
+      "parent_code": "370000",
+      "path": "山东省/莱西市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

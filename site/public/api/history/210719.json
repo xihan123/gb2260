@@ -1,0 +1,27 @@
+{
+  "code": "210719",
+  "records": [
+    {
+      "code": "210719",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "锦西市",
+      "parent_code": "210700",
+      "path": "辽宁省/锦州市/锦西市",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "210719",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "锦西市",
+      "parent_code": "210700",
+      "path": "辽宁省/锦州市/锦西市",
+      "revision": "198512",
+      "source": "mca"
+    }
+  ]
+}

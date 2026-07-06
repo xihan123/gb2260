@@ -1,0 +1,16 @@
+{
+  "code": "371171",
+  "records": [
+    {
+      "code": "371171",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "日照经济技术开发区",
+      "parent_code": "371100",
+      "path": "山东省/日照市/日照经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

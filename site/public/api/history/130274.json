@@ -1,0 +1,16 @@
+{
+  "code": "130274",
+  "records": [
+    {
+      "code": "130274",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "河北唐山海港经济开发区",
+      "parent_code": "130200",
+      "path": "河北省/唐山市/河北唐山海港经济开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

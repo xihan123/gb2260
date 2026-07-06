@@ -1,0 +1,71 @@
+{
+  "code": "410824",
+  "records": [
+    {
+      "code": "410824",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "沁阳县",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/沁阳县",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "410824",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "沁阳县",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/沁阳县",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "410824",
+      "file": "areacodes/data/1988.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "沁阳县",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/沁阳县",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "code": "410824",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "沁阳县",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/沁阳县",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "410824",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "沁阳县",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/沁阳县",
+      "revision": "198712",
+      "source": "mca"
+    },
+    {
+      "code": "410824",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "沁阳县",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/沁阳县",
+      "revision": "198812",
+      "source": "mca"
+    }
+  ]
+}

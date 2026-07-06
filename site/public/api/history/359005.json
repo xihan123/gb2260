@@ -1,0 +1,27 @@
+{
+  "code": "359005",
+  "records": [
+    {
+      "code": "359005",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南安市",
+      "parent_code": "350000",
+      "path": "福建省/南安市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "359005",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南安市",
+      "parent_code": "350000",
+      "path": "福建省/南安市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

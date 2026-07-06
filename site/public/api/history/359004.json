@@ -1,0 +1,38 @@
+{
+  "code": "359004",
+  "records": [
+    {
+      "code": "359004",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江市",
+      "parent_code": "350000",
+      "path": "福建省/晋江市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "359004",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江市",
+      "parent_code": "350000",
+      "path": "福建省/晋江市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "359004",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "晋江市",
+      "parent_code": "350000",
+      "path": "福建省/晋江市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

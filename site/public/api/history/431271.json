@@ -1,0 +1,16 @@
+{
+  "code": "431271",
+  "records": [
+    {
+      "code": "431271",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "怀化市洪江管理区",
+      "parent_code": "431200",
+      "path": "湖南省/怀化市/怀化市洪江管理区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

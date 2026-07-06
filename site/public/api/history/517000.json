@@ -1,0 +1,27 @@
+{
+  "code": "517000",
+  "records": [
+    {
+      "code": "517000",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "涪陵市",
+      "parent_code": "510000",
+      "path": "四川省/涪陵市",
+      "revision": "199512",
+      "source": "mca"
+    },
+    {
+      "code": "517000",
+      "file": "gb2260/mca/199612.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "涪陵市",
+      "parent_code": "510000",
+      "path": "四川省/涪陵市",
+      "revision": "199612",
+      "source": "mca"
+    }
+  ]
+}

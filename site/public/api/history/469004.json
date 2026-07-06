@@ -1,0 +1,16 @@
+{
+  "code": "469004",
+  "records": [
+    {
+      "code": "469004",
+      "file": "areacodes/data/2001.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "琼山市",
+      "parent_code": "460000",
+      "path": "海南省/琼山市",
+      "revision": "2001",
+      "source": "areacodes"
+    }
+  ]
+}

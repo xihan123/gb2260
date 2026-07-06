@@ -1,0 +1,16 @@
+{
+  "code": "140971",
+  "records": [
+    {
+      "code": "140971",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "五台山风景名胜区",
+      "parent_code": "140900",
+      "path": "山西省/忻州市/五台山风景名胜区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

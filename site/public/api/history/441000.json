@@ -1,0 +1,60 @@
+{
+  "code": "441000",
+  "records": [
+    {
+      "code": "441000",
+      "file": "areacodes/data/1987.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "海口市",
+      "parent_code": "440000",
+      "path": "广东省/海口市",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "441000",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "海口市",
+      "parent_code": "440000",
+      "path": "广东省/海口市",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "441000",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "海口市",
+      "parent_code": "440000",
+      "path": "广东省/海口市",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "441000",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "海口市",
+      "parent_code": "440000",
+      "path": "广东省/海口市",
+      "revision": "198212",
+      "source": "mca"
+    },
+    {
+      "code": "441000",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "海口市",
+      "parent_code": "440000",
+      "path": "广东省/海口市",
+      "revision": "198712",
+      "source": "mca"
+    }
+  ]
+}

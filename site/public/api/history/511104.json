@@ -1,0 +1,104 @@
+{
+  "code": "511104",
+  "records": [
+    {
+      "code": "511104",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "金口河区",
+      "parent_code": "511100",
+      "path": "四川省/乐山市/金口河区",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "511104",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "金口河区",
+      "parent_code": "511100",
+      "path": "四川省/乐山市/金口河区",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "511104",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "金口河区",
+      "parent_code": "511100",
+      "path": "四川省/乐山市/金口河区",
+      "revision": "198712",
+      "source": "mca"
+    },
+    {
+      "code": "511104",
+      "file": "gb2260/mca/198812.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "金口河区",
+      "parent_code": "511100",
+      "path": "四川省/乐山市/金口河区",
+      "revision": "198812",
+      "source": "mca"
+    },
+    {
+      "code": "511104",
+      "file": "gb2260/mca/198912.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "金口河区",
+      "parent_code": "511100",
+      "path": "四川省/乐山市/金口河区",
+      "revision": "198912",
+      "source": "mca"
+    },
+    {
+      "code": "511104",
+      "file": "gb2260/mca/199012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "金口河区",
+      "parent_code": "511100",
+      "path": "四川省/乐山市/金口河区",
+      "revision": "199012",
+      "source": "mca"
+    },
+    {
+      "code": "511104",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "金口河区",
+      "parent_code": "511100",
+      "path": "四川省/乐山市/金口河区",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "code": "511104",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "金口河区",
+      "parent_code": "511100",
+      "path": "四川省/乐山市/金口河区",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "511104",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "金口河区",
+      "parent_code": "511100",
+      "path": "四川省/乐山市/金口河区",
+      "revision": "199312",
+      "source": "mca"
+    }
+  ]
+}

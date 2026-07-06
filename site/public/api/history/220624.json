@@ -1,0 +1,16 @@
+{
+  "code": "220624",
+  "records": [
+    {
+      "code": "220624",
+      "file": "areacodes/data/1992.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "临江县",
+      "parent_code": "220600",
+      "path": "吉林省/浑江市/临江县",
+      "revision": "1992",
+      "source": "areacodes"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "139020",
+  "records": [
+    {
+      "code": "139020",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "丰南市",
+      "parent_code": "130000",
+      "path": "河北省/丰南市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

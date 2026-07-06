@@ -1,0 +1,126 @@
+{
+  "code": "452802",
+  "records": [
+    {
+      "code": "452802",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "452802",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "452802",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "452802",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "452802",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "452802",
+      "file": "areacodes/data/1988.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "code": "452802",
+      "file": "areacodes/data/1989.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "1989",
+      "source": "areacodes"
+    },
+    {
+      "code": "452802",
+      "file": "areacodes/data/1990.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "1990",
+      "source": "areacodes"
+    },
+    {
+      "code": "452802",
+      "file": "areacodes/data/1991.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "1991",
+      "source": "areacodes"
+    },
+    {
+      "code": "452802",
+      "file": "areacodes/data/1992.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "code": "452802",
+      "file": "areacodes/data/1993.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "钦州市",
+      "parent_code": "452800",
+      "path": "广西壮族自治区/钦州地区/钦州市",
+      "revision": "1993",
+      "source": "areacodes"
+    }
+  ]
+}

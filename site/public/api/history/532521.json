@@ -1,0 +1,16 @@
+{
+  "code": "532521",
+  "records": [
+    {
+      "code": "532521",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "开远县",
+      "parent_code": "532500",
+      "path": "云南省/红河哈尼族彝族自治州/开远县",
+      "revision": "198012",
+      "source": "mca"
+    }
+  ]
+}

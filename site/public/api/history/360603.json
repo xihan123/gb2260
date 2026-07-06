@@ -1,0 +1,115 @@
+{
+  "code": "360603",
+  "records": [
+    {
+      "code": "360603",
+      "file": "areacodes/data/2018.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "余江区",
+      "parent_code": "360600",
+      "path": "江西省/鹰潭市/余江区",
+      "revision": "2018",
+      "source": "areacodes"
+    },
+    {
+      "code": "360603",
+      "file": "areacodes/data/2019.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "余江区",
+      "parent_code": "360600",
+      "path": "江西省/鹰潭市/余江区",
+      "revision": "2019",
+      "source": "areacodes"
+    },
+    {
+      "code": "360603",
+      "file": "areacodes/data/2020.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "余江区",
+      "parent_code": "360600",
+      "path": "江西省/鹰潭市/余江区",
+      "revision": "2020",
+      "source": "areacodes"
+    },
+    {
+      "code": "360603",
+      "file": "areacodes/data/2021.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "余江区",
+      "parent_code": "360600",
+      "path": "江西省/鹰潭市/余江区",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "code": "360603",
+      "file": "areacodes/data/2022.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "余江区",
+      "parent_code": "360600",
+      "path": "江西省/鹰潭市/余江区",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "code": "360603",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "余江区",
+      "parent_code": "360600",
+      "path": "江西省/鹰潭市/余江区",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "360603",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "余江区",
+      "parent_code": "360600",
+      "path": "江西省/鹰潭市/余江区",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "360603",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "余江区",
+      "parent_code": "360600",
+      "path": "江西省/鹰潭市/余江区",
+      "revision": "2025",
+      "source": "areacodes"
+    },
+    {
+      "code": "360603",
+      "file": "gb2260/mca/201904.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "余江区",
+      "parent_code": "360600",
+      "path": "江西省/鹰潭市/余江区",
+      "revision": "201904",
+      "source": "mca"
+    },
+    {
+      "code": "360603",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "余江区",
+      "parent_code": "360600",
+      "path": "江西省/鹰潭市/余江区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

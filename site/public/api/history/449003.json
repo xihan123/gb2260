@@ -1,0 +1,49 @@
+{
+  "code": "449003",
+  "records": [
+    {
+      "code": "449003",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "海口市",
+      "parent_code": "440000",
+      "path": "广东省/海口市",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "449003",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "番禺市",
+      "parent_code": "440000",
+      "path": "广东省/番禺市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "449003",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "番禺市",
+      "parent_code": "440000",
+      "path": "广东省/番禺市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "449003",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "番禺市",
+      "parent_code": "440000",
+      "path": "广东省/番禺市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

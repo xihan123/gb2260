@@ -1,0 +1,49 @@
+{
+  "code": "372802",
+  "records": [
+    {
+      "code": "372802",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "日照市",
+      "parent_code": "372800",
+      "path": "山东省/临沂地区/日照市",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "372802",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "日照市",
+      "parent_code": "372800",
+      "path": "山东省/临沂地区/日照市",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "372802",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "日照市",
+      "parent_code": "372800",
+      "path": "山东省/临沂地区/日照市",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "372802",
+      "file": "areacodes/data/1988.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "日照市",
+      "parent_code": "372800",
+      "path": "山东省/临沂地区/日照市",
+      "revision": "1988",
+      "source": "areacodes"
+    }
+  ]
+}

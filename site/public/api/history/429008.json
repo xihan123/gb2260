@@ -1,0 +1,38 @@
+{
+  "code": "429008",
+  "records": [
+    {
+      "code": "429008",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "当阳市",
+      "parent_code": "420000",
+      "path": "湖北省/当阳市",
+      "revision": "199212",
+      "source": "mca"
+    },
+    {
+      "code": "429008",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "当阳市",
+      "parent_code": "420000",
+      "path": "湖北省/当阳市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "429008",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "当阳市",
+      "parent_code": "420000",
+      "path": "湖北省/当阳市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "431172",
+  "records": [
+    {
+      "code": "431172",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "永州市金洞管理区",
+      "parent_code": "431100",
+      "path": "湖南省/永州市/永州市金洞管理区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "370571",
+  "records": [
+    {
+      "code": "370571",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "东营经济技术开发区",
+      "parent_code": "370500",
+      "path": "山东省/东营市/东营经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

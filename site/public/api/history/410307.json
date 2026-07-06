@@ -1,0 +1,170 @@
+{
+  "code": "410307",
+  "records": [
+    {
+      "code": "410307",
+      "file": "areacodes/data/2021.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "偃师区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/偃师区",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "code": "410307",
+      "file": "areacodes/data/2022.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "偃师区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/偃师区",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "code": "410307",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "偃师区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/偃师区",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "410307",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "偃师区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/偃师区",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "410307",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "偃师区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/偃师区",
+      "revision": "2025",
+      "source": "areacodes"
+    },
+    {
+      "code": "410307",
+      "file": "gb2260/200212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "洛龙区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/洛龙区",
+      "revision": "200212",
+      "source": "gb"
+    },
+    {
+      "code": "410307",
+      "file": "gb2260/stats/200212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "洛龙区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/洛龙区",
+      "revision": "200212",
+      "source": "stats"
+    },
+    {
+      "code": "410307",
+      "file": "gb2260/stats/200306.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "洛龙区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/洛龙区",
+      "revision": "200306",
+      "source": "stats"
+    },
+    {
+      "code": "410307",
+      "file": "gb2260/stats/200312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "洛龙区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/洛龙区",
+      "revision": "200312",
+      "source": "stats"
+    },
+    {
+      "code": "410307",
+      "file": "gb2260/stats/200403.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "洛龙区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/洛龙区",
+      "revision": "200403",
+      "source": "stats"
+    },
+    {
+      "code": "410307",
+      "file": "gb2260/stats/200409.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "洛龙区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/洛龙区",
+      "revision": "200409",
+      "source": "stats"
+    },
+    {
+      "code": "410307",
+      "file": "gb2260/stats/200412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "洛龙区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/洛龙区",
+      "revision": "200412",
+      "source": "stats"
+    },
+    {
+      "code": "410307",
+      "file": "gb2260/stats/200506.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "洛龙区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/洛龙区",
+      "revision": "200506",
+      "source": "stats"
+    },
+    {
+      "code": "410307",
+      "file": "gb2260/stats/200512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "洛龙区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/洛龙区",
+      "revision": "200512",
+      "source": "stats"
+    },
+    {
+      "code": "410307",
+      "file": "gb2260/stats/200612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "洛龙区",
+      "parent_code": "410300",
+      "path": "河南省/洛阳市/洛龙区",
+      "revision": "200612",
+      "source": "stats"
+    }
+  ]
+}

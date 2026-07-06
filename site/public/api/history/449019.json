@@ -1,0 +1,16 @@
+{
+  "code": "449019",
+  "records": [
+    {
+      "code": "449019",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "英德市",
+      "parent_code": "440000",
+      "path": "广东省/英德市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

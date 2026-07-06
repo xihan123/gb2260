@@ -1,0 +1,27 @@
+{
+  "code": "222101",
+  "records": [
+    {
+      "code": "222101",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "四平市",
+      "parent_code": "222100",
+      "path": "吉林省/四平地区/四平市",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "222101",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "四平市",
+      "parent_code": "222100",
+      "path": "吉林省/四平地区/四平市",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

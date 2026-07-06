@@ -1,0 +1,82 @@
+{
+  "code": "320881",
+  "records": [
+    {
+      "code": "320881",
+      "file": "areacodes/data/1990.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宿迁市",
+      "parent_code": "320800",
+      "path": "江苏省/淮阴市/宿迁市",
+      "revision": "1990",
+      "source": "areacodes"
+    },
+    {
+      "code": "320881",
+      "file": "areacodes/data/1991.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宿迁市",
+      "parent_code": "320800",
+      "path": "江苏省/淮阴市/宿迁市",
+      "revision": "1991",
+      "source": "areacodes"
+    },
+    {
+      "code": "320881",
+      "file": "areacodes/data/1992.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宿迁市",
+      "parent_code": "320800",
+      "path": "江苏省/淮阴市/宿迁市",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "code": "320881",
+      "file": "areacodes/data/1993.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宿迁市",
+      "parent_code": "320800",
+      "path": "江苏省/淮阴市/宿迁市",
+      "revision": "1993",
+      "source": "areacodes"
+    },
+    {
+      "code": "320881",
+      "file": "areacodes/data/1994.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宿迁市",
+      "parent_code": "320800",
+      "path": "江苏省/淮阴市/宿迁市",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "320881",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宿迁市",
+      "parent_code": "320800",
+      "path": "江苏省/淮阴市/宿迁市",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "320881",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宿迁市",
+      "parent_code": "320800",
+      "path": "江苏省/淮阴市/宿迁市",
+      "revision": "199512",
+      "source": "mca"
+    }
+  ]
+}

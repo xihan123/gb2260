@@ -1,0 +1,38 @@
+{
+  "code": "412202",
+  "records": [
+    {
+      "code": "412202",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "红旗区",
+      "parent_code": "412200",
+      "path": "河南省/新乡地区/红旗区",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "412202",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "红旗区",
+      "parent_code": "412200",
+      "path": "河南省/新乡地区/红旗区",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "412202",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "红旗区",
+      "parent_code": "412200",
+      "path": "河南省/新乡地区/红旗区",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "code": "433102",
+  "records": [
+    {
+      "code": "433102",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大庸市",
+      "parent_code": "433100",
+      "path": "湖南省/湘西土家族苗族自治州/大庸市",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "433102",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大庸市",
+      "parent_code": "433100",
+      "path": "湖南省/湘西土家族苗族自治州/大庸市",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "433102",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大庸市",
+      "parent_code": "433100",
+      "path": "湖南省/湘西土家族苗族自治州/大庸市",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "433102",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大庸市",
+      "parent_code": "433100",
+      "path": "湖南省/湘西土家族苗族自治州/大庸市",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "433102",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大庸市",
+      "parent_code": "433100",
+      "path": "湖南省/湘西土家族苗族自治州/大庸市",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "433102",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大庸市",
+      "parent_code": "433100",
+      "path": "湖南省/湘西土家族苗族自治州/大庸市",
+      "revision": "198712",
+      "source": "mca"
+    }
+  ]
+}

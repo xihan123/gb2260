@@ -1,0 +1,115 @@
+{
+  "code": "620881",
+  "records": [
+    {
+      "code": "620881",
+      "file": "areacodes/data/2018.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华亭市",
+      "parent_code": "620800",
+      "path": "甘肃省/平凉市/华亭市",
+      "revision": "2018",
+      "source": "areacodes"
+    },
+    {
+      "code": "620881",
+      "file": "areacodes/data/2019.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华亭市",
+      "parent_code": "620800",
+      "path": "甘肃省/平凉市/华亭市",
+      "revision": "2019",
+      "source": "areacodes"
+    },
+    {
+      "code": "620881",
+      "file": "areacodes/data/2020.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华亭市",
+      "parent_code": "620800",
+      "path": "甘肃省/平凉市/华亭市",
+      "revision": "2020",
+      "source": "areacodes"
+    },
+    {
+      "code": "620881",
+      "file": "areacodes/data/2021.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华亭市",
+      "parent_code": "620800",
+      "path": "甘肃省/平凉市/华亭市",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "code": "620881",
+      "file": "areacodes/data/2022.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华亭市",
+      "parent_code": "620800",
+      "path": "甘肃省/平凉市/华亭市",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "code": "620881",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华亭市",
+      "parent_code": "620800",
+      "path": "甘肃省/平凉市/华亭市",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "620881",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华亭市",
+      "parent_code": "620800",
+      "path": "甘肃省/平凉市/华亭市",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "620881",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华亭市",
+      "parent_code": "620800",
+      "path": "甘肃省/平凉市/华亭市",
+      "revision": "2025",
+      "source": "areacodes"
+    },
+    {
+      "code": "620881",
+      "file": "gb2260/mca/201904.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华亭市",
+      "parent_code": "620800",
+      "path": "甘肃省/平凉市/华亭市",
+      "revision": "201904",
+      "source": "mca"
+    },
+    {
+      "code": "620881",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "华亭市",
+      "parent_code": "620800",
+      "path": "甘肃省/平凉市/华亭市",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

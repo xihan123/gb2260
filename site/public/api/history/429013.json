@@ -1,0 +1,16 @@
+{
+  "code": "429013",
+  "records": [
+    {
+      "code": "429013",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "洪湖市",
+      "parent_code": "420000",
+      "path": "湖北省/洪湖市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

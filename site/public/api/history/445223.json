@@ -1,0 +1,49 @@
+{
+  "code": "445223",
+  "records": [
+    {
+      "code": "445223",
+      "file": "areacodes/data/1991.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "普宁县",
+      "parent_code": "445200",
+      "path": "广东省/揭阳市/普宁县",
+      "revision": "1991",
+      "source": "areacodes"
+    },
+    {
+      "code": "445223",
+      "file": "areacodes/data/1992.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "普宁县",
+      "parent_code": "445200",
+      "path": "广东省/揭阳市/普宁县",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "code": "445223",
+      "file": "gb2260/mca/199112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "普宁县",
+      "parent_code": "445200",
+      "path": "广东省/揭阳市/普宁县",
+      "revision": "199112",
+      "source": "mca"
+    },
+    {
+      "code": "445223",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "普宁县",
+      "parent_code": "445200",
+      "path": "广东省/揭阳市/普宁县",
+      "revision": "199212",
+      "source": "mca"
+    }
+  ]
+}

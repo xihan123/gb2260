@@ -1,0 +1,27 @@
+{
+  "code": "442632",
+  "records": [
+    {
+      "code": "442632",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "连南瑶族自治县",
+      "parent_code": "442600",
+      "path": "广东省/韶关地区/连南瑶族自治县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "442632",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "连南瑶族自治县",
+      "parent_code": "442600",
+      "path": "广东省/韶关地区/连南瑶族自治县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

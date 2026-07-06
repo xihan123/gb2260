@@ -1,0 +1,19 @@
+{
+  "areas": [
+    {
+      "city": "",
+      "code": "820000",
+      "end_year": "",
+      "level": "province",
+      "level_label": "省级",
+      "name": "澳门特别行政区",
+      "new_code": "",
+      "parent_code": "",
+      "path": "澳门特别行政区",
+      "province": "澳门特别行政区",
+      "start_year": "1999",
+      "status": "active"
+    }
+  ],
+  "province_code": "820000"
+}

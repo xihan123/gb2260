@@ -1,0 +1,27 @@
+{
+  "code": "210319",
+  "records": [
+    {
+      "code": "210319",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "海城市",
+      "parent_code": "210300",
+      "path": "辽宁省/鞍山市/海城市",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "210319",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "海城市",
+      "parent_code": "210300",
+      "path": "辽宁省/鞍山市/海城市",
+      "revision": "198512",
+      "source": "mca"
+    }
+  ]
+}

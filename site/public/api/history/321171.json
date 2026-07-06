@@ -1,0 +1,16 @@
+{
+  "code": "321171",
+  "records": [
+    {
+      "code": "321171",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "镇江新区",
+      "parent_code": "321100",
+      "path": "江苏省/镇江市/镇江新区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

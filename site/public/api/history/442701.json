@@ -1,0 +1,60 @@
+{
+  "code": "442701",
+  "records": [
+    {
+      "code": "442701",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "佛山市",
+      "parent_code": "442700",
+      "path": "广东省/佛山地区/佛山市",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "442701",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "佛山市",
+      "parent_code": "442700",
+      "path": "广东省/佛山地区/佛山市",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "442701",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "潮州市",
+      "parent_code": "442700",
+      "path": "广东省/汕头地区/潮州市",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "442701",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "潮州市",
+      "parent_code": "442700",
+      "path": "广东省/汕头地区/潮州市",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "442701",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "潮州市",
+      "parent_code": "442700",
+      "path": "广东省/汕头地区/潮州市",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

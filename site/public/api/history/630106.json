@@ -1,0 +1,82 @@
+{
+  "code": "630106",
+  "records": [
+    {
+      "code": "630106",
+      "file": "areacodes/data/2019.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "湟中区",
+      "parent_code": "630100",
+      "path": "青海省/西宁市/湟中区",
+      "revision": "2019",
+      "source": "areacodes"
+    },
+    {
+      "code": "630106",
+      "file": "areacodes/data/2020.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "湟中区",
+      "parent_code": "630100",
+      "path": "青海省/西宁市/湟中区",
+      "revision": "2020",
+      "source": "areacodes"
+    },
+    {
+      "code": "630106",
+      "file": "areacodes/data/2021.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "湟中区",
+      "parent_code": "630100",
+      "path": "青海省/西宁市/湟中区",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "code": "630106",
+      "file": "areacodes/data/2022.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "湟中区",
+      "parent_code": "630100",
+      "path": "青海省/西宁市/湟中区",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "code": "630106",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "湟中区",
+      "parent_code": "630100",
+      "path": "青海省/西宁市/湟中区",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "630106",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "湟中区",
+      "parent_code": "630100",
+      "path": "青海省/西宁市/湟中区",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "630106",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "湟中区",
+      "parent_code": "630100",
+      "path": "青海省/西宁市/湟中区",
+      "revision": "2025",
+      "source": "areacodes"
+    }
+  ]
+}

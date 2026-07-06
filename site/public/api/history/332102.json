@@ -1,0 +1,27 @@
+{
+  "code": "332102",
+  "records": [
+    {
+      "code": "332102",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "嘉兴市",
+      "parent_code": "332100",
+      "path": "浙江省/嘉兴地区/嘉兴市",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "332102",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "嘉兴市",
+      "parent_code": "332100",
+      "path": "浙江省/嘉兴地区/嘉兴市",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

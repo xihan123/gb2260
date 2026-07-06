@@ -1,0 +1,16 @@
+{
+  "code": "339018",
+  "records": [
+    {
+      "code": "339018",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "临海市",
+      "parent_code": "330000",
+      "path": "浙江省/临海市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

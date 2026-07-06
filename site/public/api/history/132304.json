@@ -1,0 +1,27 @@
+{
+  "code": "132304",
+  "records": [
+    {
+      "code": "132304",
+      "file": "areacodes/data/1992.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新乐市",
+      "parent_code": "132300",
+      "path": "河北省/石家庄地区/新乐市",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "code": "132304",
+      "file": "gb2260/mca/199212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新乐市",
+      "parent_code": "132300",
+      "path": "河北省/石家庄地区/新乐市",
+      "revision": "199212",
+      "source": "mca"
+    }
+  ]
+}

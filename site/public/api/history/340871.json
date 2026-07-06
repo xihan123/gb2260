@@ -1,0 +1,16 @@
+{
+  "code": "340871",
+  "records": [
+    {
+      "code": "340871",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "安徽安庆经济开发区",
+      "parent_code": "340800",
+      "path": "安徽省/安庆市/安徽安庆经济开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

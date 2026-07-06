@@ -1,0 +1,27 @@
+{
+  "code": "429009",
+  "records": [
+    {
+      "code": "429009",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "应城市",
+      "parent_code": "420000",
+      "path": "湖北省/应城市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "429009",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "应城市",
+      "parent_code": "420000",
+      "path": "湖北省/应城市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "code": "452504",
+  "records": [
+    {
+      "code": "452504",
+      "file": "areacodes/data/1994.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "北流市",
+      "parent_code": "452500",
+      "path": "广西壮族自治区/玉林地区/北流市",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "452504",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "北流市",
+      "parent_code": "452500",
+      "path": "广西壮族自治区/玉林地区/北流市",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "452504",
+      "file": "areacodes/data/1996.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "北流市",
+      "parent_code": "452500",
+      "path": "广西壮族自治区/玉林地区/北流市",
+      "revision": "1996",
+      "source": "areacodes"
+    },
+    {
+      "code": "452504",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "北流市",
+      "parent_code": "452500",
+      "path": "广西壮族自治区/玉林地区/北流市",
+      "revision": "199412",
+      "source": "mca"
+    },
+    {
+      "code": "452504",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "北流市",
+      "parent_code": "452500",
+      "path": "广西壮族自治区/玉林地区/北流市",
+      "revision": "199512",
+      "source": "mca"
+    },
+    {
+      "code": "452504",
+      "file": "gb2260/mca/199612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "北流市",
+      "parent_code": "452500",
+      "path": "广西壮族自治区/玉林地区/北流市",
+      "revision": "199612",
+      "source": "mca"
+    }
+  ]
+}

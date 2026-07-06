@@ -1,0 +1,27 @@
+{
+  "code": "442702",
+  "records": [
+    {
+      "code": "442702",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "江门市",
+      "parent_code": "442700",
+      "path": "广东省/佛山地区/江门市",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "442702",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "江门市",
+      "parent_code": "442700",
+      "path": "广东省/佛山地区/江门市",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

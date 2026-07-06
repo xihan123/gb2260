@@ -1,0 +1,71 @@
+{
+  "code": "532202",
+  "records": [
+    {
+      "code": "532202",
+      "file": "areacodes/data/1994.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宣威市",
+      "parent_code": "532200",
+      "path": "云南省/曲靖地区/宣威市",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "532202",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宣威市",
+      "parent_code": "532200",
+      "path": "云南省/曲靖地区/宣威市",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "532202",
+      "file": "areacodes/data/1996.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宣威市",
+      "parent_code": "532200",
+      "path": "云南省/曲靖地区/宣威市",
+      "revision": "1996",
+      "source": "areacodes"
+    },
+    {
+      "code": "532202",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宣威市",
+      "parent_code": "532200",
+      "path": "云南省/曲靖地区/宣威市",
+      "revision": "199412",
+      "source": "mca"
+    },
+    {
+      "code": "532202",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宣威市",
+      "parent_code": "532200",
+      "path": "云南省/曲靖地区/宣威市",
+      "revision": "199512",
+      "source": "mca"
+    },
+    {
+      "code": "532202",
+      "file": "gb2260/mca/199612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宣威市",
+      "parent_code": "532200",
+      "path": "云南省/曲靖地区/宣威市",
+      "revision": "199612",
+      "source": "mca"
+    }
+  ]
+}

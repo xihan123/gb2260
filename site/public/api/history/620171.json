@@ -1,0 +1,16 @@
+{
+  "code": "620171",
+  "records": [
+    {
+      "code": "620171",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "兰州新区",
+      "parent_code": "620100",
+      "path": "甘肃省/兰州市/兰州新区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

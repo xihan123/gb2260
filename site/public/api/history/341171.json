@@ -1,0 +1,16 @@
+{
+  "code": "341171",
+  "records": [
+    {
+      "code": "341171",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "苏滁现代产业园",
+      "parent_code": "341100",
+      "path": "安徽省/滁州市/苏滁现代产业园",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

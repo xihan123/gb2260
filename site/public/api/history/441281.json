@@ -1,0 +1,27 @@
+{
+  "code": "441281",
+  "records": [
+    {
+      "code": "441281",
+      "file": "areacodes/data/1992.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "云浮市",
+      "parent_code": "441200",
+      "path": "广东省/肇庆市/云浮市",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "code": "441281",
+      "file": "areacodes/data/1993.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "云浮市",
+      "parent_code": "441200",
+      "path": "广东省/肇庆市/云浮市",
+      "revision": "1993",
+      "source": "areacodes"
+    }
+  ]
+}

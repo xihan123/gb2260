@@ -1,0 +1,16 @@
+{
+  "code": "210706",
+  "records": [
+    {
+      "code": "210706",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "太和区",
+      "parent_code": "210700",
+      "path": "辽宁省/锦州市/太和区",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

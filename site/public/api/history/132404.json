@@ -1,0 +1,60 @@
+{
+  "code": "132404",
+  "records": [
+    {
+      "code": "132404",
+      "file": "areacodes/data/1993.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "高碑店市",
+      "parent_code": "132400",
+      "path": "河北省/保定地区/高碑店市",
+      "revision": "1993",
+      "source": "areacodes"
+    },
+    {
+      "code": "132404",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南市区",
+      "parent_code": "132400",
+      "path": "河北省/保定地区/南市区",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "132404",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南市区",
+      "parent_code": "132400",
+      "path": "河北省/保定地区/南市区",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "132404",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南市区",
+      "parent_code": "132400",
+      "path": "河北省/保定地区/南市区",
+      "revision": "198212",
+      "source": "mca"
+    },
+    {
+      "code": "132404",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "高碑店市",
+      "parent_code": "132400",
+      "path": "河北省/保定地区/高碑店市",
+      "revision": "199312",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "442137",
+  "records": [
+    {
+      "code": "442137",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙、南沙、中沙群岛",
+      "parent_code": "442100",
+      "path": "广东省/海南行政区/西沙、南沙、中沙群岛",
+      "revision": "1987",
+      "source": "areacodes"
+    }
+  ]
+}

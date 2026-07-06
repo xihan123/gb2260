@@ -1,0 +1,60 @@
+{
+  "code": "322629",
+  "records": [
+    {
+      "code": "322629",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宜兴县",
+      "parent_code": "322600",
+      "path": "江苏省/镇江地区/宜兴县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "322629",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宜兴县",
+      "parent_code": "322600",
+      "path": "江苏省/镇江地区/宜兴县",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "322629",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宜兴县",
+      "parent_code": "322600",
+      "path": "江苏省/镇江地区/宜兴县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "322629",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宜兴县",
+      "parent_code": "322600",
+      "path": "江苏省/镇江地区/宜兴县",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "322629",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "宜兴县",
+      "parent_code": "322600",
+      "path": "江苏省/镇江地区/宜兴县",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

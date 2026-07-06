@@ -1,0 +1,27 @@
+{
+  "code": "219013",
+  "records": [
+    {
+      "code": "219013",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新民市",
+      "parent_code": "210000",
+      "path": "辽宁省/新民市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "219013",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "新民市",
+      "parent_code": "210000",
+      "path": "辽宁省/新民市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

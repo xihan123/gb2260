@@ -1,0 +1,115 @@
+{
+  "code": "420622",
+  "records": [
+    {
+      "code": "420622",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枣阳县",
+      "parent_code": "420600",
+      "path": "湖北省/襄樊市/枣阳县",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "420622",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枣阳县",
+      "parent_code": "420600",
+      "path": "湖北省/襄樊市/枣阳县",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "420622",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枣阳县",
+      "parent_code": "420600",
+      "path": "湖北省/襄樊市/枣阳县",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "420622",
+      "file": "areacodes/data/1986.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枣阳县",
+      "parent_code": "420600",
+      "path": "湖北省/襄樊市/枣阳县",
+      "revision": "1986",
+      "source": "areacodes"
+    },
+    {
+      "code": "420622",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枣阳县",
+      "parent_code": "420600",
+      "path": "湖北省/襄樊市/枣阳县",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "420622",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枣阳县",
+      "parent_code": "420600",
+      "path": "湖北省/襄樊市/枣阳县",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "code": "420622",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枣阳县",
+      "parent_code": "420600",
+      "path": "湖北省/襄樊市/枣阳县",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "code": "420622",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枣阳县",
+      "parent_code": "420600",
+      "path": "湖北省/襄樊市/枣阳县",
+      "revision": "198512",
+      "source": "mca"
+    },
+    {
+      "code": "420622",
+      "file": "gb2260/mca/198612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枣阳县",
+      "parent_code": "420600",
+      "path": "湖北省/襄樊市/枣阳县",
+      "revision": "198612",
+      "source": "mca"
+    },
+    {
+      "code": "420622",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "枣阳县",
+      "parent_code": "420600",
+      "path": "湖北省/襄樊市/枣阳县",
+      "revision": "198712",
+      "source": "mca"
+    }
+  ]
+}

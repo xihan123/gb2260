@@ -1,0 +1,16 @@
+{
+  "code": "149003",
+  "records": [
+    {
+      "code": "149003",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "潞城市",
+      "parent_code": "140000",
+      "path": "山西省/潞城市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

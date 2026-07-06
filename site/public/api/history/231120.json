@@ -1,0 +1,27 @@
+{
+  "code": "231120",
+  "records": [
+    {
+      "code": "231120",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "绥芬河市",
+      "parent_code": "230000",
+      "path": "黑龙江省/绥芬河市",
+      "revision": "198412",
+      "source": "mca"
+    },
+    {
+      "code": "231120",
+      "file": "gb2260/mca/198512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "绥芬河市",
+      "parent_code": "230000",
+      "path": "黑龙江省/绥芬河市",
+      "revision": "198512",
+      "source": "mca"
+    }
+  ]
+}

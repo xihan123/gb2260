@@ -1,0 +1,16 @@
+{
+  "code": "130771",
+  "records": [
+    {
+      "code": "130771",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "张家口市高新技术产业开发区",
+      "parent_code": "130700",
+      "path": "河北省/张家口市/张家口市高新技术产业开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

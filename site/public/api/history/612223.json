@@ -1,0 +1,60 @@
+{
+  "code": "612223",
+  "records": [
+    {
+      "code": "612223",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "户县",
+      "parent_code": "612200",
+      "path": "陕西省/咸阳地区/户县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "612223",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "户县",
+      "parent_code": "612200",
+      "path": "陕西省/咸阳地区/户县",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "612223",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "泾阳县",
+      "parent_code": "612200",
+      "path": "陕西省/咸阳地区/泾阳县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "612223",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "泾阳县",
+      "parent_code": "612200",
+      "path": "陕西省/咸阳地区/泾阳县",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "612223",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "泾阳县",
+      "parent_code": "612200",
+      "path": "陕西省/咸阳地区/泾阳县",
+      "revision": "198212",
+      "source": "mca"
+    }
+  ]
+}

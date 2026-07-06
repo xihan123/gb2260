@@ -1,0 +1,16 @@
+{
+  "code": "410171",
+  "records": [
+    {
+      "code": "410171",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "郑州经济技术开发区",
+      "parent_code": "410100",
+      "path": "河南省/郑州市/郑州经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

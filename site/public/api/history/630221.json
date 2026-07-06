@@ -1,0 +1,93 @@
+{
+  "code": "630221",
+  "records": [
+    {
+      "code": "630221",
+      "file": "areacodes/data/2013.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平安县",
+      "parent_code": "630200",
+      "path": "青海省/海东市/平安县",
+      "revision": "2013",
+      "source": "areacodes"
+    },
+    {
+      "code": "630221",
+      "file": "areacodes/data/2014.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平安县",
+      "parent_code": "630200",
+      "path": "青海省/海东市/平安县",
+      "revision": "2014",
+      "source": "areacodes"
+    },
+    {
+      "code": "630221",
+      "file": "gb2260/mca/201312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平安县",
+      "parent_code": "630200",
+      "path": "青海省/海东市/平安县",
+      "revision": "201312",
+      "source": "mca"
+    },
+    {
+      "code": "630221",
+      "file": "gb2260/mca/201412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平安县",
+      "parent_code": "630200",
+      "path": "青海省/海东市/平安县",
+      "revision": "201412",
+      "source": "mca"
+    },
+    {
+      "code": "630221",
+      "file": "gb2260/mca/201501.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平安县",
+      "parent_code": "630200",
+      "path": "青海省/海东市/平安县",
+      "revision": "201501",
+      "source": "mca"
+    },
+    {
+      "code": "630221",
+      "file": "gb2260/mca/201502.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平安县",
+      "parent_code": "630200",
+      "path": "青海省/海东市/平安县",
+      "revision": "201502",
+      "source": "mca"
+    },
+    {
+      "code": "630221",
+      "file": "gb2260/stats/201308.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平安县",
+      "parent_code": "630200",
+      "path": "青海省/海东市/平安县",
+      "revision": "201308",
+      "source": "stats"
+    },
+    {
+      "code": "630221",
+      "file": "gb2260/stats/201410.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "平安县",
+      "parent_code": "630200",
+      "path": "青海省/海东市/平安县",
+      "revision": "201410",
+      "source": "stats"
+    }
+  ]
+}

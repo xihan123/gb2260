@@ -1,0 +1,170 @@
+{
+  "code": "540600",
+  "records": [
+    {
+      "code": "540600",
+      "file": "areacodes/data/2017.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "那曲市",
+      "parent_code": "540000",
+      "path": "西藏自治区/那曲市",
+      "revision": "2017",
+      "source": "areacodes"
+    },
+    {
+      "code": "540600",
+      "file": "areacodes/data/2018.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "那曲市",
+      "parent_code": "540000",
+      "path": "西藏自治区/那曲市",
+      "revision": "2018",
+      "source": "areacodes"
+    },
+    {
+      "code": "540600",
+      "file": "areacodes/data/2019.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "那曲市",
+      "parent_code": "540000",
+      "path": "西藏自治区/那曲市",
+      "revision": "2019",
+      "source": "areacodes"
+    },
+    {
+      "code": "540600",
+      "file": "areacodes/data/2020.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "那曲市",
+      "parent_code": "540000",
+      "path": "西藏自治区/那曲市",
+      "revision": "2020",
+      "source": "areacodes"
+    },
+    {
+      "code": "540600",
+      "file": "areacodes/data/2021.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "那曲市",
+      "parent_code": "540000",
+      "path": "西藏自治区/那曲市",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "code": "540600",
+      "file": "areacodes/data/2022.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "那曲市",
+      "parent_code": "540000",
+      "path": "西藏自治区/那曲市",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "code": "540600",
+      "file": "areacodes/data/2023.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "那曲市",
+      "parent_code": "540000",
+      "path": "西藏自治区/那曲市",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "540600",
+      "file": "areacodes/data/2024.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "那曲市",
+      "parent_code": "540000",
+      "path": "西藏自治区/那曲市",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "540600",
+      "file": "areacodes/data/2025.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "那曲市",
+      "parent_code": "540000",
+      "path": "西藏自治区/那曲市",
+      "revision": "2025",
+      "source": "areacodes"
+    },
+    {
+      "code": "540600",
+      "file": "gb2260/mca/201710.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "那曲市",
+      "parent_code": "540000",
+      "path": "西藏自治区/那曲市",
+      "revision": "201710",
+      "source": "mca"
+    },
+    {
+      "code": "540600",
+      "file": "gb2260/mca/201711.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "那曲市",
+      "parent_code": "540000",
+      "path": "西藏自治区/那曲市",
+      "revision": "201711",
+      "source": "mca"
+    },
+    {
+      "code": "540600",
+      "file": "gb2260/mca/201712.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "那曲市",
+      "parent_code": "540000",
+      "path": "西藏自治区/那曲市",
+      "revision": "201712",
+      "source": "mca"
+    },
+    {
+      "code": "540600",
+      "file": "gb2260/mca/201801.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "那曲市",
+      "parent_code": "540000",
+      "path": "西藏自治区/那曲市",
+      "revision": "201801",
+      "source": "mca"
+    },
+    {
+      "code": "540600",
+      "file": "gb2260/mca/201904.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "那曲市",
+      "parent_code": "540000",
+      "path": "西藏自治区/那曲市",
+      "revision": "201904",
+      "source": "mca"
+    },
+    {
+      "code": "540600",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "那曲市",
+      "parent_code": "540000",
+      "path": "西藏自治区/那曲市",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

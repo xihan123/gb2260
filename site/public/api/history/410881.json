@@ -1,0 +1,225 @@
+{
+  "code": "410881",
+  "records": [
+    {
+      "code": "410881",
+      "file": "areacodes/data/1990.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "1990",
+      "source": "areacodes"
+    },
+    {
+      "code": "410881",
+      "file": "areacodes/data/1991.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "1991",
+      "source": "areacodes"
+    },
+    {
+      "code": "410881",
+      "file": "areacodes/data/1992.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "code": "410881",
+      "file": "areacodes/data/1993.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "1993",
+      "source": "areacodes"
+    },
+    {
+      "code": "410881",
+      "file": "areacodes/data/1994.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "410881",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "410881",
+      "file": "gb2260/200212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "200212",
+      "source": "gb"
+    },
+    {
+      "code": "410881",
+      "file": "gb2260/200712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "200712",
+      "source": "gb"
+    },
+    {
+      "code": "410881",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "199512",
+      "source": "mca"
+    },
+    {
+      "code": "410881",
+      "file": "gb2260/mca/199612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "199612",
+      "source": "mca"
+    },
+    {
+      "code": "410881",
+      "file": "gb2260/stats/200212.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "200212",
+      "source": "stats"
+    },
+    {
+      "code": "410881",
+      "file": "gb2260/stats/200306.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "200306",
+      "source": "stats"
+    },
+    {
+      "code": "410881",
+      "file": "gb2260/stats/200312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "200312",
+      "source": "stats"
+    },
+    {
+      "code": "410881",
+      "file": "gb2260/stats/200403.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "200403",
+      "source": "stats"
+    },
+    {
+      "code": "410881",
+      "file": "gb2260/stats/200409.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "200409",
+      "source": "stats"
+    },
+    {
+      "code": "410881",
+      "file": "gb2260/stats/200412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "200412",
+      "source": "stats"
+    },
+    {
+      "code": "410881",
+      "file": "gb2260/stats/200506.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "200506",
+      "source": "stats"
+    },
+    {
+      "code": "410881",
+      "file": "gb2260/stats/200512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "200512",
+      "source": "stats"
+    },
+    {
+      "code": "410881",
+      "file": "gb2260/stats/200612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "200612",
+      "source": "stats"
+    },
+    {
+      "code": "410881",
+      "file": "gb2260/stats/200712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "济源市",
+      "parent_code": "410800",
+      "path": "河南省/焦作市/济源市",
+      "revision": "200712",
+      "source": "stats"
+    }
+  ]
+}

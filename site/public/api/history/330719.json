@@ -1,0 +1,16 @@
+{
+  "code": "330719",
+  "records": [
+    {
+      "code": "330719",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "兰溪市",
+      "parent_code": "330700",
+      "path": "浙江省/金华市/兰溪市",
+      "revision": "1985",
+      "source": "areacodes"
+    }
+  ]
+}

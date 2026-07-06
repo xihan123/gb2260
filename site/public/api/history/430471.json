@@ -1,0 +1,16 @@
+{
+  "code": "430471",
+  "records": [
+    {
+      "code": "430471",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "衡阳综合保税区",
+      "parent_code": "430400",
+      "path": "湖南省/衡阳市/衡阳综合保税区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

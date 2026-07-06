@@ -1,0 +1,38 @@
+{
+  "code": "540581",
+  "records": [
+    {
+      "code": "540581",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "错那市",
+      "parent_code": "540500",
+      "path": "西藏自治区/山南市/错那市",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "540581",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "错那市",
+      "parent_code": "540500",
+      "path": "西藏自治区/山南市/错那市",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "540581",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "错那市",
+      "parent_code": "540500",
+      "path": "西藏自治区/山南市/错那市",
+      "revision": "2025",
+      "source": "areacodes"
+    }
+  ]
+}

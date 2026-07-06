@@ -1,0 +1,71 @@
+{
+  "code": "370614",
+  "records": [
+    {
+      "code": "370614",
+      "file": "areacodes/data/2020.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "蓬莱区",
+      "parent_code": "370600",
+      "path": "山东省/烟台市/蓬莱区",
+      "revision": "2020",
+      "source": "areacodes"
+    },
+    {
+      "code": "370614",
+      "file": "areacodes/data/2021.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "蓬莱区",
+      "parent_code": "370600",
+      "path": "山东省/烟台市/蓬莱区",
+      "revision": "2021",
+      "source": "areacodes"
+    },
+    {
+      "code": "370614",
+      "file": "areacodes/data/2022.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "蓬莱区",
+      "parent_code": "370600",
+      "path": "山东省/烟台市/蓬莱区",
+      "revision": "2022",
+      "source": "areacodes"
+    },
+    {
+      "code": "370614",
+      "file": "areacodes/data/2023.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "蓬莱区",
+      "parent_code": "370600",
+      "path": "山东省/烟台市/蓬莱区",
+      "revision": "2023",
+      "source": "areacodes"
+    },
+    {
+      "code": "370614",
+      "file": "areacodes/data/2024.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "蓬莱区",
+      "parent_code": "370600",
+      "path": "山东省/烟台市/蓬莱区",
+      "revision": "2024",
+      "source": "areacodes"
+    },
+    {
+      "code": "370614",
+      "file": "areacodes/data/2025.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "蓬莱区",
+      "parent_code": "370600",
+      "path": "山东省/烟台市/蓬莱区",
+      "revision": "2025",
+      "source": "areacodes"
+    }
+  ]
+}

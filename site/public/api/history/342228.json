@@ -1,0 +1,27 @@
+{
+  "code": "342228",
+  "records": [
+    {
+      "code": "342228",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "固镇县",
+      "parent_code": "342200",
+      "path": "安徽省/宿县地区/固镇县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "342228",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "固镇县",
+      "parent_code": "342200",
+      "path": "安徽省/宿县地区/固镇县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

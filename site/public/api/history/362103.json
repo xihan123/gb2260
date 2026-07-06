@@ -1,0 +1,71 @@
+{
+  "code": "362103",
+  "records": [
+    {
+      "code": "362103",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南康市",
+      "parent_code": "362100",
+      "path": "江西省/赣州地区/南康市",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "362103",
+      "file": "areacodes/data/1996.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南康市",
+      "parent_code": "362100",
+      "path": "江西省/赣州地区/南康市",
+      "revision": "1996",
+      "source": "areacodes"
+    },
+    {
+      "code": "362103",
+      "file": "areacodes/data/1997.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南康市",
+      "parent_code": "362100",
+      "path": "江西省/赣州地区/南康市",
+      "revision": "1997",
+      "source": "areacodes"
+    },
+    {
+      "code": "362103",
+      "file": "gb2260/mca/199512.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南康市",
+      "parent_code": "362100",
+      "path": "江西省/赣州地区/南康市",
+      "revision": "199512",
+      "source": "mca"
+    },
+    {
+      "code": "362103",
+      "file": "gb2260/mca/199612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南康市",
+      "parent_code": "362100",
+      "path": "江西省/赣州地区/南康市",
+      "revision": "199612",
+      "source": "mca"
+    },
+    {
+      "code": "362103",
+      "file": "gb2260/mca/199712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "南康市",
+      "parent_code": "362100",
+      "path": "江西省/赣州地区/南康市",
+      "revision": "199712",
+      "source": "mca"
+    }
+  ]
+}

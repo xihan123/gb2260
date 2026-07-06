@@ -1,0 +1,148 @@
+{
+  "code": "460037",
+  "records": [
+    {
+      "code": "460037",
+      "file": "areacodes/data/1988.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460000",
+      "path": "海南省/西沙群岛",
+      "revision": "1988",
+      "source": "areacodes"
+    },
+    {
+      "code": "460037",
+      "file": "areacodes/data/1989.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460000",
+      "path": "海南省/西沙群岛",
+      "revision": "1989",
+      "source": "areacodes"
+    },
+    {
+      "code": "460037",
+      "file": "areacodes/data/1990.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460000",
+      "path": "海南省/西沙群岛",
+      "revision": "1990",
+      "source": "areacodes"
+    },
+    {
+      "code": "460037",
+      "file": "areacodes/data/1991.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460000",
+      "path": "海南省/西沙群岛",
+      "revision": "1991",
+      "source": "areacodes"
+    },
+    {
+      "code": "460037",
+      "file": "areacodes/data/1992.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460000",
+      "path": "海南省/西沙群岛",
+      "revision": "1992",
+      "source": "areacodes"
+    },
+    {
+      "code": "460037",
+      "file": "areacodes/data/1993.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460000",
+      "path": "海南省/西沙群岛",
+      "revision": "1993",
+      "source": "areacodes"
+    },
+    {
+      "code": "460037",
+      "file": "areacodes/data/1994.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460000",
+      "path": "海南省/西沙群岛",
+      "revision": "1994",
+      "source": "areacodes"
+    },
+    {
+      "code": "460037",
+      "file": "areacodes/data/1995.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460000",
+      "path": "海南省/西沙群岛",
+      "revision": "1995",
+      "source": "areacodes"
+    },
+    {
+      "code": "460037",
+      "file": "areacodes/data/1996.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460000",
+      "path": "海南省/西沙群岛",
+      "revision": "1996",
+      "source": "areacodes"
+    },
+    {
+      "code": "460037",
+      "file": "areacodes/data/1997.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460000",
+      "path": "海南省/西沙群岛",
+      "revision": "1997",
+      "source": "areacodes"
+    },
+    {
+      "code": "460037",
+      "file": "areacodes/data/1998.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460000",
+      "path": "海南省/西沙群岛",
+      "revision": "1998",
+      "source": "areacodes"
+    },
+    {
+      "code": "460037",
+      "file": "areacodes/data/1999.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460000",
+      "path": "海南省/西沙群岛",
+      "revision": "1999",
+      "source": "areacodes"
+    },
+    {
+      "code": "460037",
+      "file": "areacodes/data/2000.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "西沙群岛",
+      "parent_code": "460000",
+      "path": "海南省/西沙群岛",
+      "revision": "2000",
+      "source": "areacodes"
+    }
+  ]
+}

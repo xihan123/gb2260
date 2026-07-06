@@ -1,0 +1,16 @@
+{
+  "code": "341271",
+  "records": [
+    {
+      "code": "341271",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "阜阳合肥现代产业园区",
+      "parent_code": "341200",
+      "path": "安徽省/阜阳市/阜阳合肥现代产业园区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

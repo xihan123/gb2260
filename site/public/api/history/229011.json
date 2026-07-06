@@ -1,0 +1,27 @@
+{
+  "code": "229011",
+  "records": [
+    {
+      "code": "229011",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "临江市",
+      "parent_code": "220000",
+      "path": "吉林省/临江市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "229011",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "临江市",
+      "parent_code": "220000",
+      "path": "吉林省/临江市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

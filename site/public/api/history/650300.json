@@ -1,0 +1,104 @@
+{
+  "code": "650300",
+  "records": [
+    {
+      "code": "650300",
+      "file": "areacodes/data/1981.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "石河子市",
+      "parent_code": "650000",
+      "path": "新疆维吾尔自治区/石河子市",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "650300",
+      "file": "areacodes/data/1982.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "石河子市",
+      "parent_code": "650000",
+      "path": "新疆维吾尔自治区/石河子市",
+      "revision": "1982",
+      "source": "areacodes"
+    },
+    {
+      "code": "650300",
+      "file": "areacodes/data/1983.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "石河子市",
+      "parent_code": "650000",
+      "path": "新疆维吾尔自治区/石河子市",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "650300",
+      "file": "areacodes/data/1984.txt",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "石河子市",
+      "parent_code": "650000",
+      "path": "新疆维吾尔自治区/石河子市",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "650300",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "石河子市",
+      "parent_code": "650000",
+      "path": "新疆维吾尔自治区/石河子市",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "650300",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "石河子市",
+      "parent_code": "650000",
+      "path": "新疆维吾尔自治区/石河子市",
+      "revision": "198112",
+      "source": "mca"
+    },
+    {
+      "code": "650300",
+      "file": "gb2260/mca/198212.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "石河子市",
+      "parent_code": "650000",
+      "path": "新疆维吾尔自治区/石河子市",
+      "revision": "198212",
+      "source": "mca"
+    },
+    {
+      "code": "650300",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "石河子市",
+      "parent_code": "650000",
+      "path": "新疆维吾尔自治区/石河子市",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "code": "650300",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "prefecture",
+      "level_label": "地级",
+      "name": "石河子市",
+      "parent_code": "650000",
+      "path": "新疆维吾尔自治区/石河子市",
+      "revision": "198412",
+      "source": "mca"
+    }
+  ]
+}

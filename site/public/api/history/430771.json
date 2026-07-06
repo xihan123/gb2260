@@ -1,0 +1,16 @@
+{
+  "code": "430771",
+  "records": [
+    {
+      "code": "430771",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "常德市西洞庭管理区",
+      "parent_code": "430700",
+      "path": "湖南省/常德市/常德市西洞庭管理区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

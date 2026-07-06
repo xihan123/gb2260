@@ -1,0 +1,27 @@
+{
+  "code": "412427",
+  "records": [
+    {
+      "code": "412427",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "巩县",
+      "parent_code": "412400",
+      "path": "河南省/开封地区/巩县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "412427",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "巩县",
+      "parent_code": "412400",
+      "path": "河南省/开封地区/巩县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "code": "512729",
+  "records": [
+    {
+      "code": "512729",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大邑县",
+      "parent_code": "512700",
+      "path": "四川省/温江地区/大邑县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "512729",
+      "file": "areacodes/data/1982.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "大邑县",
+      "parent_code": "512700",
+      "path": "四川省/温江地区/大邑县",
+      "revision": "1982",
+      "source": "areacodes"
+    }
+  ]
+}

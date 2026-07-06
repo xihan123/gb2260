@@ -1,0 +1,27 @@
+{
+  "code": "139011",
+  "records": [
+    {
+      "code": "139011",
+      "file": "gb2260/mca/199312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "河间市",
+      "parent_code": "130000",
+      "path": "河北省/河间市",
+      "revision": "199312",
+      "source": "mca"
+    },
+    {
+      "code": "139011",
+      "file": "gb2260/mca/199412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "河间市",
+      "parent_code": "130000",
+      "path": "河北省/河间市",
+      "revision": "199412",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "code": "332430",
+  "records": [
+    {
+      "code": "332430",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "龙游县",
+      "parent_code": "332400",
+      "path": "浙江省/金华地区/龙游县",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "332430",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "龙游县",
+      "parent_code": "332400",
+      "path": "浙江省/金华地区/龙游县",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "332430",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "金华县",
+      "parent_code": "332400",
+      "path": "浙江省/金华地区/金华县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "332430",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "龙游县",
+      "parent_code": "332400",
+      "path": "浙江省/金华地区/龙游县",
+      "revision": "198312",
+      "source": "mca"
+    },
+    {
+      "code": "332430",
+      "file": "gb2260/mca/198412.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "龙游县",
+      "parent_code": "332400",
+      "path": "浙江省/金华地区/龙游县",
+      "revision": "198412",
+      "source": "mca"
+    }
+  ]
+}

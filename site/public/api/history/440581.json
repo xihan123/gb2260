@@ -1,0 +1,16 @@
+{
+  "code": "440581",
+  "records": [
+    {
+      "code": "440581",
+      "file": "areacodes/data/1990.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "潮州市",
+      "parent_code": "440500",
+      "path": "广东省/汕头市/潮州市",
+      "revision": "1990",
+      "source": "areacodes"
+    }
+  ]
+}

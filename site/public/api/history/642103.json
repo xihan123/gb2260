@@ -1,0 +1,49 @@
+{
+  "code": "642103",
+  "records": [
+    {
+      "code": "642103",
+      "file": "areacodes/data/1996.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "灵武市",
+      "parent_code": "642100",
+      "path": "宁夏回族自治区/银南地区/灵武市",
+      "revision": "1996",
+      "source": "areacodes"
+    },
+    {
+      "code": "642103",
+      "file": "areacodes/data/1997.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "灵武市",
+      "parent_code": "642100",
+      "path": "宁夏回族自治区/银南地区/灵武市",
+      "revision": "1997",
+      "source": "areacodes"
+    },
+    {
+      "code": "642103",
+      "file": "gb2260/mca/199612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "灵武市",
+      "parent_code": "642100",
+      "path": "宁夏回族自治区/银南地区/灵武市",
+      "revision": "199612",
+      "source": "mca"
+    },
+    {
+      "code": "642103",
+      "file": "gb2260/mca/199712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "灵武市",
+      "parent_code": "642100",
+      "path": "宁夏回族自治区/银南地区/灵武市",
+      "revision": "199712",
+      "source": "mca"
+    }
+  ]
+}

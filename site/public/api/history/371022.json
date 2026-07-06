@@ -1,0 +1,27 @@
+{
+  "code": "371022",
+  "records": [
+    {
+      "code": "371022",
+      "file": "areacodes/data/1987.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "文登县",
+      "parent_code": "371000",
+      "path": "山东省/威海市/文登县",
+      "revision": "1987",
+      "source": "areacodes"
+    },
+    {
+      "code": "371022",
+      "file": "gb2260/mca/198712.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "文登县",
+      "parent_code": "371000",
+      "path": "山东省/威海市/文登县",
+      "revision": "198712",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "code": "320520",
+  "records": [
+    {
+      "code": "320520",
+      "file": "areacodes/data/1983.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "常熟市",
+      "parent_code": "320500",
+      "path": "江苏省/苏州市/常熟市",
+      "revision": "1983",
+      "source": "areacodes"
+    },
+    {
+      "code": "320520",
+      "file": "areacodes/data/1984.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "常熟市",
+      "parent_code": "320500",
+      "path": "江苏省/苏州市/常熟市",
+      "revision": "1984",
+      "source": "areacodes"
+    },
+    {
+      "code": "320520",
+      "file": "areacodes/data/1985.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "常熟市",
+      "parent_code": "320500",
+      "path": "江苏省/苏州市/常熟市",
+      "revision": "1985",
+      "source": "areacodes"
+    },
+    {
+      "code": "320520",
+      "file": "gb2260/mca/198312.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "常熟市",
+      "parent_code": "320500",
+      "path": "江苏省/苏州市/常熟市",
+      "revision": "198312",
+      "source": "mca"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "code": "650171",
+  "records": [
+    {
+      "code": "650171",
+      "file": "gb2260/stats/201810.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "乌鲁木齐经济技术开发区",
+      "parent_code": "650100",
+      "path": "新疆维吾尔自治区/乌鲁木齐市/乌鲁木齐经济技术开发区",
+      "revision": "201810",
+      "source": "stats"
+    }
+  ]
+}

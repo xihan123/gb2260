@@ -1,0 +1,38 @@
+{
+  "code": "232323",
+  "records": [
+    {
+      "code": "232323",
+      "file": "areacodes/data/1981.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "绥化县",
+      "parent_code": "232300",
+      "path": "黑龙江省/绥化地区/绥化县",
+      "revision": "1981",
+      "source": "areacodes"
+    },
+    {
+      "code": "232323",
+      "file": "gb2260/mca/198012.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "绥化县",
+      "parent_code": "232300",
+      "path": "黑龙江省/绥化地区/绥化县",
+      "revision": "198012",
+      "source": "mca"
+    },
+    {
+      "code": "232323",
+      "file": "gb2260/mca/198112.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "绥化县",
+      "parent_code": "232300",
+      "path": "黑龙江省/绥化地区/绥化县",
+      "revision": "198112",
+      "source": "mca"
+    }
+  ]
+}

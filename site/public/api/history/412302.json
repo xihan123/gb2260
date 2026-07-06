@@ -1,0 +1,27 @@
+{
+  "code": "412302",
+  "records": [
+    {
+      "code": "412302",
+      "file": "areacodes/data/1996.txt",
+      "level": "county",
+      "level_label": "县级",
+      "name": "永城市",
+      "parent_code": "412300",
+      "path": "河南省/商丘地区/永城市",
+      "revision": "1996",
+      "source": "areacodes"
+    },
+    {
+      "code": "412302",
+      "file": "gb2260/mca/199612.tsv",
+      "level": "county",
+      "level_label": "县级",
+      "name": "永城市",
+      "parent_code": "412300",
+      "path": "河南省/商丘地区/永城市",
+      "revision": "199612",
+      "source": "mca"
+    }
+  ]
+}
