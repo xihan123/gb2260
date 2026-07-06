@@ -28,6 +28,8 @@ DATA_FILES = {
     "source_areas.csv": ("CSV", "GB2260 各来源版本快照"),
 }
 
+STATIC_FILE_SIZE_LIMIT = 25 * 1024 * 1024
+
 SCHEMA = {
     "areas": {
         "code": "6 位行政区划代码",
@@ -195,6 +197,10 @@ def file_entry(path: Path, public_root: Path, title: str, kind: str, description
     }
 
 
+def can_publish_static_file(path: Path) -> bool:
+    return path.stat().st_size <= STATIC_FILE_SIZE_LIMIT
+
+
 def run_frontend_build() -> None:
     if not (ROOT / "package.json").exists():
         raise FileNotFoundError("missing package.json; cannot build frontend")
@@ -209,6 +215,10 @@ def write_checksums(downloads: Path) -> Path:
     rows = (f"{sha256(path)}  {path.name}" for path in sorted(downloads.iterdir()) if path.is_file() and path != target)
     target.write_text("\n".join(rows) + "\n", encoding="utf-8")
     return target
+
+
+def oversized_static_files(public_dir: Path) -> list[Path]:
+    return [path for path in public_dir.rglob("*") if path.is_file() and not can_publish_static_file(path)]
 
 
 def build_site(build_dir: Path, src_dir: Path, public_dir: Path, build_frontend: bool = True) -> dict:
@@ -258,22 +268,24 @@ def build_site(build_dir: Path, src_dir: Path, public_dir: Path, build_frontend:
         for row in areas
     ]
 
-    copied_files = []
+    package_files = []
     file_entries = []
     for name, (kind, description) in DATA_FILES.items():
         source = build_dir / name
+        package_files.append(source)
+        if not can_publish_static_file(source):
+            continue
         target = downloads / name
         shutil.copy2(source, target)
-        copied_files.append(target)
         file_entries.append(file_entry(target, public_dir, name, kind, description))
 
     content_hash = hashlib.sha256()
-    for path in copied_files:
+    for path in package_files:
         content_hash.update(sha256(path).encode("ascii"))
     version = f"gb2260-data-{latest}-{content_hash.hexdigest()[:8]}"
-    package = package_downloads(downloads, version, copied_files)
+    package = package_downloads(downloads, version, package_files)
     checksums = write_checksums(downloads)
-    file_entries.append(file_entry(package, public_dir, package.name, "ZIP", "完整数据包"))
+    file_entries.append(file_entry(package, public_dir, package.name, "ZIP", "完整数据包，含 SQLite 与来源版本快照"))
     file_entries.append(file_entry(checksums, public_dir, checksums.name, "TXT", "下载文件 SHA256 校验和"))
 
     province_codes = {row["code"] for row in areas if row["level"] == "province"}
@@ -339,6 +351,8 @@ def build_site(build_dir: Path, src_dir: Path, public_dir: Path, build_frontend:
     assert (downloads / "checksums.txt").exists(), "missing checksums"
     assert groups, "no province area files generated"
     assert (history_dir / "110101.json").exists(), "missing history file for 110101"
+    too_large = oversized_static_files(public_dir)
+    assert not too_large, f"static files exceed 25MiB: {', '.join(str(path.relative_to(public_dir)) for path in too_large)}"
     return summary
 
 

@@ -54,7 +54,7 @@ python main.py code 110101
 
 ## 数据产物
 
-构建结果位于 `data/build/`，发布下载文件位于 `site/public/downloads/`。
+构建结果位于 `data/build/`，静态站点下载文件位于 `site/public/downloads/`；为兼容 EdgeOne 单文件 25MiB 限制，`areas.sqlite` 和 `source_areas.csv` 随完整 ZIP 包提供。
 
 | 文件 | 格式 | 内容 |
 | --- | --- | --- |
@@ -118,7 +118,7 @@ curl -L "https://xihan123.github.io/gb2260/api/history/110101.json"
 - `持续集成`：编译 Python 脚本，构建数据和站点，运行烟测查询和 Go API 测试。
 - `更新数据`：每周一自动拉取上游数据，变更后提交 `data/raw`、`data/build`、`cloud-functions/data`、`site/public`。
 - `部署 GitHub Pages`：推送到 `main` 或 `master` 后构建并发布 `site/public`。
-- `发布数据`：打 tag 或手动触发，上传 CSV、JSON、DAT、SQLite、完整 ZIP 和校验文件到 GitHub Release。
+- `发布数据`：打 tag 或手动触发，上传 CSV、JSON、DAT、完整 ZIP 和校验文件到 GitHub Release；SQLite 与来源版本快照包含在完整 ZIP 内。
 
 ## 数据来源与许可
 

@@ -79,7 +79,7 @@ jobs:
             "",
             "## 发布资产",
             "",
-            "本次发布包含 CSV、JSON、DAT、SQLite、完整 ZIP 包和 SHA256 校验文件。",
+            "本次发布包含 CSV、JSON、DAT、完整 ZIP 包和 SHA256 校验文件；SQLite 与来源版本快照包含在完整 ZIP 包内。",
             "",
             "## 数据来源",
             "",

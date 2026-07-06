@@ -48,14 +48,6 @@
       "title": "areas.dat"
     },
     {
-      "bytes": 65134592,
-      "description": "离线关系数据库",
-      "format": "SQLite",
-      "path": "downloads/areas.sqlite",
-      "sha256": "1ea9f0d6fb52ba720069d5f0cc84bd3dc375f17bb153544c9ba8ac17f7a22f96",
-      "title": "areas.sqlite"
-    },
-    {
       "bytes": 1078467,
       "description": "新增、撤销、改名、旧新代码映射",
       "format": "CSV",
@@ -80,31 +72,23 @@
       "title": "plate_codes.csv"
     },
     {
-      "bytes": 46053298,
-      "description": "GB2260 各来源版本快照",
-      "format": "CSV",
-      "path": "downloads/source_areas.csv",
-      "sha256": "d0e083b92b1a4cc61918b5165651874130193df49ee4ec6037e569089579883c",
-      "title": "source_areas.csv"
-    },
-    {
       "bytes": 17360710,
-      "description": "完整数据包",
+      "description": "完整数据包，含 SQLite 与来源版本快照",
       "format": "ZIP",
       "path": "downloads/gb2260-data-2025-87b768a8.zip",
       "sha256": "cdfee25fc0cbaaeb7eac819d77e01f1b1b4d57128c4c3d57094834086fafdc1b",
       "title": "gb2260-data-2025-87b768a8.zip"
     },
     {
-      "bytes": 735,
+      "bytes": 571,
       "description": "下载文件 SHA256 校验和",
       "format": "TXT",
       "path": "downloads/checksums.txt",
-      "sha256": "1f0357a5584c390204e763a834ba7ae25018937cd7ad44c39920d2fce94adb19",
+      "sha256": "9abee75c6d2ffa3a905f0c8a32eb8895a4d37e8794eb6a86579ce3dc7da71e8e",
       "title": "checksums.txt"
     }
   ],
-  "generated_at": "2026-07-06T17:28:19+00:00",
+  "generated_at": "2026-07-06T18:07:00+00:00",
   "latest_year": 2025,
   "sources": [
     {
