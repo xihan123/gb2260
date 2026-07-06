@@ -1,6 +1,6 @@
 @localBaseUrl = http://127.0.0.1:9000/v1
-@edgeBaseUrl = https://your-domain.example/api/v1
-@baseUrl = {{localBaseUrl}}
+@edgeBaseUrl = https://api-gb2260.xihan.website/api/v1
+@baseUrl = {{edgeBaseUrl}}
 
 ### Health
 GET {{baseUrl}}/health
