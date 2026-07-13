@@ -32,11 +32,11 @@
       "title": "areas.csv"
     },
     {
-      "bytes": 2938346,
+      "bytes": 2829905,
       "description": "按代码索引的结构化数据",
       "format": "JSON",
       "path": "downloads/areas.json",
-      "sha256": "e4844fb761ef80b912f81ffef508b12838865159d1940e83b9d6ef6195e1e619",
+      "sha256": "d5334729dc1750b168a2bbec64ec86d889e7f1af306fe05e140e0c3e39002b34",
       "title": "areas.json"
     },
     {
@@ -72,23 +72,23 @@
       "title": "plate_codes.csv"
     },
     {
-      "bytes": 17360710,
+      "bytes": 17321160,
       "description": "完整数据包，含 SQLite 与来源版本快照",
       "format": "ZIP",
-      "path": "downloads/gb2260-data-2025-87b768a8.zip",
-      "sha256": "cdfee25fc0cbaaeb7eac819d77e01f1b1b4d57128c4c3d57094834086fafdc1b",
-      "title": "gb2260-data-2025-87b768a8.zip"
+      "path": "downloads/gb2260-data-2025-ee6c7ad6.zip",
+      "sha256": "eb743c9f1658c7bf6b71daecbc230454ecf69025bd3c61c30e52ffad184574cf",
+      "title": "gb2260-data-2025-ee6c7ad6.zip"
     },
     {
-      "bytes": 571,
+      "bytes": 564,
       "description": "下载文件 SHA256 校验和",
       "format": "TXT",
       "path": "downloads/checksums.txt",
-      "sha256": "9abee75c6d2ffa3a905f0c8a32eb8895a4d37e8794eb6a86579ce3dc7da71e8e",
+      "sha256": "138c9afe7cb79b3d331e5ff459e390b77a28895ff1adf5d62d551ee4f5e8ea23",
       "title": "checksums.txt"
     }
   ],
-  "generated_at": "2026-07-06T18:07:00+00:00",
+  "generated_at": "2026-07-13T05:53:46+00:00",
   "latest_year": 2025,
   "sources": [
     {
@@ -100,5 +100,5 @@
       "url": "https://github.com/yescallop/areacodes"
     }
   ],
-  "version": "gb2260-data-2025-87b768a8"
+  "version": "gb2260-data-2025-ee6c7ad6"
 }
